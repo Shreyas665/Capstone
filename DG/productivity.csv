@@ -1,0 +1,1673 @@
+employee_id,project_id,assigned_date,tasks_assigned,tasks_completed,task_quality_score,productivity_score,remarks
+NL-002,5,2024-03-01,9,9,3.37,3.37,Consistently Effective
+NL-002,5,2024-04-01,6,4,3.5,2.33,Needs Closer Monitoring
+NL-002,5,2024-05-01,9,7,4.76,3.7,Consistently Effective
+NL-002,5,2024-07-01,9,2,1.46,0.32,Critical Underperformance
+NL-002,5,2024-08-01,5,2,2.44,0.98,Critical Underperformance
+NL-002,5,2024-10-01,4,2,3.64,1.82,Performance Improvement Plan
+NL-002,5,2024-11-01,9,7,2.2,1.71,Performance Improvement Plan
+NL-002,5,2025-01-01,9,2,3.62,0.8,Critical Underperformance
+NL-003,21,2024-03-01,9,5,3.27,1.82,Performance Improvement Plan
+NL-003,21,2024-04-01,9,6,2.89,1.93,Performance Improvement Plan
+NL-003,21,2024-05-01,6,2,0.76,0.25,Critical Underperformance
+NL-003,21,2024-07-01,4,2,3.79,1.9,Performance Improvement Plan
+NL-003,21,2024-08-01,10,5,3.82,1.91,Performance Improvement Plan
+NL-003,21,2024-10-01,3,3,4.9,4.9,Outstanding Contributor
+NL-003,21,2024-11-01,6,2,3.25,1.08,Performance Improvement Plan
+NL-003,21,2025-01-01,4,2,0.41,0.2,Critical Underperformance
+NL-008,1,2024-03-01,3,2,1.41,0.94,Critical Underperformance
+NL-008,1,2024-04-01,6,6,1.39,1.39,Performance Improvement Plan
+NL-008,1,2024-05-01,8,7,1.79,1.57,Performance Improvement Plan
+NL-008,1,2024-07-01,8,3,0.19,0.07,Critical Underperformance
+NL-008,1,2024-08-01,8,4,3.85,1.93,Performance Improvement Plan
+NL-008,1,2024-10-01,9,5,1.31,0.73,Critical Underperformance
+NL-008,1,2024-11-01,6,4,1.34,0.89,Critical Underperformance
+NL-008,1,2025-01-01,8,4,0.19,0.1,Critical Underperformance
+NL-009,2,2024-03-01,5,4,4.05,3.24,Consistently Effective
+NL-009,2,2024-04-01,3,2,4.33,2.89,Needs Closer Monitoring
+NL-009,2,2024-05-01,10,3,2.21,0.66,Critical Underperformance
+NL-009,2,2024-07-01,5,5,2.34,2.34,Needs Closer Monitoring
+NL-009,2,2024-08-01,9,3,3.14,1.05,Performance Improvement Plan
+NL-009,2,2024-10-01,7,4,0.52,0.3,Critical Underperformance
+NL-009,2,2024-11-01,9,8,0.82,0.73,Critical Underperformance
+NL-009,2,2025-01-01,8,6,2.43,1.82,Performance Improvement Plan
+NL-011,1,2024-03-01,7,6,3.32,2.85,Needs Closer Monitoring
+NL-011,1,2024-04-01,6,3,0.65,0.33,Critical Underperformance
+NL-011,1,2024-05-01,3,3,3.73,3.73,Consistently Effective
+NL-011,1,2024-07-01,7,2,0.19,0.05,Critical Underperformance
+NL-011,1,2024-08-01,6,3,1.19,0.59,Critical Underperformance
+NL-011,1,2024-10-01,7,7,0.27,0.27,Critical Underperformance
+NL-011,1,2024-11-01,8,8,2.49,2.49,Needs Closer Monitoring
+NL-011,1,2025-01-01,3,3,2.32,2.32,Needs Closer Monitoring
+NLI-003,4,2024-03-01,9,8,4.95,4.4,Outstanding Contributor
+NLI-003,4,2024-04-01,6,2,4.11,1.37,Performance Improvement Plan
+NLI-003,4,2024-05-01,9,4,2.04,0.91,Critical Underperformance
+NLI-003,4,2024-07-01,7,2,2.65,0.76,Critical Underperformance
+NLI-003,4,2024-08-01,4,3,2.34,1.75,Performance Improvement Plan
+NLI-003,4,2024-10-01,8,3,2.33,0.87,Critical Underperformance
+NLI-003,4,2024-11-01,8,6,1.99,1.49,Performance Improvement Plan
+NLI-003,4,2025-01-01,4,2,3.91,1.96,Performance Improvement Plan
+NL-016,13,2024-03-01,6,6,0.06,0.06,Critical Underperformance
+NL-016,13,2024-04-01,8,5,2.74,1.71,Performance Improvement Plan
+NL-016,13,2024-05-01,5,4,2.65,2.12,Needs Closer Monitoring
+NL-016,13,2024-07-01,10,7,2.56,1.79,Performance Improvement Plan
+NL-016,13,2024-08-01,7,3,0.62,0.27,Critical Underperformance
+NL-016,13,2024-10-01,9,5,4.32,2.4,Needs Closer Monitoring
+NL-016,13,2024-11-01,9,2,2.77,0.62,Critical Underperformance
+NL-016,13,2025-01-01,9,5,0.71,0.39,Critical Underperformance
+NL-018,18,2024-03-01,4,2,3.16,1.58,Performance Improvement Plan
+NL-018,18,2024-04-01,7,7,3.96,3.96,Consistently Effective
+NL-018,18,2024-05-01,10,4,1.86,0.74,Critical Underperformance
+NL-018,18,2024-07-01,3,2,3.28,2.19,Needs Closer Monitoring
+NL-018,18,2024-08-01,4,4,3.72,3.72,Consistently Effective
+NL-018,18,2024-10-01,5,5,3.96,3.96,Consistently Effective
+NL-018,18,2024-11-01,8,4,4.52,2.26,Needs Closer Monitoring
+NL-018,18,2025-01-01,5,5,2.69,2.69,Needs Closer Monitoring
+NL-019,22,2024-03-01,8,6,1.15,0.86,Critical Underperformance
+NL-019,22,2024-04-01,6,4,0.4,0.27,Critical Underperformance
+NL-019,22,2024-05-01,3,3,0.97,0.97,Critical Underperformance
+NL-019,22,2024-07-01,9,4,4.25,1.89,Performance Improvement Plan
+NL-019,22,2024-08-01,8,2,1.53,0.38,Critical Underperformance
+NL-019,22,2024-10-01,3,2,1.77,1.18,Performance Improvement Plan
+NL-019,22,2024-11-01,5,4,2.16,1.73,Performance Improvement Plan
+NL-019,22,2025-01-01,4,2,2.55,1.27,Performance Improvement Plan
+NL-024,20,2024-03-01,7,6,4.97,4.26,Outstanding Contributor
+NL-024,20,2024-04-01,6,3,0.37,0.18,Critical Underperformance
+NL-024,20,2024-05-01,8,5,4.61,2.88,Needs Closer Monitoring
+NL-024,20,2024-07-01,9,5,1.46,0.81,Critical Underperformance
+NL-024,20,2024-08-01,10,3,4.19,1.26,Performance Improvement Plan
+NL-024,20,2024-10-01,3,3,3.04,3.04,Consistently Effective
+NL-024,20,2024-11-01,6,3,0.69,0.34,Critical Underperformance
+NL-024,20,2025-01-01,10,9,3.61,3.25,Consistently Effective
+NL-025,27,2024-03-01,4,4,3.46,3.46,Consistently Effective
+NL-025,27,2024-04-01,9,9,1.16,1.16,Performance Improvement Plan
+NL-025,27,2024-05-01,9,4,2.2,0.98,Critical Underperformance
+NL-025,27,2024-07-01,4,3,4.64,3.48,Consistently Effective
+NL-025,27,2024-08-01,10,6,0.99,0.59,Critical Underperformance
+NL-025,27,2024-10-01,3,3,1.4,1.4,Performance Improvement Plan
+NL-025,27,2024-11-01,6,3,2.91,1.46,Performance Improvement Plan
+NL-025,27,2025-01-01,9,8,0.74,0.66,Critical Underperformance
+NL-026,15,2024-03-01,7,2,2.14,0.61,Critical Underperformance
+NL-026,15,2024-04-01,9,3,0.47,0.16,Critical Underperformance
+NL-026,15,2024-05-01,6,2,3.68,1.23,Performance Improvement Plan
+NL-026,15,2024-07-01,9,8,1.97,1.75,Performance Improvement Plan
+NL-026,15,2024-08-01,7,3,1.3,0.56,Critical Underperformance
+NL-026,15,2024-10-01,10,9,3.97,3.57,Consistently Effective
+NL-026,15,2024-11-01,7,6,4.26,3.65,Consistently Effective
+NL-026,15,2025-01-01,10,4,4.56,1.82,Performance Improvement Plan
+NL-030,8,2024-03-01,9,5,2.26,1.26,Performance Improvement Plan
+NL-030,8,2024-04-01,6,4,1.8,1.2,Performance Improvement Plan
+NL-030,8,2024-05-01,6,5,1.32,1.1,Performance Improvement Plan
+NL-030,8,2024-07-01,5,4,3.18,2.54,Needs Closer Monitoring
+NL-030,8,2024-08-01,8,2,0.75,0.19,Critical Underperformance
+NL-030,8,2024-10-01,6,4,2.34,1.56,Performance Improvement Plan
+NL-030,8,2024-11-01,5,4,2.74,2.19,Needs Closer Monitoring
+NL-030,8,2025-01-01,10,3,4.92,1.48,Performance Improvement Plan
+NL-032,22,2024-03-01,4,4,2.29,2.29,Needs Closer Monitoring
+NL-032,22,2024-04-01,3,3,3.08,3.08,Consistently Effective
+NL-032,22,2024-05-01,3,3,0.01,0.01,Critical Underperformance
+NL-032,22,2024-07-01,6,6,3.7,3.7,Consistently Effective
+NL-032,22,2024-08-01,6,3,3.98,1.99,Performance Improvement Plan
+NL-032,22,2024-10-01,6,5,2.79,2.33,Needs Closer Monitoring
+NL-032,22,2024-11-01,9,8,3.59,3.19,Consistently Effective
+NL-032,22,2025-01-01,3,2,2.59,1.73,Performance Improvement Plan
+NL-036,17,2024-03-01,5,2,0.39,0.16,Critical Underperformance
+NL-036,17,2024-04-01,5,3,0.84,0.5,Critical Underperformance
+NL-036,17,2024-05-01,7,2,2.29,0.65,Critical Underperformance
+NL-036,17,2024-07-01,4,4,4.18,4.18,Outstanding Contributor
+NL-036,17,2024-08-01,7,4,3.59,2.05,Needs Closer Monitoring
+NL-036,17,2024-10-01,9,3,3.04,1.01,Performance Improvement Plan
+NL-036,17,2024-11-01,9,5,4.11,2.28,Needs Closer Monitoring
+NL-036,17,2025-01-01,9,9,3.17,3.17,Consistently Effective
+NLI-007,19,2024-03-01,6,3,4.72,2.36,Needs Closer Monitoring
+NLI-007,19,2024-04-01,9,8,2.96,2.63,Needs Closer Monitoring
+NLI-007,19,2024-05-01,9,3,2.13,0.71,Critical Underperformance
+NLI-007,19,2024-07-01,4,4,3.64,3.64,Consistently Effective
+NLI-007,19,2024-08-01,7,2,0.0,0.0,Critical Underperformance
+NLI-007,19,2024-10-01,4,4,0.78,0.78,Critical Underperformance
+NLI-007,19,2024-11-01,3,3,4.48,4.48,Outstanding Contributor
+NLI-007,19,2025-01-01,4,2,2.55,1.27,Performance Improvement Plan
+NL-043,15,2024-03-01,7,5,2.74,1.96,Performance Improvement Plan
+NL-043,15,2024-04-01,6,6,1.22,1.22,Performance Improvement Plan
+NL-043,15,2024-05-01,7,7,0.59,0.59,Critical Underperformance
+NL-043,15,2024-07-01,5,4,1.39,1.11,Performance Improvement Plan
+NL-043,15,2024-08-01,6,6,3.29,3.29,Consistently Effective
+NL-043,15,2024-10-01,9,3,1.51,0.5,Critical Underperformance
+NL-043,15,2024-11-01,10,7,4.75,3.32,Consistently Effective
+NL-043,15,2025-01-01,9,8,3.59,3.19,Consistently Effective
+NL-044,4,2024-03-01,5,4,4.28,3.42,Consistently Effective
+NL-044,4,2024-04-01,8,2,4.62,1.16,Performance Improvement Plan
+NL-044,4,2024-05-01,8,4,4.64,2.32,Needs Closer Monitoring
+NL-044,4,2024-07-01,6,3,3.96,1.98,Performance Improvement Plan
+NL-044,4,2024-08-01,10,9,2.8,2.52,Needs Closer Monitoring
+NL-044,4,2024-10-01,8,7,3.57,3.12,Consistently Effective
+NL-044,4,2024-11-01,3,3,0.98,0.98,Critical Underperformance
+NL-044,4,2025-01-01,3,2,3.9,2.6,Needs Closer Monitoring
+NL-046,23,2024-03-01,6,4,4.03,2.69,Needs Closer Monitoring
+NL-046,23,2024-04-01,3,3,2.9,2.9,Needs Closer Monitoring
+NL-046,23,2024-05-01,4,4,0.6,0.6,Critical Underperformance
+NL-046,23,2024-07-01,7,6,3.15,2.7,Needs Closer Monitoring
+NL-046,23,2024-08-01,8,2,2.3,0.57,Critical Underperformance
+NL-046,23,2024-10-01,4,4,1.38,1.38,Performance Improvement Plan
+NL-046,23,2024-11-01,4,2,0.28,0.14,Critical Underperformance
+NL-046,23,2025-01-01,10,8,3.12,2.5,Needs Closer Monitoring
+NL-047,10,2024-03-01,7,7,2.28,2.28,Needs Closer Monitoring
+NL-047,10,2024-04-01,10,4,2.38,0.95,Critical Underperformance
+NL-047,10,2024-05-01,7,4,2.62,1.5,Performance Improvement Plan
+NL-047,10,2024-07-01,8,2,3.94,0.98,Critical Underperformance
+NL-047,10,2024-08-01,8,2,0.89,0.22,Critical Underperformance
+NL-047,10,2024-10-01,3,3,1.12,1.12,Performance Improvement Plan
+NL-047,10,2024-11-01,5,4,4.49,3.59,Consistently Effective
+NL-047,10,2025-01-01,10,7,2.01,1.41,Performance Improvement Plan
+NLI-009,19,2024-03-01,10,9,1.24,1.12,Performance Improvement Plan
+NLI-009,19,2024-04-01,5,3,1.63,0.98,Critical Underperformance
+NLI-009,19,2024-05-01,7,4,3.84,2.19,Needs Closer Monitoring
+NLI-009,19,2024-07-01,10,3,0.74,0.22,Critical Underperformance
+NLI-009,19,2024-08-01,9,8,0.46,0.41,Critical Underperformance
+NLI-009,19,2024-10-01,5,2,0.06,0.02,Critical Underperformance
+NLI-009,19,2024-11-01,3,2,0.34,0.23,Critical Underperformance
+NLI-009,19,2025-01-01,4,2,2.5,1.25,Performance Improvement Plan
+NL-054,14,2024-03-01,8,6,1.28,0.96,Critical Underperformance
+NL-054,14,2024-04-01,3,2,4.59,3.06,Consistently Effective
+NL-054,14,2024-05-01,8,2,2.97,0.74,Critical Underperformance
+NL-054,14,2024-07-01,4,3,4.36,3.27,Consistently Effective
+NL-054,14,2024-08-01,9,4,1.61,0.72,Critical Underperformance
+NL-054,14,2024-10-01,3,2,3.15,2.1,Needs Closer Monitoring
+NL-054,14,2024-11-01,7,5,3.77,2.69,Needs Closer Monitoring
+NL-054,14,2025-01-01,6,6,3.7,3.7,Consistently Effective
+NL-056,2,2024-03-01,8,4,5.0,2.5,Needs Closer Monitoring
+NL-056,2,2024-04-01,9,6,4.01,2.67,Needs Closer Monitoring
+NL-056,2,2024-05-01,4,3,2.61,1.96,Performance Improvement Plan
+NL-056,2,2024-07-01,7,3,4.03,1.73,Performance Improvement Plan
+NL-056,2,2024-08-01,7,5,3.71,2.65,Needs Closer Monitoring
+NL-056,2,2024-10-01,3,2,1.81,1.21,Performance Improvement Plan
+NL-056,2,2024-11-01,8,7,4.84,4.23,Outstanding Contributor
+NL-056,2,2025-01-01,4,3,0.4,0.3,Critical Underperformance
+NLI-010,13,2024-03-01,8,6,1.8,1.35,Performance Improvement Plan
+NLI-010,13,2024-04-01,9,4,0.54,0.24,Critical Underperformance
+NLI-010,13,2024-05-01,4,3,4.54,3.41,Consistently Effective
+NLI-010,13,2024-07-01,6,3,1.9,0.95,Critical Underperformance
+NLI-010,13,2024-08-01,9,6,0.06,0.04,Critical Underperformance
+NLI-010,13,2024-10-01,9,9,3.07,3.07,Consistently Effective
+NLI-010,13,2024-11-01,7,5,4.8,3.43,Consistently Effective
+NLI-010,13,2025-01-01,7,4,4.53,2.59,Needs Closer Monitoring
+NLI-011,6,2024-03-01,10,9,2.77,2.49,Needs Closer Monitoring
+NLI-011,6,2024-04-01,3,3,3.61,3.61,Consistently Effective
+NLI-011,6,2024-05-01,3,2,2.7,1.8,Performance Improvement Plan
+NLI-011,6,2024-07-01,7,7,3.27,3.27,Consistently Effective
+NLI-011,6,2024-08-01,6,3,2.51,1.25,Performance Improvement Plan
+NLI-011,6,2024-10-01,7,7,2.62,2.62,Needs Closer Monitoring
+NLI-011,6,2024-11-01,5,4,4.19,3.35,Consistently Effective
+NLI-011,6,2025-01-01,6,6,1.7,1.7,Performance Improvement Plan
+NL-062,1,2024-03-01,7,6,2.94,2.52,Needs Closer Monitoring
+NL-062,1,2024-04-01,9,5,0.12,0.07,Critical Underperformance
+NL-062,1,2024-05-01,8,2,3.89,0.97,Critical Underperformance
+NL-062,1,2024-07-01,9,5,4.67,2.59,Needs Closer Monitoring
+NL-062,1,2024-08-01,5,3,1.56,0.94,Critical Underperformance
+NL-062,1,2024-10-01,8,6,1.48,1.11,Performance Improvement Plan
+NL-062,1,2024-11-01,4,2,0.12,0.06,Critical Underperformance
+NL-062,1,2025-01-01,5,5,1.22,1.22,Performance Improvement Plan
+NL-063,4,2024-03-01,4,4,4.99,4.99,Outstanding Contributor
+NL-063,4,2024-04-01,9,9,3.07,3.07,Consistently Effective
+NL-063,4,2024-05-01,10,10,1.03,1.03,Performance Improvement Plan
+NL-063,4,2024-07-01,8,2,4.89,1.22,Performance Improvement Plan
+NL-063,4,2024-08-01,7,4,2.1,1.2,Performance Improvement Plan
+NL-063,4,2024-10-01,9,9,2.49,2.49,Needs Closer Monitoring
+NL-063,4,2024-11-01,10,10,4.78,4.78,Outstanding Contributor
+NL-063,4,2025-01-01,5,2,1.34,0.54,Critical Underperformance
+NLI-012,10,2024-03-01,8,8,0.91,0.91,Critical Underperformance
+NLI-012,10,2024-04-01,10,5,0.64,0.32,Critical Underperformance
+NLI-012,10,2024-05-01,6,4,1.52,1.01,Performance Improvement Plan
+NLI-012,10,2024-07-01,9,2,2.1,0.47,Critical Underperformance
+NLI-012,10,2024-08-01,7,5,2.81,2.01,Needs Closer Monitoring
+NLI-012,10,2024-10-01,7,3,1.21,0.52,Critical Underperformance
+NLI-012,10,2024-11-01,7,6,3.64,3.12,Consistently Effective
+NLI-012,10,2025-01-01,10,2,0.29,0.06,Critical Underperformance
+NL-065,13,2024-03-01,3,3,0.09,0.09,Critical Underperformance
+NL-065,13,2024-04-01,9,8,1.25,1.11,Performance Improvement Plan
+NL-065,13,2024-05-01,8,4,0.88,0.44,Critical Underperformance
+NL-065,13,2024-07-01,10,3,0.66,0.2,Critical Underperformance
+NL-065,13,2024-08-01,5,5,4.38,4.38,Outstanding Contributor
+NL-065,13,2024-10-01,4,3,1.15,0.86,Critical Underperformance
+NL-065,13,2024-11-01,10,2,0.07,0.01,Critical Underperformance
+NL-065,13,2025-01-01,10,8,0.46,0.37,Critical Underperformance
+NL-068,29,2024-03-01,8,4,1.08,0.54,Critical Underperformance
+NL-068,29,2024-04-01,3,3,2.9,2.9,Needs Closer Monitoring
+NL-068,29,2024-05-01,6,2,0.57,0.19,Critical Underperformance
+NL-068,29,2024-07-01,3,2,3.74,2.49,Needs Closer Monitoring
+NL-068,29,2024-08-01,7,5,3.25,2.32,Needs Closer Monitoring
+NL-068,29,2024-10-01,7,3,3.39,1.45,Performance Improvement Plan
+NL-068,29,2024-11-01,7,5,0.72,0.51,Critical Underperformance
+NL-068,29,2025-01-01,6,5,2.84,2.37,Needs Closer Monitoring
+NL-069,2,2024-03-01,3,2,3.83,2.55,Needs Closer Monitoring
+NL-069,2,2024-04-01,5,5,3.32,3.32,Consistently Effective
+NL-069,2,2024-05-01,7,3,4.93,2.11,Needs Closer Monitoring
+NL-069,2,2024-07-01,5,2,0.29,0.12,Critical Underperformance
+NL-069,2,2024-08-01,10,3,0.86,0.26,Critical Underperformance
+NL-069,2,2024-10-01,5,4,1.8,1.44,Performance Improvement Plan
+NL-069,2,2024-11-01,5,2,2.21,0.88,Critical Underperformance
+NL-069,2,2025-01-01,5,4,1.16,0.93,Critical Underperformance
+NL-071,21,2024-03-01,6,5,3.08,2.57,Needs Closer Monitoring
+NL-071,21,2024-04-01,7,4,3.25,1.86,Performance Improvement Plan
+NL-071,21,2024-05-01,5,4,2.48,1.98,Performance Improvement Plan
+NL-071,21,2024-07-01,4,2,3.89,1.95,Performance Improvement Plan
+NL-071,21,2024-08-01,8,3,1.9,0.71,Critical Underperformance
+NL-071,21,2024-10-01,10,6,0.5,0.3,Critical Underperformance
+NL-071,21,2024-11-01,4,4,0.96,0.96,Critical Underperformance
+NL-071,21,2025-01-01,6,4,2.8,1.87,Performance Improvement Plan
+NL-073,23,2024-03-01,9,2,3.53,0.78,Critical Underperformance
+NL-073,23,2024-04-01,7,7,3.21,3.21,Consistently Effective
+NL-073,23,2024-05-01,9,6,2.42,1.61,Performance Improvement Plan
+NL-073,23,2024-07-01,4,4,3.98,3.98,Consistently Effective
+NL-073,23,2024-08-01,4,4,2.0,2.0,Needs Closer Monitoring
+NL-073,23,2024-10-01,6,2,4.15,1.38,Performance Improvement Plan
+NL-073,23,2024-11-01,3,2,3.94,2.63,Needs Closer Monitoring
+NL-073,23,2025-01-01,10,7,1.07,0.75,Critical Underperformance
+NL-074,29,2024-03-01,9,3,4.61,1.54,Performance Improvement Plan
+NL-074,29,2024-04-01,6,2,1.19,0.4,Critical Underperformance
+NL-074,29,2024-05-01,9,5,3.33,1.85,Performance Improvement Plan
+NL-074,29,2024-07-01,10,9,1.69,1.52,Performance Improvement Plan
+NL-074,29,2024-08-01,8,6,4.65,3.49,Consistently Effective
+NL-074,29,2024-10-01,7,5,2.93,2.09,Needs Closer Monitoring
+NL-074,29,2024-11-01,8,2,0.93,0.23,Critical Underperformance
+NL-074,29,2025-01-01,6,4,0.2,0.13,Critical Underperformance
+NL-075,3,2024-03-01,8,4,0.01,0.01,Critical Underperformance
+NL-075,3,2024-04-01,3,2,1.01,0.67,Critical Underperformance
+NL-075,3,2024-05-01,9,8,1.44,1.28,Performance Improvement Plan
+NL-075,3,2024-07-01,7,2,0.18,0.05,Critical Underperformance
+NL-075,3,2024-08-01,7,5,0.87,0.62,Critical Underperformance
+NL-075,3,2024-10-01,10,10,1.93,1.93,Performance Improvement Plan
+NL-075,3,2024-11-01,4,2,4.57,2.29,Needs Closer Monitoring
+NL-075,3,2025-01-01,5,3,2.29,1.37,Performance Improvement Plan
+NL-076,3,2024-03-01,5,4,2.79,2.23,Needs Closer Monitoring
+NL-076,3,2024-04-01,10,5,2.83,1.42,Performance Improvement Plan
+NL-076,3,2024-05-01,8,5,4.97,3.11,Consistently Effective
+NL-076,3,2024-07-01,10,10,1.75,1.75,Performance Improvement Plan
+NL-076,3,2024-08-01,10,10,0.46,0.46,Critical Underperformance
+NL-076,3,2024-10-01,6,2,1.82,0.61,Critical Underperformance
+NL-076,3,2024-11-01,9,8,3.13,2.78,Needs Closer Monitoring
+NL-076,3,2025-01-01,4,2,0.24,0.12,Critical Underperformance
+NL-077,21,2024-03-01,3,3,3.29,3.29,Consistently Effective
+NL-077,21,2024-04-01,6,4,1.05,0.7,Critical Underperformance
+NL-077,21,2024-05-01,5,4,2.82,2.26,Needs Closer Monitoring
+NL-077,21,2024-07-01,8,7,2.3,2.01,Needs Closer Monitoring
+NL-077,21,2024-08-01,3,3,0.81,0.81,Critical Underperformance
+NL-077,21,2024-10-01,8,5,2.16,1.35,Performance Improvement Plan
+NL-077,21,2024-11-01,5,4,2.42,1.94,Performance Improvement Plan
+NL-077,21,2025-01-01,6,4,4.73,3.15,Consistently Effective
+NL-078,1,2024-03-01,6,2,1.39,0.46,Critical Underperformance
+NL-078,1,2024-04-01,8,8,3.86,3.86,Consistently Effective
+NL-078,1,2024-05-01,7,5,4.58,3.27,Consistently Effective
+NL-078,1,2024-07-01,4,2,3.36,1.68,Performance Improvement Plan
+NL-078,1,2024-08-01,7,4,2.98,1.7,Performance Improvement Plan
+NL-078,1,2024-10-01,9,4,4.31,1.92,Performance Improvement Plan
+NL-078,1,2024-11-01,5,5,2.57,2.57,Needs Closer Monitoring
+NL-078,1,2025-01-01,5,5,0.0,0.0,Critical Underperformance
+NL-079,12,2024-03-01,9,2,2.03,0.45,Critical Underperformance
+NL-079,12,2024-04-01,5,2,1.27,0.51,Critical Underperformance
+NL-079,12,2024-05-01,6,5,0.97,0.81,Critical Underperformance
+NL-079,12,2024-07-01,7,2,0.31,0.09,Critical Underperformance
+NL-079,12,2024-08-01,9,5,2.13,1.18,Performance Improvement Plan
+NL-079,12,2024-10-01,3,3,1.09,1.09,Performance Improvement Plan
+NL-079,12,2024-11-01,7,5,4.96,3.54,Consistently Effective
+NL-079,12,2025-01-01,8,4,4.88,2.44,Needs Closer Monitoring
+NL-081,30,2024-03-01,7,4,1.75,1.0,Performance Improvement Plan
+NL-081,30,2024-04-01,5,5,0.08,0.08,Critical Underperformance
+NL-081,30,2024-05-01,8,6,4.85,3.64,Consistently Effective
+NL-081,30,2024-07-01,8,8,0.96,0.96,Critical Underperformance
+NL-081,30,2024-08-01,3,3,0.42,0.42,Critical Underperformance
+NL-081,30,2024-10-01,3,3,0.92,0.92,Critical Underperformance
+NL-081,30,2024-11-01,9,3,2.54,0.85,Critical Underperformance
+NL-081,30,2025-01-01,4,4,0.48,0.48,Critical Underperformance
+NL-082,21,2024-03-01,4,4,4.14,4.14,Outstanding Contributor
+NL-082,21,2024-04-01,6,3,2.5,1.25,Performance Improvement Plan
+NL-082,21,2024-05-01,10,7,4.35,3.04,Consistently Effective
+NL-082,21,2024-07-01,6,5,1.45,1.21,Performance Improvement Plan
+NL-082,21,2024-08-01,6,5,2.95,2.46,Needs Closer Monitoring
+NL-082,21,2024-10-01,3,2,4.22,2.81,Needs Closer Monitoring
+NL-082,21,2024-11-01,10,6,2.57,1.54,Performance Improvement Plan
+NL-082,21,2025-01-01,9,7,3.93,3.06,Consistently Effective
+NL-083,5,2024-03-01,4,3,3.35,2.51,Needs Closer Monitoring
+NL-083,5,2024-04-01,10,10,4.1,4.1,Outstanding Contributor
+NL-083,5,2024-05-01,9,2,3.79,0.84,Critical Underperformance
+NL-083,5,2024-07-01,3,2,3.22,2.15,Needs Closer Monitoring
+NL-083,5,2024-08-01,3,3,4.79,4.79,Outstanding Contributor
+NL-083,5,2024-10-01,8,6,4.48,3.36,Consistently Effective
+NL-083,5,2024-11-01,3,3,1.45,1.45,Performance Improvement Plan
+NL-083,5,2025-01-01,10,5,3.98,1.99,Performance Improvement Plan
+NL-089,26,2024-03-01,9,9,1.84,1.84,Performance Improvement Plan
+NL-089,26,2024-04-01,7,5,1.04,0.74,Critical Underperformance
+NL-089,26,2024-05-01,8,4,1.91,0.95,Critical Underperformance
+NL-089,26,2024-07-01,4,2,1.09,0.55,Critical Underperformance
+NL-089,26,2024-08-01,3,2,0.39,0.26,Critical Underperformance
+NL-089,26,2024-10-01,4,4,1.72,1.72,Performance Improvement Plan
+NL-089,26,2024-11-01,6,4,0.6,0.4,Critical Underperformance
+NL-089,26,2025-01-01,7,4,3.54,2.02,Needs Closer Monitoring
+NL-092,5,2024-03-01,9,7,4.98,3.87,Consistently Effective
+NL-092,5,2024-04-01,7,6,2.74,2.35,Needs Closer Monitoring
+NL-092,5,2024-05-01,4,2,3.37,1.69,Performance Improvement Plan
+NL-092,5,2024-07-01,5,2,1.57,0.63,Critical Underperformance
+NL-092,5,2024-08-01,7,2,4.14,1.18,Performance Improvement Plan
+NL-092,5,2024-10-01,6,2,4.96,1.65,Performance Improvement Plan
+NL-092,5,2024-11-01,9,4,2.69,1.2,Performance Improvement Plan
+NL-092,5,2025-01-01,9,8,2.11,1.88,Performance Improvement Plan
+NL-093,16,2024-03-01,5,3,0.87,0.52,Critical Underperformance
+NL-093,16,2024-04-01,6,4,0.91,0.61,Critical Underperformance
+NL-093,16,2024-05-01,3,2,4.27,2.85,Needs Closer Monitoring
+NL-093,16,2024-07-01,9,4,4.16,1.85,Performance Improvement Plan
+NL-093,16,2024-08-01,6,4,3.93,2.62,Needs Closer Monitoring
+NL-093,16,2024-10-01,4,4,3.97,3.97,Consistently Effective
+NL-093,16,2024-11-01,10,8,1.63,1.3,Performance Improvement Plan
+NL-093,16,2025-01-01,8,5,4.51,2.82,Needs Closer Monitoring
+NL-094,18,2024-03-01,4,4,0.16,0.16,Critical Underperformance
+NL-094,18,2024-04-01,3,3,0.83,0.83,Critical Underperformance
+NL-094,18,2024-05-01,9,3,0.43,0.14,Critical Underperformance
+NL-094,18,2024-07-01,10,7,1.76,1.23,Performance Improvement Plan
+NL-094,18,2024-08-01,7,2,1.41,0.4,Critical Underperformance
+NL-094,18,2024-10-01,9,3,4.48,1.49,Performance Improvement Plan
+NL-094,18,2024-11-01,5,3,2.4,1.44,Performance Improvement Plan
+NL-094,18,2025-01-01,3,2,3.16,2.11,Needs Closer Monitoring
+NL-095,20,2024-03-01,6,4,0.11,0.07,Critical Underperformance
+NL-095,20,2024-04-01,8,6,0.76,0.57,Critical Underperformance
+NL-095,20,2024-05-01,9,3,4.3,1.43,Performance Improvement Plan
+NL-095,20,2024-07-01,4,2,3.48,1.74,Performance Improvement Plan
+NL-095,20,2024-08-01,9,9,3.1,3.1,Consistently Effective
+NL-095,20,2024-10-01,9,7,4.09,3.18,Consistently Effective
+NL-095,20,2024-11-01,4,3,1.27,0.95,Critical Underperformance
+NL-095,20,2025-01-01,5,3,2.14,1.28,Performance Improvement Plan
+NL-096,16,2024-03-01,3,3,1.74,1.74,Performance Improvement Plan
+NL-096,16,2024-04-01,10,7,2.8,1.96,Performance Improvement Plan
+NL-096,16,2024-05-01,6,2,3.59,1.2,Performance Improvement Plan
+NL-096,16,2024-07-01,8,3,0.97,0.36,Critical Underperformance
+NL-096,16,2024-08-01,10,9,3.22,2.9,Needs Closer Monitoring
+NL-096,16,2024-10-01,6,3,1.32,0.66,Critical Underperformance
+NL-096,16,2024-11-01,10,3,0.69,0.21,Critical Underperformance
+NL-096,16,2025-01-01,8,8,3.15,3.15,Consistently Effective
+NLI-015,19,2024-03-01,5,2,0.8,0.32,Critical Underperformance
+NLI-015,19,2024-04-01,8,2,4.3,1.07,Performance Improvement Plan
+NLI-015,19,2024-05-01,6,6,1.13,1.13,Performance Improvement Plan
+NLI-015,19,2024-07-01,8,5,2.44,1.52,Performance Improvement Plan
+NLI-015,19,2024-08-01,8,6,4.37,3.28,Consistently Effective
+NLI-015,19,2024-10-01,10,6,2.26,1.36,Performance Improvement Plan
+NLI-015,19,2024-11-01,7,6,3.53,3.03,Consistently Effective
+NLI-015,19,2025-01-01,4,3,4.06,3.04,Consistently Effective
+NL-100,23,2024-03-01,8,6,1.97,1.48,Performance Improvement Plan
+NL-100,23,2024-04-01,7,4,3.44,1.97,Performance Improvement Plan
+NL-100,23,2024-05-01,7,2,3.66,1.05,Performance Improvement Plan
+NL-100,23,2024-07-01,5,3,0.72,0.43,Critical Underperformance
+NL-100,23,2024-08-01,4,2,3.56,1.78,Performance Improvement Plan
+NL-100,23,2024-10-01,5,3,0.75,0.45,Critical Underperformance
+NL-100,23,2024-11-01,10,2,2.84,0.57,Critical Underperformance
+NL-100,23,2025-01-01,10,10,1.05,1.05,Performance Improvement Plan
+NL-103,25,2024-03-01,8,6,4.84,3.63,Consistently Effective
+NL-103,25,2024-04-01,4,3,4.11,3.08,Consistently Effective
+NL-103,25,2024-05-01,4,2,4.93,2.46,Needs Closer Monitoring
+NL-103,25,2024-07-01,8,4,2.73,1.36,Performance Improvement Plan
+NL-103,25,2024-08-01,3,3,4.66,4.66,Outstanding Contributor
+NL-103,25,2024-10-01,6,3,2.15,1.07,Performance Improvement Plan
+NL-103,25,2024-11-01,9,5,1.88,1.04,Performance Improvement Plan
+NL-103,25,2025-01-01,6,4,0.31,0.21,Critical Underperformance
+NLI-016,12,2024-03-01,7,7,3.44,3.44,Consistently Effective
+NLI-016,12,2024-04-01,7,4,0.28,0.16,Critical Underperformance
+NLI-016,12,2024-05-01,8,3,2.22,0.83,Critical Underperformance
+NLI-016,12,2024-07-01,3,3,2.86,2.86,Needs Closer Monitoring
+NLI-016,12,2024-08-01,4,2,3.06,1.53,Performance Improvement Plan
+NLI-016,12,2024-10-01,10,9,3.07,2.76,Needs Closer Monitoring
+NLI-016,12,2024-11-01,6,3,1.93,0.96,Critical Underperformance
+NLI-016,12,2025-01-01,4,4,3.82,3.82,Consistently Effective
+NL-106,4,2024-03-01,3,2,0.62,0.41,Critical Underperformance
+NL-106,4,2024-04-01,10,5,3.39,1.7,Performance Improvement Plan
+NL-106,4,2024-05-01,9,5,2.06,1.14,Performance Improvement Plan
+NL-106,4,2024-07-01,10,5,0.81,0.41,Critical Underperformance
+NL-106,4,2024-08-01,4,4,0.34,0.34,Critical Underperformance
+NL-106,4,2024-10-01,7,2,0.41,0.12,Critical Underperformance
+NL-106,4,2024-11-01,7,3,2.51,1.08,Performance Improvement Plan
+NL-106,4,2025-01-01,6,5,2.59,2.16,Needs Closer Monitoring
+NL-107,7,2024-03-01,4,2,0.8,0.4,Critical Underperformance
+NL-107,7,2024-04-01,10,8,2.33,1.86,Performance Improvement Plan
+NL-107,7,2024-05-01,3,3,4.81,4.81,Outstanding Contributor
+NL-107,7,2024-07-01,8,5,2.38,1.49,Performance Improvement Plan
+NL-107,7,2024-08-01,7,4,0.76,0.43,Critical Underperformance
+NL-107,7,2024-10-01,6,4,3.79,2.53,Needs Closer Monitoring
+NL-107,7,2024-11-01,8,3,0.51,0.19,Critical Underperformance
+NL-107,7,2025-01-01,10,2,4.54,0.91,Critical Underperformance
+NL-108,24,2024-03-01,5,2,1.13,0.45,Critical Underperformance
+NL-108,24,2024-04-01,7,4,1.34,0.77,Critical Underperformance
+NL-108,24,2024-05-01,9,7,4.72,3.67,Consistently Effective
+NL-108,24,2024-07-01,4,4,4.37,4.37,Outstanding Contributor
+NL-108,24,2024-08-01,8,2,4.1,1.02,Performance Improvement Plan
+NL-108,24,2024-10-01,6,6,1.63,1.63,Performance Improvement Plan
+NL-108,24,2024-11-01,10,4,2.97,1.19,Performance Improvement Plan
+NL-108,24,2025-01-01,7,6,3.47,2.97,Needs Closer Monitoring
+NL-112,12,2024-03-01,4,4,4.16,4.16,Outstanding Contributor
+NL-112,12,2024-04-01,8,2,4.15,1.04,Performance Improvement Plan
+NL-112,12,2024-05-01,6,2,3.23,1.08,Performance Improvement Plan
+NL-112,12,2024-07-01,8,2,4.23,1.06,Performance Improvement Plan
+NL-112,12,2024-08-01,6,3,3.19,1.59,Performance Improvement Plan
+NL-112,12,2024-10-01,7,7,0.01,0.01,Critical Underperformance
+NL-112,12,2024-11-01,8,3,4.4,1.65,Performance Improvement Plan
+NL-112,12,2025-01-01,9,5,2.45,1.36,Performance Improvement Plan
+NL-113,7,2024-03-01,7,2,2.44,0.7,Critical Underperformance
+NL-113,7,2024-04-01,4,3,0.35,0.26,Critical Underperformance
+NL-113,7,2024-05-01,6,4,4.51,3.01,Consistently Effective
+NL-113,7,2024-07-01,8,6,2.05,1.54,Performance Improvement Plan
+NL-113,7,2024-08-01,9,9,1.09,1.09,Performance Improvement Plan
+NL-113,7,2024-10-01,8,5,1.95,1.22,Performance Improvement Plan
+NL-113,7,2024-11-01,8,3,1.66,0.62,Critical Underperformance
+NL-113,7,2025-01-01,4,3,1.92,1.44,Performance Improvement Plan
+NL-118,17,2024-03-01,5,5,3.01,3.01,Consistently Effective
+NL-118,17,2024-04-01,7,7,3.15,3.15,Consistently Effective
+NL-118,17,2024-05-01,5,5,3.85,3.85,Consistently Effective
+NL-118,17,2024-07-01,3,3,1.07,1.07,Performance Improvement Plan
+NL-118,17,2024-08-01,10,3,4.97,1.49,Performance Improvement Plan
+NL-118,17,2024-10-01,10,4,4.88,1.95,Performance Improvement Plan
+NL-118,17,2024-11-01,10,2,3.66,0.73,Critical Underperformance
+NL-118,17,2025-01-01,7,4,1.12,0.64,Critical Underperformance
+NL-119,20,2024-03-01,8,6,4.0,3.0,Consistently Effective
+NL-119,20,2024-04-01,3,2,0.4,0.27,Critical Underperformance
+NL-119,20,2024-05-01,9,9,1.7,1.7,Performance Improvement Plan
+NL-119,20,2024-07-01,9,6,3.73,2.49,Needs Closer Monitoring
+NL-119,20,2024-08-01,4,4,4.14,4.14,Outstanding Contributor
+NL-119,20,2024-10-01,7,6,4.84,4.15,Outstanding Contributor
+NL-119,20,2024-11-01,4,3,3.01,2.26,Needs Closer Monitoring
+NL-119,20,2025-01-01,6,2,3.76,1.25,Performance Improvement Plan
+NL-122,19,2024-03-01,4,2,1.77,0.89,Critical Underperformance
+NL-122,19,2024-04-01,9,8,3.39,3.01,Consistently Effective
+NL-122,19,2024-05-01,6,3,4.15,2.08,Needs Closer Monitoring
+NL-122,19,2024-07-01,7,6,1.71,1.47,Performance Improvement Plan
+NL-122,19,2024-08-01,3,2,3.4,2.27,Needs Closer Monitoring
+NL-122,19,2024-10-01,3,3,3.38,3.38,Consistently Effective
+NL-122,19,2024-11-01,5,4,3.31,2.65,Needs Closer Monitoring
+NL-122,19,2025-01-01,3,3,3.37,3.37,Consistently Effective
+NLI-020,21,2024-03-01,7,2,3.76,1.07,Performance Improvement Plan
+NLI-020,21,2024-04-01,7,3,0.49,0.21,Critical Underperformance
+NLI-020,21,2024-05-01,10,6,2.97,1.78,Performance Improvement Plan
+NLI-020,21,2024-07-01,10,3,2.68,0.8,Critical Underperformance
+NLI-020,21,2024-08-01,7,2,1.3,0.37,Critical Underperformance
+NLI-020,21,2024-10-01,4,2,1.28,0.64,Critical Underperformance
+NLI-020,21,2024-11-01,5,2,4.65,1.86,Performance Improvement Plan
+NLI-020,21,2025-01-01,8,7,3.95,3.46,Consistently Effective
+NL-127,13,2024-03-01,9,4,1.92,0.85,Critical Underperformance
+NL-127,13,2024-04-01,10,7,1.15,0.8,Critical Underperformance
+NL-127,13,2024-05-01,5,3,4.63,2.78,Needs Closer Monitoring
+NL-127,13,2024-07-01,5,3,0.76,0.46,Critical Underperformance
+NL-127,13,2024-08-01,3,2,3.19,2.13,Needs Closer Monitoring
+NL-127,13,2024-10-01,4,2,0.27,0.14,Critical Underperformance
+NL-127,13,2024-11-01,10,2,3.97,0.79,Critical Underperformance
+NL-127,13,2025-01-01,5,3,4.04,2.42,Needs Closer Monitoring
+NL-129,1,2024-03-01,7,7,4.3,4.3,Outstanding Contributor
+NL-129,1,2024-04-01,5,4,2.17,1.74,Performance Improvement Plan
+NL-129,1,2024-05-01,10,4,3.31,1.32,Performance Improvement Plan
+NL-129,1,2024-07-01,9,9,3.08,3.08,Consistently Effective
+NL-129,1,2024-08-01,9,3,2.01,0.67,Critical Underperformance
+NL-129,1,2024-10-01,7,6,0.69,0.59,Critical Underperformance
+NL-129,1,2024-11-01,5,3,3.98,2.39,Needs Closer Monitoring
+NL-129,1,2025-01-01,7,5,1.43,1.02,Performance Improvement Plan
+NL-136,17,2024-03-01,10,10,1.66,1.66,Performance Improvement Plan
+NL-136,17,2024-04-01,6,5,3.62,3.02,Consistently Effective
+NL-136,17,2024-05-01,7,4,0.34,0.19,Critical Underperformance
+NL-136,17,2024-07-01,7,3,0.09,0.04,Critical Underperformance
+NL-136,17,2024-08-01,5,4,1.97,1.58,Performance Improvement Plan
+NL-136,17,2024-10-01,7,5,0.87,0.62,Critical Underperformance
+NL-136,17,2024-11-01,10,8,4.47,3.58,Consistently Effective
+NL-136,17,2025-01-01,3,3,1.85,1.85,Performance Improvement Plan
+NLI-021,30,2024-03-01,10,5,3.04,1.52,Performance Improvement Plan
+NLI-021,30,2024-04-01,3,3,0.28,0.28,Critical Underperformance
+NLI-021,30,2024-05-01,8,3,3.65,1.37,Performance Improvement Plan
+NLI-021,30,2024-07-01,3,3,4.49,4.49,Outstanding Contributor
+NLI-021,30,2024-08-01,6,5,1.64,1.37,Performance Improvement Plan
+NLI-021,30,2024-10-01,4,2,1.27,0.64,Critical Underperformance
+NLI-021,30,2024-11-01,9,2,4.6,1.02,Performance Improvement Plan
+NLI-021,30,2025-01-01,6,5,4.78,3.98,Consistently Effective
+NL-138,24,2024-03-01,7,3,4.56,1.95,Performance Improvement Plan
+NL-138,24,2024-04-01,3,3,2.31,2.31,Needs Closer Monitoring
+NL-138,24,2024-05-01,8,7,3.01,2.63,Needs Closer Monitoring
+NL-138,24,2024-07-01,3,2,1.21,0.81,Critical Underperformance
+NL-138,24,2024-08-01,4,4,1.06,1.06,Performance Improvement Plan
+NL-138,24,2024-10-01,10,10,1.11,1.11,Performance Improvement Plan
+NL-138,24,2024-11-01,6,3,0.84,0.42,Critical Underperformance
+NL-138,24,2025-01-01,8,8,4.28,4.28,Outstanding Contributor
+NL-140,6,2024-03-01,5,2,1.79,0.72,Critical Underperformance
+NL-140,6,2024-04-01,6,5,0.11,0.09,Critical Underperformance
+NL-140,6,2024-05-01,6,4,0.58,0.39,Critical Underperformance
+NL-140,6,2024-07-01,5,3,0.1,0.06,Critical Underperformance
+NL-140,6,2024-08-01,5,4,1.59,1.27,Performance Improvement Plan
+NL-140,6,2024-10-01,10,2,3.08,0.62,Critical Underperformance
+NL-140,6,2024-11-01,5,3,3.93,2.36,Needs Closer Monitoring
+NL-140,6,2025-01-01,3,2,2.79,1.86,Performance Improvement Plan
+NL-143,13,2024-03-01,6,3,3.03,1.51,Performance Improvement Plan
+NL-143,13,2024-04-01,9,5,2.21,1.23,Performance Improvement Plan
+NL-143,13,2024-05-01,7,3,2.7,1.16,Performance Improvement Plan
+NL-143,13,2024-07-01,9,3,0.86,0.29,Critical Underperformance
+NL-143,13,2024-08-01,10,3,3.82,1.15,Performance Improvement Plan
+NL-143,13,2024-10-01,4,2,3.44,1.72,Performance Improvement Plan
+NL-143,13,2024-11-01,6,6,4.13,4.13,Outstanding Contributor
+NL-143,13,2025-01-01,8,7,4.5,3.94,Consistently Effective
+NL-144,6,2024-03-01,10,5,1.03,0.52,Critical Underperformance
+NL-144,6,2024-04-01,5,3,1.16,0.7,Critical Underperformance
+NL-144,6,2024-05-01,10,7,0.43,0.3,Critical Underperformance
+NL-144,6,2024-07-01,7,5,0.38,0.27,Critical Underperformance
+NL-144,6,2024-08-01,5,4,3.78,3.02,Consistently Effective
+NL-144,6,2024-10-01,4,2,0.19,0.1,Critical Underperformance
+NL-144,6,2024-11-01,3,3,3.59,3.59,Consistently Effective
+NL-144,6,2025-01-01,5,5,2.61,2.61,Needs Closer Monitoring
+NL-146,26,2024-03-01,8,2,3.38,0.84,Critical Underperformance
+NL-146,26,2024-04-01,5,4,3.1,2.48,Needs Closer Monitoring
+NL-146,26,2024-05-01,3,2,0.54,0.36,Critical Underperformance
+NL-146,26,2024-07-01,10,8,0.64,0.51,Critical Underperformance
+NL-146,26,2024-08-01,3,2,0.9,0.6,Critical Underperformance
+NL-146,26,2024-10-01,8,6,0.29,0.22,Critical Underperformance
+NL-146,26,2024-11-01,8,4,3.33,1.67,Performance Improvement Plan
+NL-146,26,2025-01-01,4,4,0.27,0.27,Critical Underperformance
+NL-148,1,2024-03-01,4,2,2.45,1.23,Performance Improvement Plan
+NL-148,1,2024-04-01,5,3,0.73,0.44,Critical Underperformance
+NL-148,1,2024-05-01,9,5,1.22,0.68,Critical Underperformance
+NL-148,1,2024-07-01,6,6,1.32,1.32,Performance Improvement Plan
+NL-148,1,2024-08-01,4,3,3.87,2.9,Needs Closer Monitoring
+NL-148,1,2024-10-01,6,3,0.69,0.34,Critical Underperformance
+NL-148,1,2024-11-01,4,2,4.06,2.03,Needs Closer Monitoring
+NL-148,1,2025-01-01,6,2,0.38,0.13,Critical Underperformance
+NL-151,24,2024-03-01,10,9,0.95,0.85,Critical Underperformance
+NL-151,24,2024-04-01,4,2,0.31,0.15,Critical Underperformance
+NL-151,24,2024-05-01,5,2,3.2,1.28,Performance Improvement Plan
+NL-151,24,2024-07-01,7,3,3.99,1.71,Performance Improvement Plan
+NL-151,24,2024-08-01,3,2,4.58,3.05,Consistently Effective
+NL-151,24,2024-10-01,5,4,3.63,2.9,Needs Closer Monitoring
+NL-151,24,2024-11-01,10,8,4.28,3.42,Consistently Effective
+NL-151,24,2025-01-01,8,7,1.8,1.57,Performance Improvement Plan
+NL-153,20,2024-03-01,4,2,0.98,0.49,Critical Underperformance
+NL-153,20,2024-04-01,9,4,1.12,0.5,Critical Underperformance
+NL-153,20,2024-05-01,10,5,2.69,1.34,Performance Improvement Plan
+NL-153,20,2024-07-01,6,6,0.87,0.87,Critical Underperformance
+NL-153,20,2024-08-01,6,5,3.48,2.9,Needs Closer Monitoring
+NL-153,20,2024-10-01,5,4,3.94,3.15,Consistently Effective
+NL-153,20,2024-11-01,6,6,3.9,3.9,Consistently Effective
+NL-153,20,2025-01-01,10,5,0.93,0.47,Critical Underperformance
+NL-155,13,2024-03-01,10,10,4.62,4.62,Outstanding Contributor
+NL-155,13,2024-04-01,3,2,0.85,0.57,Critical Underperformance
+NL-155,13,2024-05-01,4,3,0.12,0.09,Critical Underperformance
+NL-155,13,2024-07-01,3,3,2.87,2.87,Needs Closer Monitoring
+NL-155,13,2024-08-01,10,5,1.1,0.55,Critical Underperformance
+NL-155,13,2024-10-01,5,5,0.56,0.56,Critical Underperformance
+NL-155,13,2024-11-01,10,2,2.73,0.55,Critical Underperformance
+NL-155,13,2025-01-01,9,7,2.61,2.03,Needs Closer Monitoring
+NLI-025,15,2024-03-01,7,7,3.51,3.51,Consistently Effective
+NLI-025,15,2024-04-01,8,5,1.22,0.76,Critical Underperformance
+NLI-025,15,2024-05-01,3,3,2.8,2.8,Needs Closer Monitoring
+NLI-025,15,2024-07-01,7,6,4.68,4.01,Outstanding Contributor
+NLI-025,15,2024-08-01,8,3,1.92,0.72,Critical Underperformance
+NLI-025,15,2024-10-01,6,4,3.94,2.63,Needs Closer Monitoring
+NLI-025,15,2024-11-01,7,5,2.42,1.73,Performance Improvement Plan
+NLI-025,15,2025-01-01,10,2,4.11,0.82,Critical Underperformance
+NL-157,25,2024-03-01,8,7,1.88,1.65,Performance Improvement Plan
+NL-157,25,2024-04-01,5,4,2.75,2.2,Needs Closer Monitoring
+NL-157,25,2024-05-01,3,3,3.16,3.16,Consistently Effective
+NL-157,25,2024-07-01,10,5,0.55,0.28,Critical Underperformance
+NL-157,25,2024-08-01,7,7,1.27,1.27,Performance Improvement Plan
+NL-157,25,2024-10-01,4,2,4.39,2.19,Needs Closer Monitoring
+NL-157,25,2024-11-01,5,4,3.14,2.51,Needs Closer Monitoring
+NL-157,25,2025-01-01,3,3,2.46,2.46,Needs Closer Monitoring
+NL-158,5,2024-03-01,10,4,2.91,1.16,Performance Improvement Plan
+NL-158,5,2024-04-01,9,2,2.97,0.66,Critical Underperformance
+NL-158,5,2024-05-01,6,6,0.66,0.66,Critical Underperformance
+NL-158,5,2024-07-01,9,6,0.45,0.3,Critical Underperformance
+NL-158,5,2024-08-01,7,3,2.59,1.11,Performance Improvement Plan
+NL-158,5,2024-10-01,7,3,3.87,1.66,Performance Improvement Plan
+NL-158,5,2024-11-01,7,5,1.65,1.18,Performance Improvement Plan
+NL-158,5,2025-01-01,5,4,4.4,3.52,Consistently Effective
+NL-159,9,2024-03-01,5,2,1.82,0.73,Critical Underperformance
+NL-159,9,2024-04-01,10,3,0.73,0.22,Critical Underperformance
+NL-159,9,2024-05-01,9,8,4.47,3.97,Consistently Effective
+NL-159,9,2024-07-01,9,8,4.71,4.19,Outstanding Contributor
+NL-159,9,2024-08-01,8,6,2.38,1.78,Performance Improvement Plan
+NL-159,9,2024-10-01,5,4,1.43,1.14,Performance Improvement Plan
+NL-159,9,2024-11-01,3,3,1.38,1.38,Performance Improvement Plan
+NL-159,9,2025-01-01,3,3,2.76,2.76,Needs Closer Monitoring
+NL-160,25,2024-03-01,9,3,3.26,1.09,Performance Improvement Plan
+NL-160,25,2024-04-01,5,4,4.33,3.46,Consistently Effective
+NL-160,25,2024-05-01,9,4,2.14,0.95,Critical Underperformance
+NL-160,25,2024-07-01,10,2,0.09,0.02,Critical Underperformance
+NL-160,25,2024-08-01,3,3,1.93,1.93,Performance Improvement Plan
+NL-160,25,2024-10-01,3,2,4.04,2.69,Needs Closer Monitoring
+NL-160,25,2024-11-01,3,2,0.75,0.5,Critical Underperformance
+NL-160,25,2025-01-01,9,2,0.35,0.08,Critical Underperformance
+NL-161,4,2024-03-01,8,3,0.32,0.12,Critical Underperformance
+NL-161,4,2024-04-01,8,6,4.61,3.46,Consistently Effective
+NL-161,4,2024-05-01,3,2,0.43,0.29,Critical Underperformance
+NL-161,4,2024-07-01,7,5,3.98,2.84,Needs Closer Monitoring
+NL-161,4,2024-08-01,3,2,3.07,2.05,Needs Closer Monitoring
+NL-161,4,2024-10-01,8,4,0.07,0.04,Critical Underperformance
+NL-161,4,2024-11-01,6,3,0.67,0.34,Critical Underperformance
+NL-161,4,2025-01-01,5,4,3.85,3.08,Consistently Effective
+NLI-029,27,2024-03-01,5,2,4.33,1.73,Performance Improvement Plan
+NLI-029,27,2024-04-01,4,3,1.51,1.13,Performance Improvement Plan
+NLI-029,27,2024-05-01,8,7,1.46,1.28,Performance Improvement Plan
+NLI-029,27,2024-07-01,7,5,1.41,1.01,Performance Improvement Plan
+NLI-029,27,2024-08-01,9,4,4.74,2.11,Needs Closer Monitoring
+NLI-029,27,2024-10-01,6,2,1.79,0.6,Critical Underperformance
+NLI-029,27,2024-11-01,5,3,1.87,1.12,Performance Improvement Plan
+NLI-029,27,2025-01-01,8,6,2.89,2.17,Needs Closer Monitoring
+NL-165,9,2024-03-01,8,7,4.41,3.86,Consistently Effective
+NL-165,9,2024-04-01,4,4,1.72,1.72,Performance Improvement Plan
+NL-165,9,2024-05-01,9,9,1.48,1.48,Performance Improvement Plan
+NL-165,9,2024-07-01,3,2,2.99,1.99,Performance Improvement Plan
+NL-165,9,2024-08-01,8,5,4.04,2.52,Needs Closer Monitoring
+NL-165,9,2024-10-01,7,6,2.12,1.82,Performance Improvement Plan
+NL-165,9,2024-11-01,5,5,0.27,0.27,Critical Underperformance
+NL-165,9,2025-01-01,10,10,3.27,3.27,Consistently Effective
+NL-167,2,2024-03-01,9,7,0.1,0.08,Critical Underperformance
+NL-167,2,2024-04-01,5,2,2.66,1.06,Performance Improvement Plan
+NL-167,2,2024-05-01,10,4,0.33,0.13,Critical Underperformance
+NL-167,2,2024-07-01,7,4,3.39,1.94,Performance Improvement Plan
+NL-167,2,2024-08-01,4,3,2.27,1.7,Performance Improvement Plan
+NL-167,2,2024-10-01,6,5,3.71,3.09,Consistently Effective
+NL-167,2,2024-11-01,4,3,1.25,0.94,Critical Underperformance
+NL-167,2,2025-01-01,3,2,3.15,2.1,Needs Closer Monitoring
+NLI-031,2,2024-03-01,4,2,3.61,1.8,Performance Improvement Plan
+NLI-031,2,2024-04-01,6,5,1.69,1.41,Performance Improvement Plan
+NLI-031,2,2024-05-01,9,5,4.33,2.41,Needs Closer Monitoring
+NLI-031,2,2024-07-01,4,2,1.03,0.52,Critical Underperformance
+NLI-031,2,2024-08-01,7,6,0.29,0.25,Critical Underperformance
+NLI-031,2,2024-10-01,7,7,2.26,2.26,Needs Closer Monitoring
+NLI-031,2,2024-11-01,9,9,4.46,4.46,Outstanding Contributor
+NLI-031,2,2025-01-01,3,3,4.48,4.48,Outstanding Contributor
+NL-172,10,2024-03-01,8,8,1.46,1.46,Performance Improvement Plan
+NL-172,10,2024-04-01,9,7,1.46,1.14,Performance Improvement Plan
+NL-172,10,2024-05-01,6,2,2.89,0.96,Critical Underperformance
+NL-172,10,2024-07-01,9,5,0.1,0.06,Critical Underperformance
+NL-172,10,2024-08-01,4,3,3.73,2.8,Needs Closer Monitoring
+NL-172,10,2024-10-01,10,4,4.52,1.81,Performance Improvement Plan
+NL-172,10,2024-11-01,7,3,4.69,2.01,Needs Closer Monitoring
+NL-172,10,2025-01-01,7,7,1.41,1.41,Performance Improvement Plan
+NLI-033,3,2024-03-01,6,3,1.06,0.53,Critical Underperformance
+NLI-033,3,2024-04-01,5,4,4.28,3.42,Consistently Effective
+NLI-033,3,2024-05-01,3,2,2.96,1.97,Performance Improvement Plan
+NLI-033,3,2024-07-01,8,4,0.73,0.36,Critical Underperformance
+NLI-033,3,2024-08-01,10,10,1.15,1.15,Performance Improvement Plan
+NLI-033,3,2024-10-01,3,3,2.82,2.82,Needs Closer Monitoring
+NLI-033,3,2024-11-01,4,3,0.39,0.29,Critical Underperformance
+NLI-033,3,2025-01-01,3,3,4.85,4.85,Outstanding Contributor
+NL-178,21,2024-03-01,3,2,3.81,2.54,Needs Closer Monitoring
+NL-178,21,2024-04-01,10,9,2.44,2.2,Needs Closer Monitoring
+NL-178,21,2024-05-01,5,2,0.83,0.33,Critical Underperformance
+NL-178,21,2024-07-01,5,5,3.74,3.74,Consistently Effective
+NL-178,21,2024-08-01,5,5,4.46,4.46,Outstanding Contributor
+NL-178,21,2024-10-01,3,2,0.63,0.42,Critical Underperformance
+NL-178,21,2024-11-01,3,2,0.13,0.09,Critical Underperformance
+NL-178,21,2025-01-01,7,3,4.25,1.82,Performance Improvement Plan
+NL-179,20,2024-03-01,10,4,0.47,0.19,Critical Underperformance
+NL-179,20,2024-04-01,8,7,3.1,2.71,Needs Closer Monitoring
+NL-179,20,2024-05-01,6,5,0.57,0.47,Critical Underperformance
+NL-179,20,2024-07-01,7,4,3.45,1.97,Performance Improvement Plan
+NL-179,20,2024-08-01,5,3,4.88,2.93,Needs Closer Monitoring
+NL-179,20,2024-10-01,4,3,2.8,2.1,Needs Closer Monitoring
+NL-179,20,2024-11-01,3,2,2.69,1.79,Performance Improvement Plan
+NL-179,20,2025-01-01,8,6,0.13,0.1,Critical Underperformance
+NL-181,8,2024-03-01,9,3,1.74,0.58,Critical Underperformance
+NL-181,8,2024-04-01,4,3,1.87,1.4,Performance Improvement Plan
+NL-181,8,2024-05-01,6,5,3.63,3.02,Consistently Effective
+NL-181,8,2024-07-01,7,5,3.87,2.76,Needs Closer Monitoring
+NL-181,8,2024-08-01,8,3,0.13,0.05,Critical Underperformance
+NL-181,8,2024-10-01,3,2,0.37,0.25,Critical Underperformance
+NL-181,8,2024-11-01,4,4,4.72,4.72,Outstanding Contributor
+NL-181,8,2025-01-01,8,5,0.08,0.05,Critical Underperformance
+NL-182,9,2024-03-01,10,6,1.28,0.77,Critical Underperformance
+NL-182,9,2024-04-01,5,3,4.65,2.79,Needs Closer Monitoring
+NL-182,9,2024-05-01,3,2,2.35,1.57,Performance Improvement Plan
+NL-182,9,2024-07-01,7,4,0.42,0.24,Critical Underperformance
+NL-182,9,2024-08-01,7,3,1.8,0.77,Critical Underperformance
+NL-182,9,2024-10-01,5,2,4.06,1.62,Performance Improvement Plan
+NL-182,9,2024-11-01,8,7,0.01,0.01,Critical Underperformance
+NL-182,9,2025-01-01,3,2,1.07,0.71,Critical Underperformance
+NL-183,2,2024-03-01,10,5,2.38,1.19,Performance Improvement Plan
+NL-183,2,2024-04-01,4,4,2.28,2.28,Needs Closer Monitoring
+NL-183,2,2024-05-01,4,4,1.58,1.58,Performance Improvement Plan
+NL-183,2,2024-07-01,9,9,3.36,3.36,Consistently Effective
+NL-183,2,2024-08-01,8,5,2.4,1.5,Performance Improvement Plan
+NL-183,2,2024-10-01,3,2,1.13,0.75,Critical Underperformance
+NL-183,2,2024-11-01,6,5,0.92,0.77,Critical Underperformance
+NL-183,2,2025-01-01,5,3,0.79,0.47,Critical Underperformance
+NL-184,20,2024-03-01,5,5,1.01,1.01,Performance Improvement Plan
+NL-184,20,2024-04-01,4,4,3.4,3.4,Consistently Effective
+NL-184,20,2024-05-01,7,5,3.12,2.23,Needs Closer Monitoring
+NL-184,20,2024-07-01,9,5,2.58,1.43,Performance Improvement Plan
+NL-184,20,2024-08-01,6,3,1.6,0.8,Critical Underperformance
+NL-184,20,2024-10-01,9,9,0.08,0.08,Critical Underperformance
+NL-184,20,2024-11-01,9,5,4.6,2.56,Needs Closer Monitoring
+NL-184,20,2025-01-01,4,4,3.74,3.74,Consistently Effective
+NL-185,26,2024-03-01,9,3,2.94,0.98,Critical Underperformance
+NL-185,26,2024-04-01,7,6,3.52,3.02,Consistently Effective
+NL-185,26,2024-05-01,3,3,1.02,1.02,Performance Improvement Plan
+NL-185,26,2024-07-01,3,2,3.03,2.02,Needs Closer Monitoring
+NL-185,26,2024-08-01,8,4,1.29,0.65,Critical Underperformance
+NL-185,26,2024-10-01,8,3,1.58,0.59,Critical Underperformance
+NL-185,26,2024-11-01,5,4,0.8,0.64,Critical Underperformance
+NL-185,26,2025-01-01,4,4,2.95,2.95,Needs Closer Monitoring
+NL-187,24,2024-03-01,3,3,3.32,3.32,Consistently Effective
+NL-187,24,2024-04-01,3,2,4.62,3.08,Consistently Effective
+NL-187,24,2024-05-01,10,9,2.7,2.43,Needs Closer Monitoring
+NL-187,24,2024-07-01,9,7,2.55,1.98,Performance Improvement Plan
+NL-187,24,2024-08-01,8,7,0.32,0.28,Critical Underperformance
+NL-187,24,2024-10-01,7,4,4.74,2.71,Needs Closer Monitoring
+NL-187,24,2024-11-01,10,10,1.02,1.02,Performance Improvement Plan
+NL-187,24,2025-01-01,9,8,3.06,2.72,Needs Closer Monitoring
+NLI-034,26,2024-03-01,10,10,4.02,4.02,Outstanding Contributor
+NLI-034,26,2024-04-01,8,6,3.22,2.42,Needs Closer Monitoring
+NLI-034,26,2024-05-01,5,4,1.23,0.98,Critical Underperformance
+NLI-034,26,2024-07-01,10,2,3.21,0.64,Critical Underperformance
+NLI-034,26,2024-08-01,6,6,1.21,1.21,Performance Improvement Plan
+NLI-034,26,2024-10-01,4,3,4.26,3.19,Consistently Effective
+NLI-034,26,2024-11-01,10,4,1.24,0.5,Critical Underperformance
+NLI-034,26,2025-01-01,10,3,4.8,1.44,Performance Improvement Plan
+NL-189,12,2024-03-01,4,2,0.49,0.24,Critical Underperformance
+NL-189,12,2024-04-01,9,3,1.01,0.34,Critical Underperformance
+NL-189,12,2024-05-01,6,6,0.47,0.47,Critical Underperformance
+NL-189,12,2024-07-01,7,2,2.99,0.85,Critical Underperformance
+NL-189,12,2024-08-01,9,3,4.01,1.34,Performance Improvement Plan
+NL-189,12,2024-10-01,5,2,3.26,1.3,Performance Improvement Plan
+NL-189,12,2024-11-01,5,2,4.28,1.71,Performance Improvement Plan
+NL-189,12,2025-01-01,6,4,0.04,0.03,Critical Underperformance
+NL-195,25,2024-03-01,6,4,0.09,0.06,Critical Underperformance
+NL-195,25,2024-04-01,8,7,0.02,0.02,Critical Underperformance
+NL-195,25,2024-05-01,10,5,3.54,1.77,Performance Improvement Plan
+NL-195,25,2024-07-01,4,4,4.32,4.32,Outstanding Contributor
+NL-195,25,2024-08-01,10,5,3.4,1.7,Performance Improvement Plan
+NL-195,25,2024-10-01,4,3,1.79,1.34,Performance Improvement Plan
+NL-195,25,2024-11-01,4,4,0.09,0.09,Critical Underperformance
+NL-195,25,2025-01-01,4,4,0.88,0.88,Critical Underperformance
+NL-196,30,2024-03-01,8,6,4.69,3.52,Consistently Effective
+NL-196,30,2024-04-01,10,8,2.14,1.71,Performance Improvement Plan
+NL-196,30,2024-05-01,5,5,2.66,2.66,Needs Closer Monitoring
+NL-196,30,2024-07-01,10,2,1.35,0.27,Critical Underperformance
+NL-196,30,2024-08-01,9,3,2.8,0.93,Critical Underperformance
+NL-196,30,2024-10-01,3,3,4.1,4.1,Outstanding Contributor
+NL-196,30,2024-11-01,7,4,2.53,1.45,Performance Improvement Plan
+NL-196,30,2025-01-01,8,4,2.42,1.21,Performance Improvement Plan
+NL-200,28,2024-03-01,5,5,2.27,2.27,Needs Closer Monitoring
+NL-200,28,2024-04-01,8,5,3.57,2.23,Needs Closer Monitoring
+NL-200,28,2024-05-01,5,2,4.66,1.86,Performance Improvement Plan
+NL-200,28,2024-07-01,9,7,0.72,0.56,Critical Underperformance
+NL-200,28,2024-08-01,3,3,3.63,3.63,Consistently Effective
+NL-200,28,2024-10-01,6,3,1.04,0.52,Critical Underperformance
+NL-200,28,2024-11-01,3,3,2.57,2.57,Needs Closer Monitoring
+NL-200,28,2025-01-01,3,3,4.8,4.8,Outstanding Contributor
+NL-202,18,2024-03-01,3,2,3.78,2.52,Needs Closer Monitoring
+NL-202,18,2024-04-01,6,4,4.96,3.31,Consistently Effective
+NL-202,18,2024-05-01,5,4,0.3,0.24,Critical Underperformance
+NL-202,18,2024-07-01,3,2,1.86,1.24,Performance Improvement Plan
+NL-202,18,2024-08-01,8,5,3.91,2.44,Needs Closer Monitoring
+NL-202,18,2024-10-01,7,4,0.91,0.52,Critical Underperformance
+NL-202,18,2024-11-01,8,2,0.48,0.12,Critical Underperformance
+NL-202,18,2025-01-01,10,10,1.46,1.46,Performance Improvement Plan
+NL-204,27,2024-03-01,10,2,3.54,0.71,Critical Underperformance
+NL-204,27,2024-04-01,8,8,0.33,0.33,Critical Underperformance
+NL-204,27,2024-05-01,10,6,2.95,1.77,Performance Improvement Plan
+NL-204,27,2024-07-01,4,3,3.54,2.66,Needs Closer Monitoring
+NL-204,27,2024-08-01,8,4,0.27,0.14,Critical Underperformance
+NL-204,27,2024-10-01,8,4,1.22,0.61,Critical Underperformance
+NL-204,27,2024-11-01,4,3,0.14,0.11,Critical Underperformance
+NL-204,27,2025-01-01,10,5,2.32,1.16,Performance Improvement Plan
+NL-206,17,2024-03-01,10,2,0.99,0.2,Critical Underperformance
+NL-206,17,2024-04-01,8,8,1.07,1.07,Performance Improvement Plan
+NL-206,17,2024-05-01,8,7,3.13,2.74,Needs Closer Monitoring
+NL-206,17,2024-07-01,5,4,1.69,1.35,Performance Improvement Plan
+NL-206,17,2024-08-01,7,6,1.83,1.57,Performance Improvement Plan
+NL-206,17,2024-10-01,9,2,4.12,0.92,Critical Underperformance
+NL-206,17,2024-11-01,6,5,0.76,0.63,Critical Underperformance
+NL-206,17,2025-01-01,8,3,3.0,1.12,Performance Improvement Plan
+NL-213,19,2024-03-01,8,8,3.8,3.8,Consistently Effective
+NL-213,19,2024-04-01,4,4,1.39,1.39,Performance Improvement Plan
+NL-213,19,2024-05-01,6,3,3.93,1.97,Performance Improvement Plan
+NL-213,19,2024-07-01,5,3,3.47,2.08,Needs Closer Monitoring
+NL-213,19,2024-08-01,10,10,1.81,1.81,Performance Improvement Plan
+NL-213,19,2024-10-01,9,3,3.17,1.06,Performance Improvement Plan
+NL-213,19,2024-11-01,9,3,0.84,0.28,Critical Underperformance
+NL-213,19,2025-01-01,8,8,3.59,3.59,Consistently Effective
+NL-219,29,2024-03-01,4,3,1.15,0.86,Critical Underperformance
+NL-219,29,2024-04-01,6,2,1.47,0.49,Critical Underperformance
+NL-219,29,2024-05-01,9,9,4.55,4.55,Outstanding Contributor
+NL-219,29,2024-07-01,7,5,1.21,0.86,Critical Underperformance
+NL-219,29,2024-08-01,3,2,1.16,0.77,Critical Underperformance
+NL-219,29,2024-10-01,5,2,0.12,0.05,Critical Underperformance
+NL-219,29,2024-11-01,3,2,3.12,2.08,Needs Closer Monitoring
+NL-219,29,2025-01-01,9,5,2.62,1.46,Performance Improvement Plan
+NL-221,19,2024-03-01,9,2,2.04,0.45,Critical Underperformance
+NL-221,19,2024-04-01,6,6,3.33,3.33,Consistently Effective
+NL-221,19,2024-05-01,3,2,1.69,1.13,Performance Improvement Plan
+NL-221,19,2024-07-01,3,3,4.31,4.31,Outstanding Contributor
+NL-221,19,2024-08-01,8,7,2.93,2.56,Needs Closer Monitoring
+NL-221,19,2024-10-01,7,2,3.78,1.08,Performance Improvement Plan
+NL-221,19,2024-11-01,9,5,3.37,1.87,Performance Improvement Plan
+NL-221,19,2025-01-01,5,5,1.14,1.14,Performance Improvement Plan
+NLI-039,27,2024-03-01,8,4,1.06,0.53,Critical Underperformance
+NLI-039,27,2024-04-01,10,10,2.76,2.76,Needs Closer Monitoring
+NLI-039,27,2024-05-01,6,4,1.29,0.86,Critical Underperformance
+NLI-039,27,2024-07-01,4,3,3.79,2.84,Needs Closer Monitoring
+NLI-039,27,2024-08-01,8,3,0.83,0.31,Critical Underperformance
+NLI-039,27,2024-10-01,6,6,1.05,1.05,Performance Improvement Plan
+NLI-039,27,2024-11-01,9,7,2.45,1.91,Performance Improvement Plan
+NLI-039,27,2025-01-01,3,2,3.24,2.16,Needs Closer Monitoring
+NL-223,8,2024-03-01,9,3,4.13,1.38,Performance Improvement Plan
+NL-223,8,2024-04-01,10,4,1.01,0.4,Critical Underperformance
+NL-223,8,2024-05-01,5,5,0.62,0.62,Critical Underperformance
+NL-223,8,2024-07-01,9,6,0.04,0.03,Critical Underperformance
+NL-223,8,2024-08-01,7,5,3.74,2.67,Needs Closer Monitoring
+NL-223,8,2024-10-01,9,7,4.84,3.76,Consistently Effective
+NL-223,8,2024-11-01,10,2,4.54,0.91,Critical Underperformance
+NL-223,8,2025-01-01,8,2,0.92,0.23,Critical Underperformance
+NL-225,28,2024-03-01,4,3,4.67,3.5,Consistently Effective
+NL-225,28,2024-04-01,10,7,2.52,1.76,Performance Improvement Plan
+NL-225,28,2024-05-01,10,8,4.25,3.4,Consistently Effective
+NL-225,28,2024-07-01,8,6,2.47,1.85,Performance Improvement Plan
+NL-225,28,2024-08-01,6,2,0.64,0.21,Critical Underperformance
+NL-225,28,2024-10-01,3,3,2.59,2.59,Needs Closer Monitoring
+NL-225,28,2024-11-01,7,7,2.51,2.51,Needs Closer Monitoring
+NL-225,28,2025-01-01,7,3,4.24,1.82,Performance Improvement Plan
+NL-226,28,2024-03-01,7,2,1.1,0.31,Critical Underperformance
+NL-226,28,2024-04-01,4,4,4.75,4.75,Outstanding Contributor
+NL-226,28,2024-05-01,4,2,2.09,1.04,Performance Improvement Plan
+NL-226,28,2024-07-01,8,5,4.71,2.94,Needs Closer Monitoring
+NL-226,28,2024-08-01,5,2,1.28,0.51,Critical Underperformance
+NL-226,28,2024-10-01,8,4,2.98,1.49,Performance Improvement Plan
+NL-226,28,2024-11-01,4,4,4.2,4.2,Outstanding Contributor
+NL-226,28,2025-01-01,8,3,3.56,1.33,Performance Improvement Plan
+NL-227,30,2024-03-01,3,3,2.85,2.85,Needs Closer Monitoring
+NL-227,30,2024-04-01,8,4,1.71,0.85,Critical Underperformance
+NL-227,30,2024-05-01,6,5,1.82,1.52,Performance Improvement Plan
+NL-227,30,2024-07-01,7,7,4.75,4.75,Outstanding Contributor
+NL-227,30,2024-08-01,9,2,3.33,0.74,Critical Underperformance
+NL-227,30,2024-10-01,4,3,2.74,2.06,Needs Closer Monitoring
+NL-227,30,2024-11-01,8,5,3.97,2.48,Needs Closer Monitoring
+NL-227,30,2025-01-01,5,3,1.25,0.75,Critical Underperformance
+NL-228,26,2024-03-01,10,6,2.65,1.59,Performance Improvement Plan
+NL-228,26,2024-04-01,5,3,0.58,0.35,Critical Underperformance
+NL-228,26,2024-05-01,7,3,2.15,0.92,Critical Underperformance
+NL-228,26,2024-07-01,3,2,1.78,1.19,Performance Improvement Plan
+NL-228,26,2024-08-01,7,4,1.95,1.11,Performance Improvement Plan
+NL-228,26,2024-10-01,3,3,2.41,2.41,Needs Closer Monitoring
+NL-228,26,2024-11-01,3,3,2.39,2.39,Needs Closer Monitoring
+NL-228,26,2025-01-01,6,5,1.47,1.23,Performance Improvement Plan
+NL-229,4,2024-03-01,7,6,0.96,0.82,Critical Underperformance
+NL-229,4,2024-04-01,9,7,0.73,0.57,Critical Underperformance
+NL-229,4,2024-05-01,4,4,4.11,4.11,Outstanding Contributor
+NL-229,4,2024-07-01,8,8,2.32,2.32,Needs Closer Monitoring
+NL-229,4,2024-08-01,9,6,0.55,0.37,Critical Underperformance
+NL-229,4,2024-10-01,7,2,1.28,0.37,Critical Underperformance
+NL-229,4,2024-11-01,10,4,3.54,1.42,Performance Improvement Plan
+NL-229,4,2025-01-01,4,4,1.44,1.44,Performance Improvement Plan
+NL-232,5,2024-03-01,10,3,2.24,0.67,Critical Underperformance
+NL-232,5,2024-04-01,6,6,1.05,1.05,Performance Improvement Plan
+NL-232,5,2024-05-01,10,9,1.97,1.77,Performance Improvement Plan
+NL-232,5,2024-07-01,5,5,1.45,1.45,Performance Improvement Plan
+NL-232,5,2024-08-01,4,3,0.74,0.55,Critical Underperformance
+NL-232,5,2024-10-01,5,5,0.91,0.91,Critical Underperformance
+NL-232,5,2024-11-01,9,7,3.5,2.72,Needs Closer Monitoring
+NL-232,5,2025-01-01,7,3,1.14,0.49,Critical Underperformance
+NL-235,5,2024-03-01,7,7,4.47,4.47,Outstanding Contributor
+NL-235,5,2024-04-01,5,2,1.1,0.44,Critical Underperformance
+NL-235,5,2024-05-01,7,5,3.36,2.4,Needs Closer Monitoring
+NL-235,5,2024-07-01,8,7,0.37,0.32,Critical Underperformance
+NL-235,5,2024-08-01,8,8,3.98,3.98,Consistently Effective
+NL-235,5,2024-10-01,6,4,4.95,3.3,Consistently Effective
+NL-235,5,2024-11-01,6,4,1.78,1.19,Performance Improvement Plan
+NL-235,5,2025-01-01,7,6,0.08,0.07,Critical Underperformance
+NL-236,22,2024-03-01,6,4,0.52,0.35,Critical Underperformance
+NL-236,22,2024-04-01,8,8,2.23,2.23,Needs Closer Monitoring
+NL-236,22,2024-05-01,7,6,2.53,2.17,Needs Closer Monitoring
+NL-236,22,2024-07-01,10,7,2.74,1.92,Performance Improvement Plan
+NL-236,22,2024-08-01,3,3,1.14,1.14,Performance Improvement Plan
+NL-236,22,2024-10-01,6,6,2.86,2.86,Needs Closer Monitoring
+NL-236,22,2024-11-01,3,2,2.41,1.61,Performance Improvement Plan
+NL-236,22,2025-01-01,7,4,4.52,2.58,Needs Closer Monitoring
+NL-237,21,2024-03-01,7,6,3.43,2.94,Needs Closer Monitoring
+NL-237,21,2024-04-01,4,2,1.31,0.66,Critical Underperformance
+NL-237,21,2024-05-01,9,2,1.91,0.42,Critical Underperformance
+NL-237,21,2024-07-01,7,7,1.69,1.69,Performance Improvement Plan
+NL-237,21,2024-08-01,5,5,2.85,2.85,Needs Closer Monitoring
+NL-237,21,2024-10-01,8,3,0.97,0.36,Critical Underperformance
+NL-237,21,2024-11-01,6,2,0.78,0.26,Critical Underperformance
+NL-237,21,2025-01-01,5,2,4.49,1.8,Performance Improvement Plan
+NL-239,6,2024-03-01,3,2,4.82,3.21,Consistently Effective
+NL-239,6,2024-04-01,5,4,1.85,1.48,Performance Improvement Plan
+NL-239,6,2024-05-01,9,9,3.56,3.56,Consistently Effective
+NL-239,6,2024-07-01,8,3,3.74,1.4,Performance Improvement Plan
+NL-239,6,2024-08-01,5,5,2.71,2.71,Needs Closer Monitoring
+NL-239,6,2024-10-01,5,5,2.91,2.91,Needs Closer Monitoring
+NL-239,6,2024-11-01,3,3,4.92,4.92,Outstanding Contributor
+NL-239,6,2025-01-01,8,4,3.1,1.55,Performance Improvement Plan
+NLI-042,20,2024-03-01,8,2,2.05,0.51,Critical Underperformance
+NLI-042,20,2024-04-01,7,2,2.82,0.81,Critical Underperformance
+NLI-042,20,2024-05-01,7,2,0.87,0.25,Critical Underperformance
+NLI-042,20,2024-07-01,6,6,1.69,1.69,Performance Improvement Plan
+NLI-042,20,2024-08-01,7,6,1.13,0.97,Critical Underperformance
+NLI-042,20,2024-10-01,4,4,3.84,3.84,Consistently Effective
+NLI-042,20,2024-11-01,3,3,4.73,4.73,Outstanding Contributor
+NLI-042,20,2025-01-01,4,3,2.05,1.54,Performance Improvement Plan
+NL-244,22,2024-03-01,7,7,3.56,3.56,Consistently Effective
+NL-244,22,2024-04-01,9,4,4.18,1.86,Performance Improvement Plan
+NL-244,22,2024-05-01,3,2,3.7,2.47,Needs Closer Monitoring
+NL-244,22,2024-07-01,5,4,4.34,3.47,Consistently Effective
+NL-244,22,2024-08-01,9,3,1.91,0.64,Critical Underperformance
+NL-244,22,2024-10-01,6,3,4.59,2.29,Needs Closer Monitoring
+NL-244,22,2024-11-01,8,4,1.15,0.57,Critical Underperformance
+NL-244,22,2025-01-01,4,4,0.91,0.91,Critical Underperformance
+NL-246,6,2024-03-01,5,2,3.86,1.54,Performance Improvement Plan
+NL-246,6,2024-04-01,8,3,3.54,1.33,Performance Improvement Plan
+NL-246,6,2024-05-01,3,3,4.52,4.52,Outstanding Contributor
+NL-246,6,2024-07-01,7,3,3.8,1.63,Performance Improvement Plan
+NL-246,6,2024-08-01,4,4,2.01,2.01,Needs Closer Monitoring
+NL-246,6,2024-10-01,8,7,1.05,0.92,Critical Underperformance
+NL-246,6,2024-11-01,6,5,0.82,0.68,Critical Underperformance
+NL-246,6,2025-01-01,7,6,2.71,2.32,Needs Closer Monitoring
+NL-247,11,2024-03-01,4,4,3.25,3.25,Consistently Effective
+NL-247,11,2024-04-01,8,5,1.24,0.78,Critical Underperformance
+NL-247,11,2024-05-01,8,8,3.77,3.77,Consistently Effective
+NL-247,11,2024-07-01,8,7,0.24,0.21,Critical Underperformance
+NL-247,11,2024-08-01,10,7,2.55,1.78,Performance Improvement Plan
+NL-247,11,2024-10-01,10,7,2.09,1.46,Performance Improvement Plan
+NL-247,11,2024-11-01,10,7,3.41,2.39,Needs Closer Monitoring
+NL-247,11,2025-01-01,7,2,3.86,1.1,Performance Improvement Plan
+NLI-043,10,2024-03-01,5,3,4.18,2.51,Needs Closer Monitoring
+NLI-043,10,2024-04-01,4,4,4.66,4.66,Outstanding Contributor
+NLI-043,10,2024-05-01,7,3,0.3,0.13,Critical Underperformance
+NLI-043,10,2024-07-01,10,4,3.56,1.42,Performance Improvement Plan
+NLI-043,10,2024-08-01,6,4,4.18,2.79,Needs Closer Monitoring
+NLI-043,10,2024-10-01,7,7,1.0,1.0,Performance Improvement Plan
+NLI-043,10,2024-11-01,6,2,0.62,0.21,Critical Underperformance
+NLI-043,10,2025-01-01,9,9,2.08,2.08,Needs Closer Monitoring
+NL-250,17,2024-03-01,9,9,1.22,1.22,Performance Improvement Plan
+NL-250,17,2024-04-01,6,3,1.82,0.91,Critical Underperformance
+NL-250,17,2024-05-01,9,3,1.54,0.51,Critical Underperformance
+NL-250,17,2024-07-01,4,3,3.59,2.69,Needs Closer Monitoring
+NL-250,17,2024-08-01,3,2,2.7,1.8,Performance Improvement Plan
+NL-250,17,2024-10-01,3,2,0.3,0.2,Critical Underperformance
+NL-250,17,2024-11-01,9,5,0.89,0.49,Critical Underperformance
+NL-250,17,2025-01-01,7,3,4.57,1.96,Performance Improvement Plan
+NL-252,11,2024-03-01,10,9,3.57,3.21,Consistently Effective
+NL-252,11,2024-04-01,6,5,4.55,3.79,Consistently Effective
+NL-252,11,2024-05-01,9,4,4.24,1.88,Performance Improvement Plan
+NL-252,11,2024-07-01,7,4,4.27,2.44,Needs Closer Monitoring
+NL-252,11,2024-08-01,6,3,0.24,0.12,Critical Underperformance
+NL-252,11,2024-10-01,5,4,4.74,3.79,Consistently Effective
+NL-252,11,2024-11-01,6,5,0.08,0.07,Critical Underperformance
+NL-252,11,2025-01-01,3,2,1.04,0.69,Critical Underperformance
+NL-257,26,2024-03-01,8,7,0.03,0.03,Critical Underperformance
+NL-257,26,2024-04-01,3,2,4.58,3.05,Consistently Effective
+NL-257,26,2024-05-01,9,5,4.36,2.42,Needs Closer Monitoring
+NL-257,26,2024-07-01,4,2,1.47,0.73,Critical Underperformance
+NL-257,26,2024-08-01,9,5,3.15,1.75,Performance Improvement Plan
+NL-257,26,2024-10-01,9,8,0.95,0.84,Critical Underperformance
+NL-257,26,2024-11-01,10,2,2.32,0.46,Critical Underperformance
+NL-257,26,2025-01-01,6,4,0.47,0.31,Critical Underperformance
+NL-260,21,2024-03-01,5,2,3.79,1.52,Performance Improvement Plan
+NL-260,21,2024-04-01,9,6,2.37,1.58,Performance Improvement Plan
+NL-260,21,2024-05-01,10,5,3.02,1.51,Performance Improvement Plan
+NL-260,21,2024-07-01,8,2,1.73,0.43,Critical Underperformance
+NL-260,21,2024-08-01,6,4,4.04,2.69,Needs Closer Monitoring
+NL-260,21,2024-10-01,10,5,1.17,0.58,Critical Underperformance
+NL-260,21,2024-11-01,5,5,4.36,4.36,Outstanding Contributor
+NL-260,21,2025-01-01,10,3,4.53,1.36,Performance Improvement Plan
+NL-263,17,2024-03-01,9,6,3.48,2.32,Needs Closer Monitoring
+NL-263,17,2024-04-01,9,9,1.99,1.99,Performance Improvement Plan
+NL-263,17,2024-05-01,8,4,2.81,1.41,Performance Improvement Plan
+NL-263,17,2024-07-01,3,3,4.33,4.33,Outstanding Contributor
+NL-263,17,2024-08-01,10,2,1.24,0.25,Critical Underperformance
+NL-263,17,2024-10-01,7,4,3.66,2.09,Needs Closer Monitoring
+NL-263,17,2024-11-01,7,3,1.72,0.74,Critical Underperformance
+NL-263,17,2025-01-01,9,6,0.33,0.22,Critical Underperformance
+NL-264,11,2024-03-01,6,4,3.95,2.63,Needs Closer Monitoring
+NL-264,11,2024-04-01,6,3,0.42,0.21,Critical Underperformance
+NL-264,11,2024-05-01,3,3,4.39,4.39,Outstanding Contributor
+NL-264,11,2024-07-01,5,4,2.64,2.11,Needs Closer Monitoring
+NL-264,11,2024-08-01,9,4,3.08,1.37,Performance Improvement Plan
+NL-264,11,2024-10-01,7,5,3.99,2.85,Needs Closer Monitoring
+NL-264,11,2024-11-01,10,9,0.35,0.32,Critical Underperformance
+NL-264,11,2025-01-01,3,3,3.97,3.97,Consistently Effective
+NL-265,22,2024-03-01,8,8,1.78,1.78,Performance Improvement Plan
+NL-265,22,2024-04-01,8,7,3.36,2.94,Needs Closer Monitoring
+NL-265,22,2024-05-01,5,5,3.9,3.9,Consistently Effective
+NL-265,22,2024-07-01,9,5,4.96,2.76,Needs Closer Monitoring
+NL-265,22,2024-08-01,4,2,4.58,2.29,Needs Closer Monitoring
+NL-265,22,2024-10-01,5,5,3.09,3.09,Consistently Effective
+NL-265,22,2024-11-01,6,4,1.91,1.27,Performance Improvement Plan
+NL-265,22,2025-01-01,7,5,2.75,1.96,Performance Improvement Plan
+NLI-045,4,2024-03-01,6,2,4.17,1.39,Performance Improvement Plan
+NLI-045,4,2024-04-01,10,7,2.51,1.76,Performance Improvement Plan
+NLI-045,4,2024-05-01,3,3,1.56,1.56,Performance Improvement Plan
+NLI-045,4,2024-07-01,10,4,0.19,0.08,Critical Underperformance
+NLI-045,4,2024-08-01,8,5,2.48,1.55,Performance Improvement Plan
+NLI-045,4,2024-10-01,10,4,3.26,1.3,Performance Improvement Plan
+NLI-045,4,2024-11-01,10,3,0.08,0.02,Critical Underperformance
+NLI-045,4,2025-01-01,3,3,4.25,4.25,Outstanding Contributor
+NL-269,22,2024-03-01,10,3,3.13,0.94,Critical Underperformance
+NL-269,22,2024-04-01,4,2,1.92,0.96,Critical Underperformance
+NL-269,22,2024-05-01,6,5,4.27,3.56,Consistently Effective
+NL-269,22,2024-07-01,7,4,2.55,1.46,Performance Improvement Plan
+NL-269,22,2024-08-01,9,5,4.84,2.69,Needs Closer Monitoring
+NL-269,22,2024-10-01,5,5,0.08,0.08,Critical Underperformance
+NL-269,22,2024-11-01,7,5,2.69,1.92,Performance Improvement Plan
+NL-269,22,2025-01-01,10,10,4.6,4.6,Outstanding Contributor
+NL-273,11,2024-03-01,8,6,1.06,0.8,Critical Underperformance
+NL-273,11,2024-04-01,4,2,4.17,2.08,Needs Closer Monitoring
+NL-273,11,2024-05-01,10,3,4.31,1.29,Performance Improvement Plan
+NL-273,11,2024-07-01,8,8,4.93,4.93,Outstanding Contributor
+NL-273,11,2024-08-01,8,4,3.35,1.68,Performance Improvement Plan
+NL-273,11,2024-10-01,7,2,2.05,0.59,Critical Underperformance
+NL-273,11,2024-11-01,10,6,4.57,2.74,Needs Closer Monitoring
+NL-273,11,2025-01-01,6,2,0.88,0.29,Critical Underperformance
+NL-274,13,2024-03-01,6,5,3.73,3.11,Consistently Effective
+NL-274,13,2024-04-01,9,3,2.47,0.82,Critical Underperformance
+NL-274,13,2024-05-01,8,3,4.97,1.86,Performance Improvement Plan
+NL-274,13,2024-07-01,9,9,2.59,2.59,Needs Closer Monitoring
+NL-274,13,2024-08-01,7,4,0.22,0.13,Critical Underperformance
+NL-274,13,2024-10-01,6,5,2.75,2.29,Needs Closer Monitoring
+NL-274,13,2024-11-01,7,4,0.14,0.08,Critical Underperformance
+NL-274,13,2025-01-01,10,2,4.56,0.91,Critical Underperformance
+NL-275,8,2024-03-01,6,5,3.2,2.67,Needs Closer Monitoring
+NL-275,8,2024-04-01,8,4,3.31,1.66,Performance Improvement Plan
+NL-275,8,2024-05-01,9,7,0.51,0.4,Critical Underperformance
+NL-275,8,2024-07-01,7,4,0.13,0.07,Critical Underperformance
+NL-275,8,2024-08-01,10,3,2.83,0.85,Critical Underperformance
+NL-275,8,2024-10-01,7,5,0.37,0.26,Critical Underperformance
+NL-275,8,2024-11-01,10,5,3.19,1.59,Performance Improvement Plan
+NL-275,8,2025-01-01,7,4,1.35,0.77,Critical Underperformance
+NL-276,29,2024-03-01,3,2,4.67,3.11,Consistently Effective
+NL-276,29,2024-04-01,6,2,2.42,0.81,Critical Underperformance
+NL-276,29,2024-05-01,9,2,4.3,0.96,Critical Underperformance
+NL-276,29,2024-07-01,6,6,2.26,2.26,Needs Closer Monitoring
+NL-276,29,2024-08-01,3,3,0.94,0.94,Critical Underperformance
+NL-276,29,2024-10-01,7,6,0.93,0.8,Critical Underperformance
+NL-276,29,2024-11-01,9,5,4.66,2.59,Needs Closer Monitoring
+NL-276,29,2025-01-01,4,4,0.49,0.49,Critical Underperformance
+NL-289,30,2024-03-01,5,2,2.69,1.08,Performance Improvement Plan
+NL-289,30,2024-04-01,7,4,1.67,0.95,Critical Underperformance
+NL-289,30,2024-05-01,9,9,2.44,2.44,Needs Closer Monitoring
+NL-289,30,2024-07-01,7,3,3.22,1.38,Performance Improvement Plan
+NL-289,30,2024-08-01,6,6,2.45,2.45,Needs Closer Monitoring
+NL-289,30,2024-10-01,6,2,3.62,1.21,Performance Improvement Plan
+NL-289,30,2024-11-01,7,2,1.44,0.41,Critical Underperformance
+NL-289,30,2025-01-01,7,7,0.4,0.4,Critical Underperformance
+NL-294,30,2024-03-01,10,10,1.28,1.28,Performance Improvement Plan
+NL-294,30,2024-04-01,9,7,4.49,3.49,Consistently Effective
+NL-294,30,2024-05-01,5,5,0.55,0.55,Critical Underperformance
+NL-294,30,2024-07-01,8,4,0.87,0.43,Critical Underperformance
+NL-294,30,2024-08-01,8,5,0.35,0.22,Critical Underperformance
+NL-294,30,2024-10-01,10,2,1.71,0.34,Critical Underperformance
+NL-294,30,2024-11-01,9,7,1.03,0.8,Critical Underperformance
+NL-294,30,2025-01-01,5,2,0.32,0.13,Critical Underperformance
+NL-297,30,2024-03-01,4,4,1.37,1.37,Performance Improvement Plan
+NL-297,30,2024-04-01,9,7,3.57,2.78,Needs Closer Monitoring
+NL-297,30,2024-05-01,7,3,1.8,0.77,Critical Underperformance
+NL-297,30,2024-07-01,3,3,3.49,3.49,Consistently Effective
+NL-297,30,2024-08-01,3,3,0.89,0.89,Critical Underperformance
+NL-297,30,2024-10-01,7,3,1.7,0.73,Critical Underperformance
+NL-297,30,2024-11-01,3,3,3.78,3.78,Consistently Effective
+NL-297,30,2025-01-01,4,3,4.79,3.59,Consistently Effective
+NLI-049,8,2024-03-01,4,3,4.99,3.74,Consistently Effective
+NLI-049,8,2024-04-01,10,8,0.19,0.15,Critical Underperformance
+NLI-049,8,2024-05-01,10,6,3.92,2.35,Needs Closer Monitoring
+NLI-049,8,2024-07-01,8,6,1.43,1.07,Performance Improvement Plan
+NLI-049,8,2024-08-01,8,8,0.49,0.49,Critical Underperformance
+NLI-049,8,2024-10-01,7,6,2.23,1.91,Performance Improvement Plan
+NLI-049,8,2024-11-01,3,2,0.71,0.47,Critical Underperformance
+NLI-049,8,2025-01-01,5,2,0.31,0.12,Critical Underperformance
+NLI-051,12,2024-03-01,9,6,1.38,0.92,Critical Underperformance
+NLI-051,12,2024-04-01,6,4,1.06,0.71,Critical Underperformance
+NLI-051,12,2024-05-01,7,2,2.32,0.66,Critical Underperformance
+NLI-051,12,2024-07-01,5,5,3.2,3.2,Consistently Effective
+NLI-051,12,2024-08-01,10,10,3.8,3.8,Consistently Effective
+NLI-051,12,2024-10-01,6,6,0.64,0.64,Critical Underperformance
+NLI-051,12,2024-11-01,9,6,1.61,1.07,Performance Improvement Plan
+NLI-051,12,2025-01-01,7,4,0.69,0.39,Critical Underperformance
+NL-298,7,2024-03-01,10,4,1.17,0.47,Critical Underperformance
+NL-298,7,2024-04-01,10,6,1.98,1.19,Performance Improvement Plan
+NL-298,7,2024-05-01,10,7,4.88,3.42,Consistently Effective
+NL-298,7,2024-07-01,4,4,3.61,3.61,Consistently Effective
+NL-298,7,2024-08-01,7,3,1.51,0.65,Critical Underperformance
+NL-298,7,2024-10-01,4,3,1.42,1.06,Performance Improvement Plan
+NL-298,7,2024-11-01,4,3,1.31,0.98,Critical Underperformance
+NL-298,7,2025-01-01,7,5,1.45,1.04,Performance Improvement Plan
+NL-299,22,2024-03-01,4,2,3.09,1.54,Performance Improvement Plan
+NL-299,22,2024-04-01,3,3,3.54,3.54,Consistently Effective
+NL-299,22,2024-05-01,4,3,4.76,3.57,Consistently Effective
+NL-299,22,2024-07-01,6,2,0.5,0.17,Critical Underperformance
+NL-299,22,2024-08-01,4,4,2.13,2.13,Needs Closer Monitoring
+NL-299,22,2024-10-01,9,9,2.21,2.21,Needs Closer Monitoring
+NL-299,22,2024-11-01,7,7,2.94,2.94,Needs Closer Monitoring
+NL-299,22,2025-01-01,7,7,4.3,4.3,Outstanding Contributor
+NL-300,5,2024-03-01,6,5,3.14,2.62,Needs Closer Monitoring
+NL-300,5,2024-04-01,7,7,2.45,2.45,Needs Closer Monitoring
+NL-300,5,2024-05-01,8,6,2.33,1.75,Performance Improvement Plan
+NL-300,5,2024-07-01,7,3,3.06,1.31,Performance Improvement Plan
+NL-300,5,2024-08-01,6,4,4.39,2.93,Needs Closer Monitoring
+NL-300,5,2024-10-01,8,4,3.36,1.68,Performance Improvement Plan
+NL-300,5,2024-11-01,5,4,1.2,0.96,Critical Underperformance
+NL-300,5,2025-01-01,4,3,1.84,1.38,Performance Improvement Plan
+NL-301,20,2024-03-01,4,2,3.62,1.81,Performance Improvement Plan
+NL-301,20,2024-04-01,10,5,0.35,0.17,Critical Underperformance
+NL-301,20,2024-05-01,8,5,4.1,2.56,Needs Closer Monitoring
+NL-301,20,2024-07-01,9,4,1.31,0.58,Critical Underperformance
+NL-301,20,2024-08-01,3,3,2.16,2.16,Needs Closer Monitoring
+NL-301,20,2024-10-01,8,7,3.58,3.13,Consistently Effective
+NL-301,20,2024-11-01,7,6,1.36,1.17,Performance Improvement Plan
+NL-301,20,2025-01-01,6,2,3.2,1.07,Performance Improvement Plan
+NL-307,12,2024-03-01,8,5,3.86,2.41,Needs Closer Monitoring
+NL-307,12,2024-04-01,9,4,1.61,0.72,Critical Underperformance
+NL-307,12,2024-05-01,4,3,2.36,1.77,Performance Improvement Plan
+NL-307,12,2024-07-01,3,2,3.85,2.57,Needs Closer Monitoring
+NL-307,12,2024-08-01,7,3,4.28,1.83,Performance Improvement Plan
+NL-307,12,2024-10-01,4,4,4.95,4.95,Outstanding Contributor
+NL-307,12,2024-11-01,10,6,3.62,2.17,Needs Closer Monitoring
+NL-307,12,2025-01-01,7,3,3.45,1.48,Performance Improvement Plan
+NL-309,4,2024-03-01,7,4,4.56,2.61,Needs Closer Monitoring
+NL-309,4,2024-04-01,7,6,2.38,2.04,Needs Closer Monitoring
+NL-309,4,2024-05-01,8,2,2.73,0.68,Critical Underperformance
+NL-309,4,2024-07-01,6,6,2.74,2.74,Needs Closer Monitoring
+NL-309,4,2024-08-01,5,5,3.07,3.07,Consistently Effective
+NL-309,4,2024-10-01,7,4,4.17,2.38,Needs Closer Monitoring
+NL-309,4,2024-11-01,9,5,4.17,2.32,Needs Closer Monitoring
+NL-309,4,2025-01-01,5,2,0.09,0.04,Critical Underperformance
+NL-311,16,2024-03-01,6,6,2.87,2.87,Needs Closer Monitoring
+NL-311,16,2024-04-01,3,2,4.87,3.25,Consistently Effective
+NL-311,16,2024-05-01,5,4,3.17,2.54,Needs Closer Monitoring
+NL-311,16,2024-07-01,7,2,1.9,0.54,Critical Underperformance
+NL-311,16,2024-08-01,5,3,3.7,2.22,Needs Closer Monitoring
+NL-311,16,2024-10-01,10,2,4.29,0.86,Critical Underperformance
+NL-311,16,2024-11-01,10,7,2.18,1.53,Performance Improvement Plan
+NL-311,16,2025-01-01,5,3,3.57,2.14,Needs Closer Monitoring
+NL-312,13,2024-03-01,10,2,3.91,0.78,Critical Underperformance
+NL-312,13,2024-04-01,3,2,3.21,2.14,Needs Closer Monitoring
+NL-312,13,2024-05-01,8,3,3.53,1.32,Performance Improvement Plan
+NL-312,13,2024-07-01,6,3,1.41,0.7,Critical Underperformance
+NL-312,13,2024-08-01,8,6,4.01,3.01,Consistently Effective
+NL-312,13,2024-10-01,9,9,1.64,1.64,Performance Improvement Plan
+NL-312,13,2024-11-01,9,8,0.53,0.47,Critical Underperformance
+NL-312,13,2025-01-01,6,6,3.93,3.93,Consistently Effective
+NLI-052,8,2024-03-01,3,2,2.42,1.61,Performance Improvement Plan
+NLI-052,8,2024-04-01,5,5,0.73,0.73,Critical Underperformance
+NLI-052,8,2024-05-01,8,6,2.54,1.91,Performance Improvement Plan
+NLI-052,8,2024-07-01,5,3,2.32,1.39,Performance Improvement Plan
+NLI-052,8,2024-08-01,4,2,1.19,0.59,Critical Underperformance
+NLI-052,8,2024-10-01,3,3,1.76,1.76,Performance Improvement Plan
+NLI-052,8,2024-11-01,3,3,0.12,0.12,Critical Underperformance
+NLI-052,8,2025-01-01,3,2,3.08,2.05,Needs Closer Monitoring
+NL-315,26,2024-03-01,9,7,3.39,2.64,Needs Closer Monitoring
+NL-315,26,2024-04-01,10,2,1.73,0.35,Critical Underperformance
+NL-315,26,2024-05-01,5,5,1.98,1.98,Performance Improvement Plan
+NL-315,26,2024-07-01,5,2,0.19,0.08,Critical Underperformance
+NL-315,26,2024-08-01,5,2,1.24,0.5,Critical Underperformance
+NL-315,26,2024-10-01,3,3,1.32,1.32,Performance Improvement Plan
+NL-315,26,2024-11-01,8,6,3.79,2.84,Needs Closer Monitoring
+NL-315,26,2025-01-01,9,7,2.67,2.08,Needs Closer Monitoring
+NLI-053,22,2024-03-01,9,2,3.52,0.78,Critical Underperformance
+NLI-053,22,2024-04-01,10,3,1.97,0.59,Critical Underperformance
+NLI-053,22,2024-05-01,7,2,1.7,0.49,Critical Underperformance
+NLI-053,22,2024-07-01,7,3,3.4,1.46,Performance Improvement Plan
+NLI-053,22,2024-08-01,8,4,0.76,0.38,Critical Underperformance
+NLI-053,22,2024-10-01,10,2,0.16,0.03,Critical Underperformance
+NLI-053,22,2024-11-01,10,7,3.93,2.75,Needs Closer Monitoring
+NLI-053,22,2025-01-01,9,4,1.63,0.72,Critical Underperformance
+NL-318,29,2024-03-01,4,3,4.75,3.56,Consistently Effective
+NL-318,29,2024-04-01,7,2,3.17,0.91,Critical Underperformance
+NL-318,29,2024-05-01,9,2,2.45,0.54,Critical Underperformance
+NL-318,29,2024-07-01,9,4,0.93,0.41,Critical Underperformance
+NL-318,29,2024-08-01,6,4,0.69,0.46,Critical Underperformance
+NL-318,29,2024-10-01,8,5,0.63,0.39,Critical Underperformance
+NL-318,29,2024-11-01,10,3,2.92,0.88,Critical Underperformance
+NL-318,29,2025-01-01,10,4,4.43,1.77,Performance Improvement Plan
+NL-320,1,2024-03-01,3,3,1.76,1.76,Performance Improvement Plan
+NL-320,1,2024-04-01,5,2,3.89,1.56,Performance Improvement Plan
+NL-320,1,2024-05-01,6,2,2.54,0.85,Critical Underperformance
+NL-320,1,2024-07-01,3,3,2.53,2.53,Needs Closer Monitoring
+NL-320,1,2024-08-01,6,6,3.87,3.87,Consistently Effective
+NL-320,1,2024-10-01,9,7,1.62,1.26,Performance Improvement Plan
+NL-320,1,2024-11-01,6,6,3.03,3.03,Consistently Effective
+NL-320,1,2025-01-01,8,3,3.58,1.34,Performance Improvement Plan
+NL-324,20,2024-03-01,4,3,2.07,1.55,Performance Improvement Plan
+NL-324,20,2024-04-01,6,4,4.01,2.67,Needs Closer Monitoring
+NL-324,20,2024-05-01,3,2,4.65,3.1,Consistently Effective
+NL-324,20,2024-07-01,4,4,2.01,2.01,Needs Closer Monitoring
+NL-324,20,2024-08-01,5,4,1.59,1.27,Performance Improvement Plan
+NL-324,20,2024-10-01,4,4,0.07,0.07,Critical Underperformance
+NL-324,20,2024-11-01,7,4,4.46,2.55,Needs Closer Monitoring
+NL-324,20,2025-01-01,5,4,2.98,2.38,Needs Closer Monitoring
+NL-325,16,2024-03-01,7,3,3.49,1.5,Performance Improvement Plan
+NL-325,16,2024-04-01,6,2,0.89,0.3,Critical Underperformance
+NL-325,16,2024-05-01,8,7,4.08,3.57,Consistently Effective
+NL-325,16,2024-07-01,4,2,3.37,1.69,Performance Improvement Plan
+NL-325,16,2024-08-01,5,4,1.32,1.06,Performance Improvement Plan
+NL-325,16,2024-10-01,8,2,4.89,1.22,Performance Improvement Plan
+NL-325,16,2024-11-01,5,4,0.8,0.64,Critical Underperformance
+NL-325,16,2025-01-01,10,6,0.45,0.27,Critical Underperformance
+NL-327,16,2024-03-01,3,2,3.89,2.59,Needs Closer Monitoring
+NL-327,16,2024-04-01,7,2,0.08,0.02,Critical Underperformance
+NL-327,16,2024-05-01,9,2,3.46,0.77,Critical Underperformance
+NL-327,16,2024-07-01,5,5,4.88,4.88,Outstanding Contributor
+NL-327,16,2024-08-01,9,6,2.35,1.57,Performance Improvement Plan
+NL-327,16,2024-10-01,5,5,0.79,0.79,Critical Underperformance
+NL-327,16,2024-11-01,9,8,1.11,0.99,Critical Underperformance
+NL-327,16,2025-01-01,4,4,4.55,4.55,Outstanding Contributor
+NL-328,19,2024-03-01,3,3,2.4,2.4,Needs Closer Monitoring
+NL-328,19,2024-04-01,6,5,1.11,0.93,Critical Underperformance
+NL-328,19,2024-05-01,8,3,1.88,0.7,Critical Underperformance
+NL-328,19,2024-07-01,6,2,3.84,1.28,Performance Improvement Plan
+NL-328,19,2024-08-01,10,8,1.86,1.49,Performance Improvement Plan
+NL-328,19,2024-10-01,9,3,3.29,1.1,Performance Improvement Plan
+NL-328,19,2024-11-01,7,2,1.19,0.34,Critical Underperformance
+NL-328,19,2025-01-01,8,3,3.96,1.48,Performance Improvement Plan
+NL-329,26,2024-03-01,4,4,1.86,1.86,Performance Improvement Plan
+NL-329,26,2024-04-01,6,3,4.64,2.32,Needs Closer Monitoring
+NL-329,26,2024-05-01,5,2,4.19,1.68,Performance Improvement Plan
+NL-329,26,2024-07-01,8,2,4.66,1.17,Performance Improvement Plan
+NL-329,26,2024-08-01,7,7,3.09,3.09,Consistently Effective
+NL-329,26,2024-10-01,6,3,1.68,0.84,Critical Underperformance
+NL-329,26,2024-11-01,7,2,1.91,0.55,Critical Underperformance
+NL-329,26,2025-01-01,8,2,1.92,0.48,Critical Underperformance
+NL-330,7,2024-03-01,4,4,2.3,2.3,Needs Closer Monitoring
+NL-330,7,2024-04-01,8,7,0.36,0.32,Critical Underperformance
+NL-330,7,2024-05-01,5,3,1.02,0.61,Critical Underperformance
+NL-330,7,2024-07-01,3,2,2.06,1.37,Performance Improvement Plan
+NL-330,7,2024-08-01,10,10,4.13,4.13,Outstanding Contributor
+NL-330,7,2024-10-01,4,3,1.72,1.29,Performance Improvement Plan
+NL-330,7,2024-11-01,7,6,4.14,3.55,Consistently Effective
+NL-330,7,2025-01-01,7,7,4.86,4.86,Outstanding Contributor
+NL-333,7,2024-03-01,8,7,0.53,0.46,Critical Underperformance
+NL-333,7,2024-04-01,3,2,4.02,2.68,Needs Closer Monitoring
+NL-333,7,2024-05-01,3,2,3.3,2.2,Needs Closer Monitoring
+NL-333,7,2024-07-01,9,9,4.82,4.82,Outstanding Contributor
+NL-333,7,2024-08-01,6,2,4.84,1.61,Performance Improvement Plan
+NL-333,7,2024-10-01,10,4,0.11,0.04,Critical Underperformance
+NL-333,7,2024-11-01,9,6,3.59,2.39,Needs Closer Monitoring
+NL-333,7,2025-01-01,10,7,3.95,2.77,Needs Closer Monitoring
+NL-334,5,2024-03-01,5,4,0.11,0.09,Critical Underperformance
+NL-334,5,2024-04-01,7,5,4.71,3.36,Consistently Effective
+NL-334,5,2024-05-01,5,4,4.06,3.25,Consistently Effective
+NL-334,5,2024-07-01,9,5,0.47,0.26,Critical Underperformance
+NL-334,5,2024-08-01,5,2,4.82,1.93,Performance Improvement Plan
+NL-334,5,2024-10-01,9,7,3.46,2.69,Needs Closer Monitoring
+NL-334,5,2024-11-01,9,8,2.5,2.22,Needs Closer Monitoring
+NL-334,5,2025-01-01,10,9,3.83,3.45,Consistently Effective
+NL-336,4,2024-03-01,4,2,0.12,0.06,Critical Underperformance
+NL-336,4,2024-04-01,5,4,3.09,2.47,Needs Closer Monitoring
+NL-336,4,2024-05-01,4,3,2.66,2.0,Needs Closer Monitoring
+NL-336,4,2024-07-01,3,3,0.58,0.58,Critical Underperformance
+NL-336,4,2024-08-01,8,2,1.9,0.47,Critical Underperformance
+NL-336,4,2024-10-01,4,2,3.3,1.65,Performance Improvement Plan
+NL-336,4,2024-11-01,8,6,2.65,1.99,Performance Improvement Plan
+NL-336,4,2025-01-01,8,8,4.74,4.74,Outstanding Contributor
+NL-341,17,2024-03-01,3,3,1.39,1.39,Performance Improvement Plan
+NL-341,17,2024-04-01,4,2,3.98,1.99,Performance Improvement Plan
+NL-341,17,2024-05-01,9,6,4.92,3.28,Consistently Effective
+NL-341,17,2024-07-01,4,4,4.62,4.62,Outstanding Contributor
+NL-341,17,2024-08-01,5,2,4.55,1.82,Performance Improvement Plan
+NL-341,17,2024-10-01,7,5,2.07,1.48,Performance Improvement Plan
+NL-341,17,2024-11-01,9,2,0.05,0.01,Critical Underperformance
+NL-341,17,2025-01-01,4,4,2.88,2.88,Needs Closer Monitoring
+NL-344,4,2024-03-01,9,9,3.99,3.99,Consistently Effective
+NL-344,4,2024-04-01,10,8,3.93,3.14,Consistently Effective
+NL-344,4,2024-05-01,10,8,2.47,1.98,Performance Improvement Plan
+NL-344,4,2024-07-01,6,3,0.48,0.24,Critical Underperformance
+NL-344,4,2024-08-01,7,3,0.77,0.33,Critical Underperformance
+NL-344,4,2024-10-01,8,6,1.7,1.27,Performance Improvement Plan
+NL-344,4,2024-11-01,10,2,3.35,0.67,Critical Underperformance
+NL-344,4,2025-01-01,6,4,2.26,1.51,Performance Improvement Plan
+NL-346,21,2024-03-01,7,6,0.21,0.18,Critical Underperformance
+NL-346,21,2024-04-01,3,3,1.5,1.5,Performance Improvement Plan
+NL-346,21,2024-05-01,7,3,4.62,1.98,Performance Improvement Plan
+NL-346,21,2024-07-01,9,4,4.75,2.11,Needs Closer Monitoring
+NL-346,21,2024-08-01,4,3,2.46,1.84,Performance Improvement Plan
+NL-346,21,2024-10-01,10,2,2.57,0.51,Critical Underperformance
+NL-346,21,2024-11-01,5,4,4.52,3.62,Consistently Effective
+NL-346,21,2025-01-01,9,6,1.7,1.13,Performance Improvement Plan
+NL-348,23,2024-03-01,3,2,0.69,0.46,Critical Underperformance
+NL-348,23,2024-04-01,10,9,3.17,2.85,Needs Closer Monitoring
+NL-348,23,2024-05-01,7,7,0.02,0.02,Critical Underperformance
+NL-348,23,2024-07-01,8,7,4.57,4.0,Outstanding Contributor
+NL-348,23,2024-08-01,3,2,2.9,1.93,Performance Improvement Plan
+NL-348,23,2024-10-01,10,10,3.98,3.98,Consistently Effective
+NL-348,23,2024-11-01,9,5,2.25,1.25,Performance Improvement Plan
+NL-348,23,2025-01-01,8,5,2.48,1.55,Performance Improvement Plan
+NL-350,16,2024-03-01,3,3,2.97,2.97,Needs Closer Monitoring
+NL-350,16,2024-04-01,7,5,1.62,1.16,Performance Improvement Plan
+NL-350,16,2024-05-01,6,4,0.98,0.65,Critical Underperformance
+NL-350,16,2024-07-01,4,3,0.4,0.3,Critical Underperformance
+NL-350,16,2024-08-01,5,3,3.63,2.18,Needs Closer Monitoring
+NL-350,16,2024-10-01,3,2,3.05,2.03,Needs Closer Monitoring
+NL-350,16,2024-11-01,10,9,2.24,2.02,Needs Closer Monitoring
+NL-350,16,2025-01-01,7,3,3.9,1.67,Performance Improvement Plan
+NL-351,9,2024-03-01,8,6,4.55,3.41,Consistently Effective
+NL-351,9,2024-04-01,10,2,1.87,0.37,Critical Underperformance
+NL-351,9,2024-05-01,3,3,3.99,3.99,Consistently Effective
+NL-351,9,2024-07-01,9,5,2.02,1.12,Performance Improvement Plan
+NL-351,9,2024-08-01,3,3,4.43,4.43,Outstanding Contributor
+NL-351,9,2024-10-01,10,2,1.67,0.33,Critical Underperformance
+NL-351,9,2024-11-01,8,6,2.68,2.01,Needs Closer Monitoring
+NL-351,9,2025-01-01,9,9,1.75,1.75,Performance Improvement Plan
+NL-352,26,2024-03-01,9,3,0.71,0.24,Critical Underperformance
+NL-352,26,2024-04-01,5,2,1.03,0.41,Critical Underperformance
+NL-352,26,2024-05-01,4,2,2.73,1.36,Performance Improvement Plan
+NL-352,26,2024-07-01,3,3,0.7,0.7,Critical Underperformance
+NL-352,26,2024-08-01,9,4,2.51,1.12,Performance Improvement Plan
+NL-352,26,2024-10-01,7,7,1.86,1.86,Performance Improvement Plan
+NL-352,26,2024-11-01,6,4,0.7,0.47,Critical Underperformance
+NL-352,26,2025-01-01,6,5,3.67,3.06,Consistently Effective
+NL-353,1,2024-03-01,9,6,2.48,1.65,Performance Improvement Plan
+NL-353,1,2024-04-01,4,3,3.01,2.26,Needs Closer Monitoring
+NL-353,1,2024-05-01,4,4,4.8,4.8,Outstanding Contributor
+NL-353,1,2024-07-01,9,3,2.62,0.87,Critical Underperformance
+NL-353,1,2024-08-01,6,2,4.17,1.39,Performance Improvement Plan
+NL-353,1,2024-10-01,7,2,1.18,0.34,Critical Underperformance
+NL-353,1,2024-11-01,6,5,3.0,2.5,Needs Closer Monitoring
+NL-353,1,2025-01-01,5,4,0.31,0.25,Critical Underperformance
+NL-356,27,2024-03-01,8,6,0.26,0.2,Critical Underperformance
+NL-356,27,2024-04-01,5,4,2.75,2.2,Needs Closer Monitoring
+NL-356,27,2024-05-01,5,2,3.5,1.4,Performance Improvement Plan
+NL-356,27,2024-07-01,8,5,1.2,0.75,Critical Underperformance
+NL-356,27,2024-08-01,7,4,4.71,2.69,Needs Closer Monitoring
+NL-356,27,2024-10-01,9,7,1.77,1.38,Performance Improvement Plan
+NL-356,27,2024-11-01,8,6,2.24,1.68,Performance Improvement Plan
+NL-356,27,2025-01-01,6,6,2.1,2.1,Needs Closer Monitoring
+NL-362,11,2024-03-01,5,5,4.64,4.64,Outstanding Contributor
+NL-362,11,2024-04-01,7,2,3.54,1.01,Performance Improvement Plan
+NL-362,11,2024-05-01,10,9,2.87,2.58,Needs Closer Monitoring
+NL-362,11,2024-07-01,3,3,0.16,0.16,Critical Underperformance
+NL-362,11,2024-08-01,7,5,2.43,1.74,Performance Improvement Plan
+NL-362,11,2024-10-01,5,5,4.1,4.1,Outstanding Contributor
+NL-362,11,2024-11-01,8,5,3.99,2.49,Needs Closer Monitoring
+NL-362,11,2025-01-01,5,3,4.73,2.84,Needs Closer Monitoring
+NLI-058,18,2024-03-01,10,4,2.14,0.86,Critical Underperformance
+NLI-058,18,2024-04-01,4,2,0.83,0.41,Critical Underperformance
+NLI-058,18,2024-05-01,7,6,1.72,1.47,Performance Improvement Plan
+NLI-058,18,2024-07-01,10,7,1.26,0.88,Critical Underperformance
+NLI-058,18,2024-08-01,7,4,2.24,1.28,Performance Improvement Plan
+NLI-058,18,2024-10-01,8,5,1.67,1.04,Performance Improvement Plan
+NLI-058,18,2024-11-01,8,2,3.11,0.78,Critical Underperformance
+NLI-058,18,2025-01-01,9,5,2.96,1.64,Performance Improvement Plan
+NL-363,13,2024-03-01,3,3,2.52,2.52,Needs Closer Monitoring
+NL-363,13,2024-04-01,10,9,0.4,0.36,Critical Underperformance
+NL-363,13,2024-05-01,9,7,3.73,2.9,Needs Closer Monitoring
+NL-363,13,2024-07-01,10,10,1.0,1.0,Performance Improvement Plan
+NL-363,13,2024-08-01,3,3,2.49,2.49,Needs Closer Monitoring
+NL-363,13,2024-10-01,6,2,3.73,1.24,Performance Improvement Plan
+NL-363,13,2024-11-01,4,3,4.48,3.36,Consistently Effective
+NL-363,13,2025-01-01,4,3,2.35,1.76,Performance Improvement Plan
+NL-364,12,2024-03-01,6,2,2.66,0.89,Critical Underperformance
+NL-364,12,2024-04-01,3,2,1.47,0.98,Critical Underperformance
+NL-364,12,2024-05-01,3,2,3.4,2.27,Needs Closer Monitoring
+NL-364,12,2024-07-01,3,2,0.79,0.53,Critical Underperformance
+NL-364,12,2024-08-01,3,2,3.88,2.59,Needs Closer Monitoring
+NL-364,12,2024-10-01,3,2,2.58,1.72,Performance Improvement Plan
+NL-364,12,2024-11-01,7,6,4.42,3.79,Consistently Effective
+NL-364,12,2025-01-01,7,6,1.45,1.24,Performance Improvement Plan
+NL-366,30,2024-03-01,6,3,3.44,1.72,Performance Improvement Plan
+NL-366,30,2024-04-01,3,3,2.87,2.87,Needs Closer Monitoring
+NL-366,30,2024-05-01,4,4,2.56,2.56,Needs Closer Monitoring
+NL-366,30,2024-07-01,4,4,4.22,4.22,Outstanding Contributor
+NL-366,30,2024-08-01,5,2,2.53,1.01,Performance Improvement Plan
+NL-366,30,2024-10-01,4,2,3.69,1.84,Performance Improvement Plan
+NL-366,30,2024-11-01,9,5,4.69,2.61,Needs Closer Monitoring
+NL-366,30,2025-01-01,8,4,3.78,1.89,Performance Improvement Plan
+NLI-060,28,2024-03-01,4,2,0.37,0.18,Critical Underperformance
+NLI-060,28,2024-04-01,7,6,2.69,2.31,Needs Closer Monitoring
+NLI-060,28,2024-05-01,9,3,3.9,1.3,Performance Improvement Plan
+NLI-060,28,2024-07-01,5,3,4.44,2.66,Needs Closer Monitoring
+NLI-060,28,2024-08-01,8,3,0.25,0.09,Critical Underperformance
+NLI-060,28,2024-10-01,10,6,4.47,2.68,Needs Closer Monitoring
+NLI-060,28,2024-11-01,10,8,2.61,2.09,Needs Closer Monitoring
+NLI-060,28,2025-01-01,3,2,4.15,2.77,Needs Closer Monitoring
+NL-367,19,2024-03-01,7,5,3.73,2.66,Needs Closer Monitoring
+NL-367,19,2024-04-01,3,2,0.6,0.4,Critical Underperformance
+NL-367,19,2024-05-01,4,3,3.59,2.69,Needs Closer Monitoring
+NL-367,19,2024-07-01,10,5,2.96,1.48,Performance Improvement Plan
+NL-367,19,2024-08-01,5,2,2.95,1.18,Performance Improvement Plan
+NL-367,19,2024-10-01,4,2,1.43,0.71,Critical Underperformance
+NL-367,19,2024-11-01,5,5,2.16,2.16,Needs Closer Monitoring
+NL-367,19,2025-01-01,6,2,1.02,0.34,Critical Underperformance
+NL-369,13,2024-03-01,10,7,2.67,1.87,Performance Improvement Plan
+NL-369,13,2024-04-01,8,4,4.09,2.04,Needs Closer Monitoring
+NL-369,13,2024-05-01,8,7,4.16,3.64,Consistently Effective
+NL-369,13,2024-07-01,5,3,4.02,2.41,Needs Closer Monitoring
+NL-369,13,2024-08-01,3,2,3.86,2.57,Needs Closer Monitoring
+NL-369,13,2024-10-01,6,4,3.74,2.49,Needs Closer Monitoring
+NL-369,13,2024-11-01,8,5,2.52,1.57,Performance Improvement Plan
+NL-369,13,2025-01-01,10,5,3.78,1.89,Performance Improvement Plan
+NL-372,10,2024-03-01,6,2,4.4,1.47,Performance Improvement Plan
+NL-372,10,2024-04-01,5,4,4.94,3.95,Consistently Effective
+NL-372,10,2024-05-01,7,2,4.58,1.31,Performance Improvement Plan
+NL-372,10,2024-07-01,7,3,2.11,0.9,Critical Underperformance
+NL-372,10,2024-08-01,9,7,2.74,2.13,Needs Closer Monitoring
+NL-372,10,2024-10-01,8,5,1.22,0.76,Critical Underperformance
+NL-372,10,2024-11-01,6,4,3.67,2.45,Needs Closer Monitoring
+NL-372,10,2025-01-01,6,6,4.84,4.84,Outstanding Contributor
+NL-373,11,2024-03-01,8,4,0.49,0.24,Critical Underperformance
+NL-373,11,2024-04-01,5,5,4.66,4.66,Outstanding Contributor
+NL-373,11,2024-05-01,6,6,1.37,1.37,Performance Improvement Plan
+NL-373,11,2024-07-01,5,5,4.61,4.61,Outstanding Contributor
+NL-373,11,2024-08-01,8,6,2.61,1.96,Performance Improvement Plan
+NL-373,11,2024-10-01,6,6,2.56,2.56,Needs Closer Monitoring
+NL-373,11,2024-11-01,6,2,3.18,1.06,Performance Improvement Plan
+NL-373,11,2025-01-01,10,9,4.41,3.97,Consistently Effective
+NL-374,14,2024-03-01,7,3,0.54,0.23,Critical Underperformance
+NL-374,14,2024-04-01,3,2,2.12,1.41,Performance Improvement Plan
+NL-374,14,2024-05-01,9,5,3.94,2.19,Needs Closer Monitoring
+NL-374,14,2024-07-01,3,3,2.31,2.31,Needs Closer Monitoring
+NL-374,14,2024-08-01,7,7,2.02,2.02,Needs Closer Monitoring
+NL-374,14,2024-10-01,10,10,1.55,1.55,Performance Improvement Plan
+NL-374,14,2024-11-01,7,4,1.15,0.66,Critical Underperformance
+NL-374,14,2025-01-01,4,3,0.73,0.55,Critical Underperformance
+NL-376,14,2024-03-01,5,2,4.43,1.77,Performance Improvement Plan
+NL-376,14,2024-04-01,6,4,2.32,1.55,Performance Improvement Plan
+NL-376,14,2024-05-01,6,2,1.19,0.4,Critical Underperformance
+NL-376,14,2024-07-01,10,8,1.13,0.9,Critical Underperformance
+NL-376,14,2024-08-01,5,2,1.02,0.41,Critical Underperformance
+NL-376,14,2024-10-01,7,6,4.9,4.2,Outstanding Contributor
+NL-376,14,2024-11-01,9,8,3.91,3.48,Consistently Effective
+NL-376,14,2025-01-01,9,9,1.49,1.49,Performance Improvement Plan
+NL-379,23,2024-03-01,5,4,3.89,3.11,Consistently Effective
+NL-379,23,2024-04-01,6,4,3.01,2.01,Needs Closer Monitoring
+NL-379,23,2024-05-01,8,6,3.97,2.98,Needs Closer Monitoring
+NL-379,23,2024-07-01,9,6,3.18,2.12,Needs Closer Monitoring
+NL-379,23,2024-08-01,10,8,2.45,1.96,Performance Improvement Plan
+NL-379,23,2024-10-01,8,8,2.73,2.73,Needs Closer Monitoring
+NL-379,23,2024-11-01,7,7,4.81,4.81,Outstanding Contributor
+NL-379,23,2025-01-01,7,5,1.73,1.24,Performance Improvement Plan
+NL-382,6,2024-03-01,8,3,1.79,0.67,Critical Underperformance
+NL-382,6,2024-04-01,5,5,0.26,0.26,Critical Underperformance
+NL-382,6,2024-05-01,3,3,0.97,0.97,Critical Underperformance
+NL-382,6,2024-07-01,5,2,1.52,0.61,Critical Underperformance
+NL-382,6,2024-08-01,4,3,3.47,2.6,Needs Closer Monitoring
+NL-382,6,2024-10-01,6,5,2.57,2.14,Needs Closer Monitoring
+NL-382,6,2024-11-01,3,3,4.51,4.51,Outstanding Contributor
+NL-382,6,2025-01-01,7,4,2.66,1.52,Performance Improvement Plan
+NL-384,2,2024-03-01,3,2,4.2,2.8,Needs Closer Monitoring
+NL-384,2,2024-04-01,5,3,3.75,2.25,Needs Closer Monitoring
+NL-384,2,2024-05-01,3,2,0.29,0.19,Critical Underperformance
+NL-384,2,2024-07-01,10,9,4.47,4.02,Outstanding Contributor
+NL-384,2,2024-08-01,7,6,4.06,3.48,Consistently Effective
+NL-384,2,2024-10-01,7,2,1.58,0.45,Critical Underperformance
+NL-384,2,2024-11-01,10,3,0.62,0.19,Critical Underperformance
+NL-384,2,2025-01-01,8,8,3.91,3.91,Consistently Effective
+NL-385,4,2024-03-01,8,7,3.05,2.67,Needs Closer Monitoring
+NL-385,4,2024-04-01,10,2,1.34,0.27,Critical Underperformance
+NL-385,4,2024-05-01,5,4,0.63,0.5,Critical Underperformance
+NL-385,4,2024-07-01,6,3,3.84,1.92,Performance Improvement Plan
+NL-385,4,2024-08-01,7,3,2.35,1.01,Performance Improvement Plan
+NL-385,4,2024-10-01,10,7,0.35,0.24,Critical Underperformance
+NL-385,4,2024-11-01,7,5,2.62,1.87,Performance Improvement Plan
+NL-385,4,2025-01-01,3,2,4.36,2.91,Needs Closer Monitoring
+NL-386,1,2024-03-01,3,2,4.24,2.83,Needs Closer Monitoring
+NL-386,1,2024-04-01,7,2,3.41,0.97,Critical Underperformance
+NL-386,1,2024-05-01,7,5,4.26,3.04,Consistently Effective
+NL-386,1,2024-07-01,9,5,1.79,0.99,Critical Underperformance
+NL-386,1,2024-08-01,9,9,3.58,3.58,Consistently Effective
+NL-386,1,2024-10-01,7,3,4.98,2.13,Needs Closer Monitoring
+NL-386,1,2024-11-01,5,3,1.54,0.92,Critical Underperformance
+NL-386,1,2025-01-01,7,4,2.54,1.45,Performance Improvement Plan
+NL-389,23,2024-03-01,10,5,1.66,0.83,Critical Underperformance
+NL-389,23,2024-04-01,7,2,0.01,0.0,Critical Underperformance
+NL-389,23,2024-05-01,3,2,1.24,0.83,Critical Underperformance
+NL-389,23,2024-07-01,4,3,4.95,3.71,Consistently Effective
+NL-389,23,2024-08-01,5,4,1.94,1.55,Performance Improvement Plan
+NL-389,23,2024-10-01,8,7,0.41,0.36,Critical Underperformance
+NL-389,23,2024-11-01,3,2,4.69,3.13,Consistently Effective
+NL-389,23,2025-01-01,6,3,3.57,1.78,Performance Improvement Plan
+NL-391,17,2024-03-01,7,6,3.29,2.82,Needs Closer Monitoring
+NL-391,17,2024-04-01,5,2,2.46,0.98,Critical Underperformance
+NL-391,17,2024-05-01,4,2,2.14,1.07,Performance Improvement Plan
+NL-391,17,2024-07-01,7,4,0.85,0.49,Critical Underperformance
+NL-391,17,2024-08-01,4,2,0.05,0.03,Critical Underperformance
+NL-391,17,2024-10-01,8,7,0.9,0.79,Critical Underperformance
+NL-391,17,2024-11-01,6,5,2.55,2.12,Needs Closer Monitoring
+NL-391,17,2025-01-01,7,4,0.73,0.42,Critical Underperformance
+NL-393,10,2024-03-01,4,2,4.23,2.12,Needs Closer Monitoring
+NL-393,10,2024-04-01,8,2,3.53,0.88,Critical Underperformance
+NL-393,10,2024-05-01,8,2,0.56,0.14,Critical Underperformance
+NL-393,10,2024-07-01,8,2,1.26,0.32,Critical Underperformance
+NL-393,10,2024-08-01,3,3,1.48,1.48,Performance Improvement Plan
+NL-393,10,2024-10-01,10,9,1.41,1.27,Performance Improvement Plan
+NL-393,10,2024-11-01,10,7,0.6,0.42,Critical Underperformance
+NL-393,10,2025-01-01,9,8,2.43,2.16,Needs Closer Monitoring
+NL-395,5,2024-03-01,3,3,3.04,3.04,Consistently Effective
+NL-395,5,2024-04-01,9,9,4.19,4.19,Outstanding Contributor
+NL-395,5,2024-05-01,6,6,2.31,2.31,Needs Closer Monitoring
+NL-395,5,2024-07-01,6,3,1.1,0.55,Critical Underperformance
+NL-395,5,2024-08-01,8,3,4.14,1.55,Performance Improvement Plan
+NL-395,5,2024-10-01,5,2,0.98,0.39,Critical Underperformance
+NL-395,5,2024-11-01,4,2,3.08,1.54,Performance Improvement Plan
+NL-395,5,2025-01-01,9,3,4.43,1.48,Performance Improvement Plan
+NL-398,10,2024-03-01,9,6,2.01,1.34,Performance Improvement Plan
+NL-398,10,2024-04-01,6,5,2.14,1.78,Performance Improvement Plan
+NL-398,10,2024-05-01,5,3,2.81,1.69,Performance Improvement Plan
+NL-398,10,2024-07-01,7,6,1.95,1.67,Performance Improvement Plan
+NL-398,10,2024-08-01,5,5,2.13,2.13,Needs Closer Monitoring
+NL-398,10,2024-10-01,5,5,4.12,4.12,Outstanding Contributor
+NL-398,10,2024-11-01,8,5,0.22,0.14,Critical Underperformance
+NL-398,10,2025-01-01,7,3,2.4,1.03,Performance Improvement Plan
+NL-402,9,2024-03-01,6,5,0.65,0.54,Critical Underperformance
+NL-402,9,2024-04-01,5,2,0.42,0.17,Critical Underperformance
+NL-402,9,2024-05-01,10,8,2.14,1.71,Performance Improvement Plan
+NL-402,9,2024-07-01,10,3,0.72,0.22,Critical Underperformance
+NL-402,9,2024-08-01,7,4,0.37,0.21,Critical Underperformance
+NL-402,9,2024-10-01,4,4,3.24,3.24,Consistently Effective
+NL-402,9,2024-11-01,5,4,4.78,3.82,Consistently Effective
+NL-402,9,2025-01-01,3,3,2.74,2.74,Needs Closer Monitoring
+NL-409,15,2024-03-01,9,4,2.03,0.9,Critical Underperformance
+NL-409,15,2024-04-01,7,3,1.27,0.54,Critical Underperformance
+NL-409,15,2024-05-01,5,2,3.53,1.41,Performance Improvement Plan
+NL-409,15,2024-07-01,9,7,1.46,1.14,Performance Improvement Plan
+NL-409,15,2024-08-01,5,4,2.07,1.66,Performance Improvement Plan
+NL-409,15,2024-10-01,6,2,3.97,1.32,Performance Improvement Plan
+NL-409,15,2024-11-01,8,5,1.26,0.79,Critical Underperformance
+NL-409,15,2025-01-01,3,3,0.36,0.36,Critical Underperformance
+NL-411,7,2024-03-01,6,2,4.36,1.45,Performance Improvement Plan
+NL-411,7,2024-04-01,6,4,4.66,3.11,Consistently Effective
+NL-411,7,2024-05-01,7,4,3.58,2.05,Needs Closer Monitoring
+NL-411,7,2024-07-01,5,2,1.13,0.45,Critical Underperformance
+NL-411,7,2024-08-01,7,3,4.12,1.77,Performance Improvement Plan
+NL-411,7,2024-10-01,3,2,3.76,2.51,Needs Closer Monitoring
+NL-411,7,2024-11-01,7,3,4.66,2.0,Needs Closer Monitoring
+NL-411,7,2025-01-01,3,3,2.92,2.92,Needs Closer Monitoring
+NL-418,12,2024-03-01,5,4,0.56,0.45,Critical Underperformance
+NL-418,12,2024-04-01,9,9,1.01,1.01,Performance Improvement Plan
+NL-418,12,2024-05-01,8,3,4.2,1.58,Performance Improvement Plan
+NL-418,12,2024-07-01,6,5,3.93,3.28,Consistently Effective
+NL-418,12,2024-08-01,7,5,1.47,1.05,Performance Improvement Plan
+NL-418,12,2024-10-01,10,3,0.92,0.28,Critical Underperformance
+NL-418,12,2024-11-01,10,5,0.86,0.43,Critical Underperformance
+NL-418,12,2025-01-01,4,4,1.23,1.23,Performance Improvement Plan
+NL-421,19,2024-03-01,3,3,3.54,3.54,Consistently Effective
+NL-421,19,2024-04-01,6,5,3.14,2.62,Needs Closer Monitoring
+NL-421,19,2024-05-01,8,7,2.93,2.56,Needs Closer Monitoring
+NL-421,19,2024-07-01,4,4,2.27,2.27,Needs Closer Monitoring
+NL-421,19,2024-08-01,5,2,2.71,1.08,Performance Improvement Plan
+NL-421,19,2024-10-01,3,2,2.4,1.6,Performance Improvement Plan
+NL-421,19,2024-11-01,8,7,3.57,3.12,Consistently Effective
+NL-421,19,2025-01-01,8,5,0.93,0.58,Critical Underperformance
+NL-422,23,2024-03-01,6,4,4.17,2.78,Needs Closer Monitoring
+NL-422,23,2024-04-01,4,3,2.33,1.75,Performance Improvement Plan
+NL-422,23,2024-05-01,3,2,3.45,2.3,Needs Closer Monitoring
+NL-422,23,2024-07-01,10,2,1.43,0.29,Critical Underperformance
+NL-422,23,2024-08-01,4,2,2.77,1.39,Performance Improvement Plan
+NL-422,23,2024-10-01,3,3,4.25,4.25,Outstanding Contributor
+NL-422,23,2024-11-01,3,3,3.77,3.77,Consistently Effective
+NL-422,23,2025-01-01,9,8,1.64,1.46,Performance Improvement Plan
+NL-426,28,2024-03-01,10,2,0.32,0.06,Critical Underperformance
+NL-426,28,2024-04-01,7,3,1.64,0.7,Critical Underperformance
+NL-426,28,2024-05-01,3,3,2.69,2.69,Needs Closer Monitoring
+NL-426,28,2024-07-01,6,6,1.23,1.23,Performance Improvement Plan
+NL-426,28,2024-08-01,10,5,2.04,1.02,Performance Improvement Plan
+NL-426,28,2024-10-01,6,2,3.5,1.17,Performance Improvement Plan
+NL-426,28,2024-11-01,7,7,4.28,4.28,Outstanding Contributor
+NL-426,28,2025-01-01,4,4,2.91,2.91,Needs Closer Monitoring
+NL-429,13,2024-03-01,10,10,1.0,1.0,Performance Improvement Plan
+NL-429,13,2024-04-01,3,2,4.08,2.72,Needs Closer Monitoring
+NL-429,13,2024-05-01,9,8,1.94,1.72,Performance Improvement Plan
+NL-429,13,2024-07-01,3,2,4.07,2.71,Needs Closer Monitoring
+NL-429,13,2024-08-01,4,3,4.39,3.29,Consistently Effective
+NL-429,13,2024-10-01,10,4,3.55,1.42,Performance Improvement Plan
+NL-429,13,2024-11-01,4,2,2.72,1.36,Performance Improvement Plan
+NL-429,13,2025-01-01,8,2,3.05,0.76,Critical Underperformance
+NL-432,17,2024-03-01,5,2,2.06,0.82,Critical Underperformance
+NL-432,17,2024-04-01,5,2,3.06,1.22,Performance Improvement Plan
+NL-432,17,2024-05-01,7,5,1.59,1.14,Performance Improvement Plan
+NL-432,17,2024-07-01,9,5,0.31,0.17,Critical Underperformance
+NL-432,17,2024-08-01,6,5,1.34,1.12,Performance Improvement Plan
+NL-432,17,2024-10-01,4,4,1.14,1.14,Performance Improvement Plan
+NL-432,17,2024-11-01,4,2,1.16,0.58,Critical Underperformance
+NL-432,17,2025-01-01,6,2,1.73,0.58,Critical Underperformance
+NL-433,1,2024-03-01,8,2,3.19,0.8,Critical Underperformance
+NL-433,1,2024-04-01,3,2,2.41,1.61,Performance Improvement Plan
+NL-433,1,2024-05-01,3,3,3.97,3.97,Consistently Effective
+NL-433,1,2024-07-01,4,4,3.85,3.85,Consistently Effective
+NL-433,1,2024-08-01,3,3,4.17,4.17,Outstanding Contributor
+NL-433,1,2024-10-01,9,3,3.11,1.04,Performance Improvement Plan
+NL-433,1,2024-11-01,5,3,1.37,0.82,Critical Underperformance
+NL-433,1,2025-01-01,3,3,2.46,2.46,Needs Closer Monitoring
+NL-434,19,2024-03-01,8,6,1.78,1.33,Performance Improvement Plan
+NL-434,19,2024-04-01,8,3,1.81,0.68,Critical Underperformance
+NL-434,19,2024-05-01,8,5,0.95,0.59,Critical Underperformance
+NL-434,19,2024-07-01,8,8,0.83,0.83,Critical Underperformance
+NL-434,19,2024-08-01,6,6,4.96,4.96,Outstanding Contributor
+NL-434,19,2024-10-01,6,5,2.88,2.4,Needs Closer Monitoring
+NL-434,19,2024-11-01,3,3,2.46,2.46,Needs Closer Monitoring
+NL-434,19,2025-01-01,7,3,2.04,0.87,Critical Underperformance
+NLI-063,25,2024-03-01,3,3,4.16,4.16,Outstanding Contributor
+NLI-063,25,2024-04-01,8,7,5.0,4.38,Outstanding Contributor
+NLI-063,25,2024-05-01,7,2,0.7,0.2,Critical Underperformance
+NLI-063,25,2024-07-01,10,6,4.13,2.48,Needs Closer Monitoring
+NLI-063,25,2024-08-01,8,3,1.78,0.67,Critical Underperformance
+NLI-063,25,2024-10-01,5,2,4.68,1.87,Performance Improvement Plan
+NLI-063,25,2024-11-01,9,7,0.51,0.4,Critical Underperformance
+NLI-063,25,2025-01-01,4,2,0.13,0.07,Critical Underperformance
+NLI-064,6,2024-03-01,7,2,0.8,0.23,Critical Underperformance
+NLI-064,6,2024-04-01,8,6,3.41,2.56,Needs Closer Monitoring
+NLI-064,6,2024-05-01,6,2,1.23,0.41,Critical Underperformance
+NLI-064,6,2024-07-01,7,7,0.77,0.77,Critical Underperformance
+NLI-064,6,2024-08-01,10,4,0.98,0.39,Critical Underperformance
+NLI-064,6,2024-10-01,8,4,3.34,1.67,Performance Improvement Plan
+NLI-064,6,2024-11-01,10,6,0.73,0.44,Critical Underperformance
+NLI-064,6,2025-01-01,8,8,4.52,4.52,Outstanding Contributor
+NLI-065,21,2024-03-01,5,5,4.87,4.87,Outstanding Contributor
+NLI-065,21,2024-04-01,5,4,0.53,0.42,Critical Underperformance
+NLI-065,21,2024-05-01,6,2,0.4,0.13,Critical Underperformance
+NLI-065,21,2024-07-01,10,7,3.5,2.45,Needs Closer Monitoring
+NLI-065,21,2024-08-01,10,2,4.84,0.97,Critical Underperformance
+NLI-065,21,2024-10-01,10,4,3.87,1.55,Performance Improvement Plan
+NLI-065,21,2024-11-01,5,2,3.87,1.55,Performance Improvement Plan
+NLI-065,21,2025-01-01,10,4,2.23,0.89,Critical Underperformance
+NL-445,5,2024-03-01,3,2,2.37,1.58,Performance Improvement Plan
+NL-445,5,2024-04-01,8,7,3.11,2.72,Needs Closer Monitoring
+NL-445,5,2024-05-01,6,5,1.74,1.45,Performance Improvement Plan
+NL-445,5,2024-07-01,4,3,4.76,3.57,Consistently Effective
+NL-445,5,2024-08-01,3,3,4.13,4.13,Outstanding Contributor
+NL-445,5,2024-10-01,8,4,2.05,1.02,Performance Improvement Plan
+NL-445,5,2024-11-01,10,8,1.06,0.85,Critical Underperformance
+NL-445,5,2025-01-01,10,10,4.86,4.86,Outstanding Contributor
+NL-448,24,2024-03-01,6,6,1.76,1.76,Performance Improvement Plan
+NL-448,24,2024-04-01,10,8,2.56,2.05,Needs Closer Monitoring
+NL-448,24,2024-05-01,4,3,4.06,3.04,Consistently Effective
+NL-448,24,2024-07-01,5,3,2.54,1.52,Performance Improvement Plan
+NL-448,24,2024-08-01,7,2,1.6,0.46,Critical Underperformance
+NL-448,24,2024-10-01,5,5,4.86,4.86,Outstanding Contributor
+NL-448,24,2024-11-01,8,7,2.93,2.56,Needs Closer Monitoring
+NL-448,24,2025-01-01,8,2,4.39,1.1,Performance Improvement Plan

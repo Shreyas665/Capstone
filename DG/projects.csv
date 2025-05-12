@@ -1,0 +1,265 @@
+project_id,project_name,tech_stack,employee_id,lead_id
+1,Orion,Java,NL-011,NL-004
+1,Orion,Java,NL-386,NL-004
+1,Orion,Java,NL-320,NL-004
+1,Orion,Java,NL-129,NL-004
+1,Orion,Java,NLI-051,NL-004
+1,Orion,Java,NL-433,NL-004
+1,Orion,Java,NL-008,NL-004
+1,Orion,Java,NL-353,NL-004
+1,Orion,Java,NL-078,NL-004
+1,Orion,Java,NL-062,NL-004
+1,Orion,Java,NL-148,NL-004
+2,Athena,DevOps,NL-069,NL-137
+2,Athena,DevOps,NLI-011,NL-137
+2,Athena,DevOps,NL-056,NL-137
+2,Athena,DevOps,NLI-031,NL-137
+2,Athena,DevOps,NL-146,NL-137
+2,Athena,DevOps,NL-183,NL-137
+2,Athena,DevOps,NL-167,NL-137
+2,Athena,DevOps,NL-009,NL-137
+2,Athena,DevOps,NL-225,NL-137
+2,Athena,DevOps,NL-384,NL-137
+3,Eclipse,Python,NL-153,NL-119
+3,Eclipse,Python,NLI-033,NL-119
+3,Eclipse,Python,NL-076,NL-119
+3,Eclipse,Python,NL-301,NL-119
+3,Eclipse,Python,NL-075,NL-119
+4,Quantum,Node.js,NL-244,NL-313
+4,Quantum,Node.js,NL-309,NL-313
+4,Quantum,Node.js,NLI-003,NL-313
+4,Quantum,Node.js,NL-063,NL-313
+4,Quantum,Node.js,NLI-045,NL-313
+4,Quantum,Node.js,NL-106,NL-313
+4,Quantum,Node.js,NL-229,NL-313
+4,Quantum,Node.js,NL-161,NL-313
+4,Quantum,Node.js,NL-344,NL-313
+4,Quantum,Node.js,NL-385,NL-313
+4,Quantum,Node.js,NL-044,NL-313
+4,Quantum,Node.js,NL-336,NL-313
+5,Nova,DevOps,NL-092,NL-311
+5,Nova,DevOps,NL-445,NL-311
+5,Nova,DevOps,NL-083,NL-311
+5,Nova,DevOps,NL-395,NL-311
+5,Nova,DevOps,NL-300,NL-311
+5,Nova,DevOps,NL-409,NL-311
+5,Nova,DevOps,NL-386,NL-311
+5,Nova,DevOps,NL-334,NL-311
+5,Nova,DevOps,NL-002,NL-311
+5,Nova,DevOps,NL-235,NL-311
+5,Nova,DevOps,NL-158,NL-311
+5,Nova,DevOps,NL-232,NL-311
+6,Equinox,Data Engineering,NL-434,NL-259
+6,Equinox,Data Engineering,NL-239,NL-259
+6,Equinox,Data Engineering,NL-140,NL-259
+6,Equinox,Data Engineering,NL-353,NL-259
+6,Equinox,Data Engineering,NL-246,NL-259
+6,Equinox,Data Engineering,NL-382,NL-259
+6,Equinox,Data Engineering,NLI-011,NL-259
+6,Equinox,Data Engineering,NLI-064,NL-259
+6,Equinox,Data Engineering,NL-144,NL-259
+6,Equinox,Data Engineering,NL-002,NL-259
+7,Helix,Java,NL-265,NL-381
+7,Helix,Java,NL-298,NL-381
+7,Helix,Java,NL-433,NL-381
+7,Helix,Java,NL-333,NL-381
+7,Helix,Java,NLI-012,NL-381
+7,Helix,Java,NL-107,NL-381
+7,Helix,Java,NL-138,NL-381
+7,Helix,Java,NL-113,NL-381
+7,Helix,Java,NL-330,NL-381
+7,Helix,Java,NL-411,NL-381
+7,Helix,Java,NLI-043,NL-381
+8,Sierra,Data Engineering,NLI-052,NL-030
+8,Sierra,Data Engineering,NL-181,NL-030
+8,Sierra,Data Engineering,NL-275,NL-030
+8,Sierra,Data Engineering,NL-030,NL-030
+8,Sierra,Data Engineering,NL-026,NL-030
+8,Sierra,Data Engineering,NL-223,NL-030
+8,Sierra,Data Engineering,NLI-049,NL-030
+9,Catalyst,React,NL-165,NL-110
+9,Catalyst,React,NL-182,NL-110
+9,Catalyst,React,NL-351,NL-110
+9,Catalyst,React,NL-204,NL-110
+9,Catalyst,React,NLI-053,NL-110
+9,Catalyst,React,NL-402,NL-110
+9,Catalyst,React,NL-432,NL-110
+9,Catalyst,React,NL-159,NL-110
+10,Apollo,React,NL-393,NL-137
+10,Apollo,React,NL-398,NL-137
+10,Apollo,React,NL-047,NL-137
+10,Apollo,React,NL-172,NL-137
+10,Apollo,React,NL-351,NL-137
+10,Apollo,React,NL-113,NL-137
+10,Apollo,React,NL-372,NL-137
+10,Apollo,React,NLI-012,NL-137
+10,Apollo,React,NLI-043,NL-137
+11,Pulse,Node.js,NL-264,NL-007
+11,Pulse,Node.js,NL-247,NL-007
+11,Pulse,Node.js,NL-373,NL-007
+11,Pulse,Node.js,NL-273,NL-007
+11,Pulse,Node.js,NL-252,NL-007
+11,Pulse,Node.js,NL-362,NL-007
+12,Fusion,Node.js,NL-252,NL-146
+12,Fusion,Node.js,NL-307,NL-146
+12,Fusion,Node.js,NL-112,NL-146
+12,Fusion,Node.js,NL-189,NL-146
+12,Fusion,Node.js,NL-079,NL-146
+12,Fusion,Node.js,NL-418,NL-146
+12,Fusion,Node.js,NL-364,NL-146
+12,Fusion,Node.js,NLI-016,NL-146
+12,Fusion,Node.js,NLI-051,NL-146
+13,Helix,Java,NL-155,NL-433
+13,Helix,Java,NL-127,NL-433
+13,Helix,Java,NLI-010,NL-433
+13,Helix,Java,NL-363,NL-433
+13,Helix,Java,NL-160,NL-433
+13,Helix,Java,NL-065,NL-433
+13,Helix,Java,NL-312,NL-433
+13,Helix,Java,NL-016,NL-433
+13,Helix,Java,NL-429,NL-433
+13,Helix,Java,NL-274,NL-433
+13,Helix,Java,NL-369,NL-433
+13,Helix,Java,NL-143,NL-433
+14,Zenith,DevOps,NL-062,NL-445
+14,Zenith,DevOps,NL-376,NL-445
+14,Zenith,DevOps,NL-247,NL-445
+14,Zenith,DevOps,NL-054,NL-445
+14,Zenith,DevOps,NL-374,NL-445
+14,Zenith,DevOps,NL-411,NL-445
+15,Catalyst,Data Engineering,NL-043,NL-042
+15,Catalyst,Data Engineering,NLI-025,NL-042
+15,Catalyst,Data Engineering,NLI-029,NL-042
+15,Catalyst,Data Engineering,NL-409,NL-042
+15,Catalyst,Data Engineering,NL-341,NL-042
+15,Catalyst,Data Engineering,NL-112,NL-042
+15,Catalyst,Data Engineering,NL-026,NL-042
+16,Spectra,Python,NL-062,NL-170
+16,Spectra,Python,NL-350,NL-170
+16,Spectra,Python,NL-311,NL-170
+16,Spectra,Python,NL-325,NL-170
+16,Spectra,Python,NL-093,NL-170
+16,Spectra,Python,NL-327,NL-170
+16,Spectra,Python,NL-096,NL-170
+16,Spectra,Python,NL-228,NL-170
+17,Eclipse,Node.js,NL-065,NL-227
+17,Eclipse,Node.js,NL-250,NL-227
+17,Eclipse,Node.js,NL-432,NL-227
+17,Eclipse,Node.js,NL-391,NL-227
+17,Eclipse,Node.js,NL-036,NL-227
+17,Eclipse,Node.js,NL-263,NL-227
+17,Eclipse,Node.js,NL-341,NL-227
+17,Eclipse,Node.js,NL-206,NL-227
+17,Eclipse,Node.js,NL-118,NL-227
+17,Eclipse,Node.js,NL-136,NL-227
+17,Eclipse,Node.js,NL-418,NL-227
+18,Nimbus,DevOps,NL-018,NL-259
+18,Nimbus,DevOps,NL-445,NL-259
+18,Nimbus,DevOps,NL-094,NL-259
+18,Nimbus,DevOps,NLI-058,NL-259
+18,Nimbus,DevOps,NL-202,NL-259
+18,Nimbus,DevOps,NLI-034,NL-259
+19,Quantum,DevOps,NLI-009,NL-134
+19,Quantum,DevOps,NLI-015,NL-134
+19,Quantum,DevOps,NL-122,NL-134
+19,Quantum,DevOps,NL-213,NL-134
+19,Quantum,DevOps,NL-367,NL-134
+19,Quantum,DevOps,NLI-007,NL-134
+19,Quantum,DevOps,NL-189,NL-134
+19,Quantum,DevOps,NL-221,NL-134
+19,Quantum,DevOps,NL-421,NL-134
+19,Quantum,DevOps,NL-434,NL-134
+19,Quantum,DevOps,NL-328,NL-134
+19,Quantum,DevOps,NL-307,NL-134
+20,Omega,Python,NL-153,NL-421
+20,Omega,Python,NL-202,NL-421
+20,Omega,Python,NL-301,NL-421
+20,Omega,Python,NL-184,NL-421
+20,Omega,Python,NL-324,NL-421
+20,Omega,Python,NL-179,NL-421
+20,Omega,Python,NL-095,NL-421
+20,Omega,Python,NL-024,NL-421
+20,Omega,Python,NL-119,NL-421
+20,Omega,Python,NL-418,NL-421
+20,Omega,Python,NLI-042,NL-421
+20,Omega,Python,NL-122,NL-421
+21,Velocity,Node.js,NL-263,NL-277
+21,Velocity,Node.js,NL-346,NL-277
+21,Velocity,Node.js,NL-077,NL-277
+21,Velocity,Node.js,NL-178,NL-277
+21,Velocity,Node.js,NL-260,NL-277
+21,Velocity,Node.js,NL-237,NL-277
+21,Velocity,Node.js,NLI-065,NL-277
+21,Velocity,Node.js,NL-071,NL-277
+21,Velocity,Node.js,NL-003,NL-277
+21,Velocity,Node.js,NLI-020,NL-277
+21,Velocity,Node.js,NL-082,NL-277
+21,Velocity,Node.js,NL-068,NL-277
+22,Spectra,React,NL-019,NL-392
+22,Spectra,React,NL-236,NL-392
+22,Spectra,React,NL-269,NL-392
+22,Spectra,React,NLI-053,NL-392
+22,Spectra,React,NL-244,NL-392
+22,Spectra,React,NL-025,NL-392
+22,Spectra,React,NL-265,NL-392
+22,Spectra,React,NL-299,NL-392
+22,Spectra,React,NL-181,NL-392
+22,Spectra,React,NL-032,NL-392
+23,Velocity,Data Engineering,NL-389,NL-100
+23,Velocity,Data Engineering,NL-367,NL-100
+23,Velocity,Data Engineering,NL-046,NL-100
+23,Velocity,Data Engineering,NL-103,NL-100
+23,Velocity,Data Engineering,NL-348,NL-100
+23,Velocity,Data Engineering,NL-422,NL-100
+23,Velocity,Data Engineering,NL-100,NL-100
+23,Velocity,Data Engineering,NL-379,NL-100
+23,Velocity,Data Engineering,NL-434,NL-100
+23,Velocity,Data Engineering,NL-073,NL-100
+24,Fusion,Data Engineering,NL-448,NL-171
+24,Fusion,Data Engineering,NL-187,NL-171
+24,Fusion,Data Engineering,NL-151,NL-171
+24,Fusion,Data Engineering,NL-160,NL-171
+24,Fusion,Data Engineering,NL-108,NL-171
+24,Fusion,Data Engineering,NLI-031,NL-171
+24,Fusion,Data Engineering,NL-138,NL-171
+25,Nimbus,Python,NL-157,NL-134
+25,Nimbus,Python,NL-160,NL-134
+25,Nimbus,Python,NL-103,NL-134
+25,Nimbus,Python,NL-195,NL-134
+25,Nimbus,Python,NLI-063,NL-134
+26,Horizon,DevOps,NL-352,NL-160
+26,Horizon,DevOps,NL-315,NL-160
+26,Horizon,DevOps,NL-146,NL-160
+26,Horizon,DevOps,NL-185,NL-160
+26,Horizon,DevOps,NL-329,NL-160
+26,Horizon,DevOps,NL-257,NL-160
+26,Horizon,DevOps,NL-089,NL-160
+26,Horizon,DevOps,NLI-034,NL-160
+26,Horizon,DevOps,NL-228,NL-160
+27,Equinox,Python,NL-265,NL-095
+27,Equinox,Python,NL-356,NL-095
+27,Equinox,Python,NL-182,NL-095
+27,Equinox,Python,NLI-039,NL-095
+27,Equinox,Python,NLI-029,NL-095
+27,Equinox,Python,NL-025,NL-095
+27,Equinox,Python,NL-204,NL-095
+28,Zenith,Java,NLI-060,NL-204
+28,Zenith,Java,NL-426,NL-204
+28,Zenith,Java,NL-200,NL-204
+28,Zenith,Java,NL-226,NL-204
+28,Zenith,Java,NL-225,NL-204
+29,Nova,Data Engineering,NL-318,NL-299
+29,Nova,Data Engineering,NL-276,NL-299
+29,Nova,Data Engineering,NL-219,NL-299
+29,Nova,Data Engineering,NL-068,NL-299
+29,Nova,Data Engineering,NL-269,NL-299
+29,Nova,Data Engineering,NL-074,NL-299
+30,Apollo,Node.js,NL-289,NL-144
+30,Apollo,Node.js,NL-081,NL-144
+30,Apollo,Node.js,NLI-021,NL-144
+30,Apollo,Node.js,NL-294,NL-144
+30,Apollo,Node.js,NL-275,NL-144
+30,Apollo,Node.js,NL-366,NL-144
+30,Apollo,Node.js,NL-227,NL-144
+30,Apollo,Node.js,NL-196,NL-144
+30,Apollo,Node.js,NL-297,NL-144

@@ -1,0 +1,84 @@
+attendance_logs table has
+employee_id
+date
+check_in
+check_out
+working_hours
+is_half_day
+surplus
+deficit
+
+
+
+departments table has
+department_id ,
+department_name
+
+
+
+employees table has
+employee_id ,
+first_name,
+last_name,
+full_name,
+mail_id,
+gender,
+dob,
+employeement_type,
+department_id,
+join_date,
+location_id
+
+
+job_roles table has
+designation_id,
+designation_name
+
+	
+
+leave_records table has
+emplypeloyee_id,
+leave_type_id,
+start_date,
+end_date,
+duration,
+reason
+
+	
+leave_types table has
+leave_type_id,
+leave_type,
+description
+
+
+
+locations table has
+location_id,
+location_name
+
+
+
+projects table has
+project_id,
+project_name,
+tech_stack,
+employee_id,
+lead_id
+
+
+
+productivity  table has 
+
+employee_id,
+project_id,
+assigned_date,
+tasks_completed,
+task_quality_score,
+productivity_score,
+remarks
+
+
+
+
+
+

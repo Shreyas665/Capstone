@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HR Data Entry</title>
+  <style>
+    body { font-family: Arial; margin: 20px; }
+    .tabs { display: flex; gap: 10px; margin-bottom: 20px; }
+    .tab { padding: 10px 20px; cursor: pointer; border: 1px solid #aaa; border-radius: 5px; }
+    .tab.active { background-color: #007BFF; color: white; }
+    .form-container { display: none; }
+    .form-container.active { display: block; }
+    form input, form select, form textarea {
+      display: block; margin: 10px 0; padding: 5px; width: 300px;
+    }
+    button { padding: 6px 12px; margin-top: 10px; }
+  </style>
+</head>
+<body>
+
+  <h1>HR Data Entry</h1>
+  <div class="tabs">
+    <div class="tab active" data-tab="employees">Employees</div>
+    <div class="tab" data-tab="departments">Departments</div>
+    <div class="tab" data-tab="attendance">Attendance</div>
+    <div class="tab" data-tab="leave-records">Leave Records</div>
+    <div class="tab" data-tab="leave-types">Leave Types</div>
+    <div class="tab" data-tab="locations">Locations</div>
+    <div class="tab" data-tab="job-roles">Job Roles</div>
+    <div class="tab" data-tab="projects">Projects</div>
+    <div class="tab" data-tab="productivity">Productivity</div> <!-- New tab -->
+  </div>
+
+  <!-- Employee Form -->
+  <div class="form-container active" id="employees">
+    <form id="employeeForm">
+      <input name="employee_id" placeholder="Employee ID" required />
+      <input name="first_name" placeholder="First Name" required />
+      <input name="last_name" placeholder="Last Name" required />
+      <input name="mail_id" placeholder="Email ID" required />
+      <select name="gender">
+        <option>Male</option><option>Female</option><option>Other</option>
+      </select>
+      <input type="text" id="dob_date" name="dob" placeholder="Enter DOB (yyyy-mm-dd)" />
+      <input name="employment_type" placeholder="Employment Type" required />
+      <input name="department_id" placeholder="Department ID" required />
+      <input type="date" name="join_date" placeholder="Join Date" required />
+      <input name="location_id" placeholder="Location ID" required />
+      <button type="submit">Add Employee</button>
+    </form>
+  </div>
+
+  <!-- Department Form -->
+  <div class="form-container" id="departments">
+    <form id="departmentForm">
+      <input name="department_id" placeholder="Department ID" required />
+      <input name="department_name" placeholder="Department Name" required />
+      <button type="submit">Add Department</button>
+    </form>
+  </div>
+
+  <!-- Attendance Form -->
+  <div class="form-container" id="attendance">
+    <form id="attendanceForm">
+      <input name="employee_id" placeholder="Employee ID" required />
+      <input type="date" name="date" required />
+      <input type="time" name="check_in" placeholder="Check-in Time" required />
+      <input type="time" name="check_out" placeholder="Check-out Time" required />
+      <input name="working_hours" id="working_hours" placeholder="Working Hours" readonly required />
+      <select name="is_half_day">
+        <option value="0">Full Day</option>
+        <option value="1">Half Day</option>
+      </select>
+      <button type="submit">Log Attendance</button>
+    </form>
+  </div>
+
+  <!-- Leave Records Form -->
+  <div class="form-container" id="leave-records">
+    <form id="leaveRecordForm">
+      <input name="employee_id" placeholder="Employee ID" required />
+      <input name="leave_type_id" placeholder="Leave Type ID" required />
+      <input type="date" name="start_date" placeholder="From Date" required />
+      <input type="date" name="end_date" placeholder="To Date" required />
+      <input name="duration" id="leave_duration" placeholder="Duration (days)" readonly required />
+      <textarea name="reason" placeholder="Reason"></textarea>
+      <button type="submit">Add Leave Record</button>
+    </form>
+  </div>
+
+  <!-- Leave Types Form -->
+  <div class="form-container" id="leave-types">
+    <form id="leaveTypeForm">
+      <input name="leave_type_id" placeholder="Leave Type ID" required />
+      <input name="leave_type" placeholder="Leave Type" required />
+      <textarea name="description" placeholder="Description"></textarea>
+      <button type="submit">Add Leave Type</button>
+    </form>
+  </div>
+
+  <!-- Locations Form -->
+  <div class="form-container" id="locations">
+    <form id="locationForm">
+      <input name="location_id" placeholder="Location ID" required />
+      <input name="location_name" placeholder="Location Name" required />
+      <button type="submit">Add Location</button>
+    </form>
+  </div>
+
+  <!-- Job Roles Form -->
+  <div class="form-container" id="job-roles">
+    <form id="jobRoleForm">
+      <input name="designation_id" placeholder="Designation ID" required />
+      <input name="designation_name" placeholder="Designation Name" required />
+      <button type="submit">Add Job Role</button>
+    </form>
+  </div>
+
+  <!-- Projects Form -->
+  <div class="form-container" id="projects">
+    <form id="projectForm">
+      <input name="project_id" placeholder="Project ID" required />
+      <input name="project_name" placeholder="Project Name" required />
+      <input name="tech_stack" placeholder="Tech Stack" required />
+      <input name="employee_id" placeholder="Employee ID" required />
+      <input name="lead_id" placeholder="Lead ID" required />
+      <button type="submit">Add Project</button>
+    </form>
+  </div>
+
+  <!-- Productivity Form -->
+  <div class="form-container" id="productivity">
+    <form id="productivityForm">
+      <input name="employee_id" placeholder="Employee ID" required />
+      <input name="project_id" placeholder="Project ID" required />
+      <input type="date" name="assigned_date" required />
+      <input type="number" name="tasks_assigned" placeholder="Tasks Assigned" required />
+      <input type="number" name="tasks_completed" placeholder="Tasks Completed" required />
+      <input type="number" step="0.01" name="task_quality_score" placeholder="Quality Score (0-10)" required />
+      <input type="number" step="0.01" name="productivity_score" placeholder="Productivity Score" required />
+      <textarea name="remarks" placeholder="Remarks"></textarea>
+      <button type="submit">Add Productivity Record</button>
+    </form>
+  </div>
+
+  <script>
+    // Tab switching
+    document.querySelectorAll('.tab').forEach(tab => {
+      tab.onclick = () => {
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        document.querySelectorAll('.form-container').forEach(fc => fc.classList.remove('active'));
+        tab.classList.add('active');
+        document.getElementById(tab.dataset.tab).classList.add('active');
+      };
+    });
+
+    // Form Submission Handler
+    function handleFormSubmit(formId, endpoint) {
+      document.getElementById(formId).addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const form = e.target;
+        const data = {};
+        Array.from(form.elements).forEach(el => {
+          if (el.name) data[el.name] = el.value;
+        });
+        try {
+          const res = await fetch(endpoint, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(data)
+          });
+          const result = await res.json();
+          alert(result.message || result.error);
+          form.reset();
+        } catch (err) {
+          alert('Submission failed.');
+        }
+      });
+    }
+
+    // Working Hours Auto Calculation
+    const checkIn = document.querySelector('[name="check_in"]');
+    const checkOut = document.querySelector('[name="check_out"]');
+    const workingHoursInput = document.getElementById('working_hours');
+
+    [checkIn, checkOut].forEach(el => el.addEventListener('input', () => {
+      if (checkIn.value && checkOut.value) {
+        const inTime = new Date(`1970-01-01T${checkIn.value}`);
+        const outTime = new Date(`1970-01-01T${checkOut.value}`);
+        const diff = (outTime - inTime) / (1000 * 60 * 60);
+        workingHoursInput.value = diff > 0 ? diff.toFixed(2) : 0;
+      }
+    }));
+
+    // Leave Duration Auto Calculation
+    const startDate = document.querySelector('[name="start_date"]');
+    const endDate = document.querySelector('[name="end_date"]');
+    const durationInput = document.getElementById('leave_duration');
+
+    [startDate, endDate].forEach(el => el.addEventListener('input', () => {
+      if (startDate.value && endDate.value) {
+        const sDate = new Date(startDate.value);
+        const eDate = new Date(endDate.value);
+        const diffDays = (eDate - sDate) / (1000 * 60 * 60 * 24) + 1;
+        durationInput.value = diffDays > 0 ? diffDays : 0;
+      }
+    }));
+
+    // Attach all form handlers
+    handleFormSubmit('employeeForm', '/api/employees');
+    handleFormSubmit('departmentForm', '/api/departments');
+    handleFormSubmit('attendanceForm', '/api/attendance');
+    handleFormSubmit('leaveRecordForm', '/api/leave-records');
+    handleFormSubmit('leaveTypeForm', '/api/leave-types');
+    handleFormSubmit('locationForm', '/api/locations');
+    handleFormSubmit('jobRoleForm', '/api/job-roles');
+    handleFormSubmit('projectForm', '/api/projects');
+    handleFormSubmit('productivityForm', '/api/productivity'); // New handler
+  </script>
+
+</body>
+</html>

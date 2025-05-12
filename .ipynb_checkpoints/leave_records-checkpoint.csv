@@ -1,0 +1,2095 @@
+employee_id,leave_type_id,start_date,end_date,duration,reason
+NL-001,1,2025-03-03,2025-03-07,5,Vacation leave
+NL-001,1,2024-10-06,2024-10-09,4,Vacation leave
+NL-001,1,2024-12-13,2024-12-17,5,Vacation leave
+NL-001,1,2024-10-13,2024-10-16,4,Vacation leave
+NL-001,1,2025-01-04,2025-01-08,5,Vacation leave
+NL-001,1,2024-11-27,2024-12-01,5,Vacation leave
+NL-001,4,2024-11-01,2024-11-03,3,Family bereavement
+NL-002,1,2017-09-24,2017-09-27,4,Vacation leave
+NL-002,1,2017-05-11,2017-05-12,2,Vacation leave
+NL-002,1,2017-10-03,2017-10-05,3,Vacation leave
+NL-002,4,2017-10-15,2017-10-18,4,Family bereavement
+NL-003,1,2020-05-21,2020-05-25,5,Vacation leave
+NL-003,1,2020-08-29,2020-08-31,3,Vacation leave
+NL-003,1,2020-11-22,2020-11-23,2,Vacation leave
+NL-003,1,2020-09-08,2020-09-10,3,Vacation leave
+NL-003,1,2020-09-16,2020-09-21,6,Vacation leave
+NL-003,3,2020-10-20,2020-10-25,6,Care for dependent family member
+NL-004,1,2022-05-17,2022-05-20,4,Vacation leave
+NL-004,1,2022-07-19,2022-07-20,2,Vacation leave
+NL-004,1,2022-05-26,2022-05-30,5,Vacation leave
+NL-004,2,2022-07-01,2022-07-12,12,Medical - Flu and rest
+NL-005,1,2021-05-16,2021-05-18,3,Vacation leave
+NL-005,1,2021-05-01,2021-05-05,5,Vacation leave
+NL-005,1,2021-06-08,2021-06-13,6,Vacation leave
+NL-005,1,2021-04-30,2021-05-01,2,Vacation leave
+NL-005,1,2021-05-20,2021-05-24,5,Vacation leave
+NL-005,1,2020-12-31,2021-01-04,5,Vacation leave
+NL-005,2,2021-02-10,2021-02-21,12,Medical - Flu and rest
+NL-005,3,2021-03-22,2021-03-31,10,Care for dependent family member
+NL-006,1,2015-06-01,2015-06-03,3,Vacation leave
+NL-006,1,2015-10-23,2015-10-26,4,Vacation leave
+NL-006,1,2015-07-09,2015-07-14,6,Vacation leave
+NL-006,1,2015-10-01,2015-10-05,5,Vacation leave
+NL-006,1,2015-10-19,2015-10-21,3,Vacation leave
+NL-006,2,2015-07-09,2015-07-20,12,Medical - Flu and rest
+NL-007,1,2015-05-14,2015-05-16,3,Vacation leave
+NL-007,1,2015-03-15,2015-03-17,3,Vacation leave
+NL-007,1,2015-03-29,2015-04-03,6,Vacation leave
+NL-007,1,2015-05-08,2015-05-11,4,Vacation leave
+NL-008,1,2017-12-20,2017-12-22,3,Vacation leave
+NL-008,1,2017-12-08,2017-12-12,5,Vacation leave
+NL-008,1,2017-12-21,2017-12-24,4,Vacation leave
+NL-008,1,2017-12-15,2017-12-20,6,Vacation leave
+NL-009,1,2022-06-06,2022-06-11,6,Vacation leave
+NL-009,1,2022-04-08,2022-04-10,3,Vacation leave
+NL-009,1,2021-12-31,2022-01-02,3,Vacation leave
+NL-009,1,2022-03-07,2022-03-10,4,Vacation leave
+NL-010,1,2016-06-19,2016-06-24,6,Vacation leave
+NL-010,1,2016-06-06,2016-06-10,5,Vacation leave
+NL-010,1,2016-03-13,2016-03-15,3,Vacation leave
+NL-010,1,2016-03-31,2016-04-03,4,Vacation leave
+NL-010,1,2016-05-04,2016-05-08,5,Vacation leave
+NL-010,2,2016-03-03,2016-03-14,12,Medical - Flu and rest
+NL-011,1,2024-02-23,2024-02-28,6,Vacation leave
+NL-011,1,2024-02-04,2024-02-09,6,Vacation leave
+NL-011,1,2023-09-06,2023-09-08,3,Vacation leave
+NL-012,1,2021-04-25,2021-04-29,5,Vacation leave
+NL-012,1,2021-04-16,2021-04-18,3,Vacation leave
+NL-012,1,2021-01-04,2021-01-06,3,Vacation leave
+NL-012,1,2021-03-09,2021-03-12,4,Vacation leave
+NL-012,1,2021-06-07,2021-06-10,4,Vacation leave
+NL-012,1,2020-12-07,2020-12-12,6,Vacation leave
+NL-012,2,2021-05-08,2021-05-19,12,Medical - Flu and rest
+NL-012,5,2020-10-14,2020-10-14,1,Leave without pay
+NL-013,1,2021-12-30,2022-01-04,6,Vacation leave
+NL-013,1,2022-04-09,2022-04-10,2,Vacation leave
+NL-013,3,2022-03-09,2022-03-12,4,Care for dependent family member
+NL-014,1,2024-09-26,2024-09-30,5,Vacation leave
+NL-014,1,2024-03-09,2024-03-11,3,Vacation leave
+NL-014,1,2024-07-13,2024-07-18,6,Vacation leave
+NL-014,1,2024-09-14,2024-09-19,6,Vacation leave
+NL-014,3,2024-04-08,2024-04-11,4,Care for dependent family member
+NL-015,1,2017-11-22,2017-11-24,3,Vacation leave
+NL-015,1,2018-02-12,2018-02-15,4,Vacation leave
+NL-015,1,2018-01-21,2018-01-24,4,Vacation leave
+NL-015,1,2018-03-02,2018-03-04,3,Vacation leave
+NL-015,1,2017-10-03,2017-10-05,3,Vacation leave
+NL-015,3,2018-04-08,2018-04-15,8,Care for dependent family member
+NL-015,5,2017-12-24,2017-12-26,3,Leave without pay
+NL-016,1,2015-05-24,2015-05-27,4,Vacation leave
+NL-016,1,2015-05-15,2015-05-17,3,Vacation leave
+NL-016,1,2015-07-18,2015-07-20,3,Vacation leave
+NL-016,1,2015-01-20,2015-01-22,3,Vacation leave
+NL-016,3,2015-06-22,2015-07-01,10,Care for dependent family member
+NL-017,1,2016-06-16,2016-06-17,2,Vacation leave
+NL-017,1,2016-11-19,2016-11-20,2,Vacation leave
+NL-017,1,2016-06-17,2016-06-20,4,Vacation leave
+NL-017,1,2016-05-14,2016-05-18,5,Vacation leave
+NL-018,1,2016-02-01,2016-02-03,3,Vacation leave
+NL-018,1,2015-05-17,2015-05-20,4,Vacation leave
+NL-018,1,2015-05-19,2015-05-21,3,Vacation leave
+NL-018,1,2015-09-06,2015-09-07,2,Vacation leave
+NL-018,3,2015-08-19,2015-08-26,8,Care for dependent family member
+NL-019,1,2015-02-19,2015-02-20,2,Vacation leave
+NL-019,1,2015-09-11,2015-09-14,4,Vacation leave
+NL-019,1,2015-10-05,2015-10-09,5,Vacation leave
+NL-019,1,2015-08-16,2015-08-17,2,Vacation leave
+NL-019,1,2015-05-25,2015-05-29,5,Vacation leave
+NL-020,1,2020-08-03,2020-08-08,6,Vacation leave
+NL-020,1,2021-01-26,2021-01-31,6,Vacation leave
+NL-020,1,2021-02-24,2021-02-25,2,Vacation leave
+NL-020,2,2020-08-11,2020-08-22,12,Medical - Flu and rest
+NL-021,1,2023-01-21,2023-01-22,2,Vacation leave
+NL-021,1,2022-12-26,2022-12-31,6,Vacation leave
+NL-021,2,2022-11-23,2022-12-04,12,Medical - Flu and rest
+NL-022,1,2016-02-16,2016-02-20,5,Vacation leave
+NL-022,1,2015-07-16,2015-07-19,4,Vacation leave
+NL-022,1,2015-08-02,2015-08-03,2,Vacation leave
+NL-022,1,2015-09-26,2015-09-30,5,Vacation leave
+NL-023,1,2016-01-26,2016-01-27,2,Vacation leave
+NL-023,1,2016-03-02,2016-03-07,6,Vacation leave
+NL-023,1,2016-04-08,2016-04-13,6,Vacation leave
+NL-023,1,2015-10-01,2015-10-03,3,Vacation leave
+NL-023,1,2016-04-26,2016-04-28,3,Vacation leave
+NL-023,3,2016-05-13,2016-05-14,2,Care for dependent family member
+NL-024,1,2019-05-12,2019-05-16,5,Vacation leave
+NL-024,1,2019-02-26,2019-03-03,6,Vacation leave
+NL-024,1,2019-04-19,2019-04-21,3,Vacation leave
+NL-024,1,2019-03-19,2019-03-24,6,Vacation leave
+NL-024,2,2019-03-22,2019-04-02,12,Medical - Flu and rest
+NLI-001,1,2019-02-25,2019-02-28,4,Vacation leave
+NLI-001,1,2019-04-19,2019-04-24,6,Vacation leave
+NLI-001,1,2018-11-04,2018-11-06,3,Vacation leave
+NLI-001,1,2019-02-02,2019-02-06,5,Vacation leave
+NLI-001,1,2018-08-08,2018-08-12,5,Vacation leave
+NLI-001,1,2019-03-05,2019-03-10,6,Vacation leave
+NLI-001,2,2018-12-24,2019-01-04,12,Medical - Flu and rest
+NLI-001,3,2018-11-13,2018-11-17,5,Care for dependent family member
+NL-025,1,2023-03-20,2023-03-22,3,Vacation leave
+NL-025,1,2023-04-27,2023-05-01,5,Vacation leave
+NL-025,1,2023-03-31,2023-04-03,4,Vacation leave
+NL-025,1,2023-08-23,2023-08-26,4,Vacation leave
+NL-025,1,2023-04-30,2023-05-02,3,Vacation leave
+NL-025,4,2023-09-09,2023-09-12,4,Family bereavement
+NL-025,5,2023-03-25,2023-03-27,3,Leave without pay
+NL-026,1,2019-06-30,2019-07-04,5,Vacation leave
+NL-026,1,2019-09-17,2019-09-21,5,Vacation leave
+NL-026,1,2019-06-23,2019-06-27,5,Vacation leave
+NL-027,1,2015-07-24,2015-07-27,4,Vacation leave
+NL-027,1,2015-11-13,2015-11-16,4,Vacation leave
+NL-027,1,2016-02-06,2016-02-11,6,Vacation leave
+NL-027,1,2015-12-28,2016-01-02,6,Vacation leave
+NL-027,1,2015-07-21,2015-07-22,2,Vacation leave
+NL-028,1,2023-05-12,2023-05-14,3,Vacation leave
+NL-028,1,2023-03-15,2023-03-16,2,Vacation leave
+NL-028,1,2023-06-20,2023-06-24,5,Vacation leave
+NL-028,1,2023-03-28,2023-03-30,3,Vacation leave
+NL-028,3,2023-03-28,2023-04-03,7,Care for dependent family member
+NL-029,1,2023-01-28,2023-01-31,4,Vacation leave
+NL-029,1,2023-06-06,2023-06-08,3,Vacation leave
+NL-029,1,2023-02-14,2023-02-18,5,Vacation leave
+NL-029,5,2023-04-28,2023-04-29,2,Leave without pay
+NL-030,1,2023-10-08,2023-10-12,5,Vacation leave
+NL-030,1,2023-06-23,2023-06-28,6,Vacation leave
+NL-030,1,2023-12-30,2024-01-04,6,Vacation leave
+NL-030,3,2023-11-02,2023-11-06,5,Care for dependent family member
+NL-031,1,2019-06-04,2019-06-08,5,Vacation leave
+NL-031,1,2019-05-06,2019-05-11,6,Vacation leave
+NL-031,1,2019-08-20,2019-08-24,5,Vacation leave
+NL-031,1,2019-03-03,2019-03-05,3,Vacation leave
+NL-031,2,2018-12-27,2019-01-07,12,Medical - Flu and rest
+NLI-002,1,2019-01-12,2019-01-16,5,Vacation leave
+NLI-002,1,2019-02-03,2019-02-08,6,Vacation leave
+NLI-002,1,2019-02-24,2019-02-26,3,Vacation leave
+NLI-002,2,2019-04-05,2019-04-16,12,Medical - Flu and rest
+NL-032,1,2021-07-09,2021-07-11,3,Vacation leave
+NL-032,1,2021-07-30,2021-08-03,5,Vacation leave
+NL-032,1,2020-12-29,2020-12-30,2,Vacation leave
+NL-032,1,2021-08-09,2021-08-10,2,Vacation leave
+NL-032,1,2021-09-02,2021-09-03,2,Vacation leave
+NL-032,1,2021-01-27,2021-01-30,4,Vacation leave
+NL-033,1,2014-12-16,2014-12-20,5,Vacation leave
+NL-033,1,2015-04-27,2015-05-01,5,Vacation leave
+NL-033,1,2015-07-10,2015-07-12,3,Vacation leave
+NL-033,2,2014-11-28,2014-12-09,12,Medical - Flu and rest
+NL-034,1,2023-12-05,2023-12-09,5,Vacation leave
+NL-034,1,2024-04-11,2024-04-15,5,Vacation leave
+NL-034,1,2023-11-10,2023-11-14,5,Vacation leave
+NL-034,1,2023-11-24,2023-11-27,4,Vacation leave
+NL-034,1,2024-03-03,2024-03-05,3,Vacation leave
+NLI-003,1,2021-02-18,2021-02-19,2,Vacation leave
+NLI-003,1,2020-08-28,2020-08-30,3,Vacation leave
+NLI-003,1,2021-02-14,2021-02-18,5,Vacation leave
+NLI-003,1,2020-11-15,2020-11-16,2,Vacation leave
+NLI-003,1,2021-02-12,2021-02-13,2,Vacation leave
+NLI-003,4,2021-01-16,2021-01-20,5,Family bereavement
+NL-035,1,2022-07-23,2022-07-25,3,Vacation leave
+NL-035,1,2022-04-13,2022-04-17,5,Vacation leave
+NL-035,1,2022-06-26,2022-06-27,2,Vacation leave
+NL-035,1,2021-12-14,2021-12-19,6,Vacation leave
+NL-035,1,2022-04-29,2022-05-04,6,Vacation leave
+NL-035,1,2021-12-04,2021-12-07,4,Vacation leave
+NL-036,1,2023-08-30,2023-09-01,3,Vacation leave
+NL-036,1,2023-07-21,2023-07-25,5,Vacation leave
+NL-036,1,2023-05-25,2023-05-27,3,Vacation leave
+NL-036,4,2023-07-27,2023-07-29,3,Family bereavement
+NL-037,1,2022-07-26,2022-07-31,6,Vacation leave
+NL-037,1,2022-03-21,2022-03-25,5,Vacation leave
+NL-037,1,2022-03-31,2022-04-03,4,Vacation leave
+NL-037,1,2022-04-20,2022-04-24,5,Vacation leave
+NL-038,1,2024-06-09,2024-06-12,4,Vacation leave
+NL-038,1,2024-05-05,2024-05-10,6,Vacation leave
+NL-038,1,2024-05-16,2024-05-18,3,Vacation leave
+NL-038,1,2024-05-24,2024-05-25,2,Vacation leave
+NL-039,1,2019-01-22,2019-01-26,5,Vacation leave
+NL-039,1,2019-04-05,2019-04-08,4,Vacation leave
+NL-039,3,2019-03-31,2019-04-09,10,Care for dependent family member
+NLI-004,1,2024-12-25,2024-12-30,6,Vacation leave
+NLI-004,1,2024-08-05,2024-08-07,3,Vacation leave
+NL-040,1,2024-09-01,2024-09-05,5,Vacation leave
+NL-040,1,2024-08-04,2024-08-06,3,Vacation leave
+NL-040,1,2025-03-19,2025-03-24,6,Vacation leave
+NL-040,1,2024-12-21,2024-12-23,3,Vacation leave
+NL-040,1,2025-01-09,2025-01-11,3,Vacation leave
+NL-040,1,2024-08-06,2024-08-07,2,Vacation leave
+NL-040,3,2025-04-04,2025-04-05,2,Care for dependent family member
+NL-041,1,2017-07-31,2017-08-02,3,Vacation leave
+NL-041,1,2017-06-20,2017-06-23,4,Vacation leave
+NL-042,1,2015-09-07,2015-09-09,3,Vacation leave
+NL-042,1,2015-03-17,2015-03-18,2,Vacation leave
+NL-042,1,2015-02-15,2015-02-17,3,Vacation leave
+NL-042,1,2015-09-05,2015-09-08,4,Vacation leave
+NL-042,1,2015-04-22,2015-04-27,6,Vacation leave
+NL-042,2,2015-03-09,2015-03-20,12,Medical - Flu and rest
+NL-042,4,2015-10-06,2015-10-10,5,Family bereavement
+NL-043,1,2018-03-05,2018-03-06,2,Vacation leave
+NL-043,1,2018-06-05,2018-06-09,5,Vacation leave
+NL-043,1,2018-04-25,2018-04-29,5,Vacation leave
+NL-044,1,2023-11-14,2023-11-16,3,Vacation leave
+NL-044,1,2023-06-28,2023-06-30,3,Vacation leave
+NL-044,1,2023-08-05,2023-08-09,5,Vacation leave
+NL-044,1,2023-06-16,2023-06-20,5,Vacation leave
+NL-044,1,2023-09-20,2023-09-25,6,Vacation leave
+NL-045,1,2020-06-09,2020-06-14,6,Vacation leave
+NL-045,1,2020-09-23,2020-09-24,2,Vacation leave
+NL-045,1,2020-05-02,2020-05-05,4,Vacation leave
+NL-045,1,2020-07-08,2020-07-09,2,Vacation leave
+NL-045,3,2020-11-14,2020-11-23,10,Care for dependent family member
+NL-046,1,2017-10-03,2017-10-08,6,Vacation leave
+NL-046,1,2017-03-10,2017-03-11,2,Vacation leave
+NL-046,1,2017-08-22,2017-08-27,6,Vacation leave
+NL-046,1,2017-05-08,2017-05-09,2,Vacation leave
+NL-046,1,2017-03-30,2017-04-03,5,Vacation leave
+NL-047,1,2020-10-10,2020-10-12,3,Vacation leave
+NL-047,1,2020-10-16,2020-10-20,5,Vacation leave
+NL-047,1,2021-02-03,2021-02-06,4,Vacation leave
+NL-047,4,2021-03-14,2021-03-17,4,Family bereavement
+NLI-005,1,2023-05-30,2023-06-04,6,Vacation leave
+NLI-005,1,2022-11-25,2022-11-29,5,Vacation leave
+NLI-005,1,2023-04-23,2023-04-24,2,Vacation leave
+NLI-005,1,2023-06-12,2023-06-16,5,Vacation leave
+NLI-005,1,2023-02-20,2023-02-25,6,Vacation leave
+NLI-005,1,2022-12-03,2022-12-04,2,Vacation leave
+NL-048,1,2024-05-17,2024-05-19,3,Vacation leave
+NL-048,1,2023-12-12,2023-12-17,6,Vacation leave
+NL-048,3,2024-04-13,2024-04-17,5,Care for dependent family member
+NL-049,1,2015-10-02,2015-10-06,5,Vacation leave
+NL-049,1,2015-07-14,2015-07-15,2,Vacation leave
+NL-049,1,2015-01-09,2015-01-13,5,Vacation leave
+NL-049,1,2015-04-24,2015-04-26,3,Vacation leave
+NL-049,1,2015-05-03,2015-05-07,5,Vacation leave
+NL-049,1,2015-08-13,2015-08-18,6,Vacation leave
+NL-049,4,2015-07-08,2015-07-11,4,Family bereavement
+NL-050,1,2024-04-11,2024-04-15,5,Vacation leave
+NL-050,1,2024-06-16,2024-06-18,3,Vacation leave
+NL-050,1,2024-08-01,2024-08-03,3,Vacation leave
+NL-051,1,2016-08-04,2016-08-09,6,Vacation leave
+NL-051,1,2016-08-18,2016-08-23,6,Vacation leave
+NL-051,1,2016-04-06,2016-04-11,6,Vacation leave
+NL-051,1,2016-05-08,2016-05-09,2,Vacation leave
+NL-052,1,2024-01-15,2024-01-19,5,Vacation leave
+NL-052,1,2024-01-21,2024-01-24,4,Vacation leave
+NL-052,1,2023-11-10,2023-11-15,6,Vacation leave
+NL-053,1,2023-05-11,2023-05-14,4,Vacation leave
+NL-053,1,2023-07-14,2023-07-18,5,Vacation leave
+NLI-006,1,2024-01-29,2024-02-03,6,Vacation leave
+NLI-006,1,2024-04-05,2024-04-08,4,Vacation leave
+NLI-006,1,2024-05-14,2024-05-19,6,Vacation leave
+NLI-006,3,2024-06-22,2024-06-23,2,Care for dependent family member
+NLI-007,1,2022-12-16,2022-12-17,2,Vacation leave
+NLI-007,1,2022-04-15,2022-04-16,2,Vacation leave
+NLI-007,1,2022-04-09,2022-04-10,2,Vacation leave
+NLI-007,1,2022-05-21,2022-05-22,2,Vacation leave
+NLI-007,3,2022-09-23,2022-09-29,7,Care for dependent family member
+NL-054,1,2019-08-20,2019-08-24,5,Vacation leave
+NL-054,1,2019-06-19,2019-06-22,4,Vacation leave
+NL-054,1,2019-06-01,2019-06-06,6,Vacation leave
+NL-054,1,2019-07-26,2019-07-29,4,Vacation leave
+NL-054,1,2019-06-10,2019-06-13,4,Vacation leave
+NL-054,2,2019-07-03,2019-07-14,12,Medical - Flu and rest
+NL-055,1,2017-02-11,2017-02-14,4,Vacation leave
+NL-055,1,2016-08-02,2016-08-04,3,Vacation leave
+NL-055,1,2016-09-23,2016-09-24,2,Vacation leave
+NL-055,1,2016-07-26,2016-07-28,3,Vacation leave
+NL-055,1,2016-12-31,2017-01-04,5,Vacation leave
+NL-056,1,2025-04-26,2025-04-30,5,Vacation leave
+NL-056,1,2025-08-11,2025-08-13,3,Vacation leave
+NL-056,1,2025-05-16,2025-05-18,3,Vacation leave
+NL-056,1,2025-03-27,2025-04-01,6,Vacation leave
+NL-056,1,2025-03-22,2025-03-23,2,Vacation leave
+NL-056,2,2025-06-06,2025-06-17,12,Medical - Flu and rest
+NL-057,1,2017-10-04,2017-10-08,5,Vacation leave
+NL-057,1,2017-09-11,2017-09-16,6,Vacation leave
+NL-057,1,2017-03-30,2017-04-02,4,Vacation leave
+NL-057,1,2017-08-31,2017-09-04,5,Vacation leave
+NLI-008,1,2024-01-22,2024-01-24,3,Vacation leave
+NLI-008,1,2023-06-04,2023-06-07,4,Vacation leave
+NLI-008,2,2023-12-01,2023-12-12,12,Medical - Flu and rest
+NLI-009,1,2023-02-07,2023-02-12,6,Vacation leave
+NLI-009,1,2023-03-09,2023-03-13,5,Vacation leave
+NLI-009,1,2023-02-24,2023-02-25,2,Vacation leave
+NLI-009,1,2023-04-23,2023-04-24,2,Vacation leave
+NLI-009,1,2022-11-23,2022-11-26,4,Vacation leave
+NLI-009,1,2023-03-19,2023-03-20,2,Vacation leave
+NLI-009,5,2022-12-14,2022-12-14,1,Leave without pay
+NL-058,1,2015-12-09,2015-12-10,2,Vacation leave
+NL-058,1,2015-10-22,2015-10-23,2,Vacation leave
+NL-058,2,2016-05-14,2016-05-25,12,Medical - Flu and rest
+NL-059,1,2025-09-19,2025-09-20,2,Vacation leave
+NL-059,1,2025-03-28,2025-03-30,3,Vacation leave
+NL-059,1,2025-08-18,2025-08-22,5,Vacation leave
+NL-060,1,2018-08-19,2018-08-22,4,Vacation leave
+NL-060,1,2018-09-22,2018-09-23,2,Vacation leave
+NL-060,1,2019-04-07,2019-04-09,3,Vacation leave
+NL-060,1,2019-03-06,2019-03-08,3,Vacation leave
+NL-060,1,2019-03-13,2019-03-18,6,Vacation leave
+NL-060,1,2019-04-24,2019-04-25,2,Vacation leave
+NL-060,2,2018-10-09,2018-10-20,12,Medical - Flu and rest
+NL-061,1,2014-07-17,2014-07-19,3,Vacation leave
+NL-061,1,2014-10-16,2014-10-18,3,Vacation leave
+NL-061,1,2014-04-30,2014-05-05,6,Vacation leave
+NL-061,3,2014-08-30,2014-09-04,6,Care for dependent family member
+NL-061,5,2014-09-26,2014-09-26,1,Leave without pay
+NL-062,1,2020-01-10,2020-01-15,6,Vacation leave
+NL-062,1,2019-10-23,2019-10-24,2,Vacation leave
+NL-062,1,2020-06-27,2020-07-01,5,Vacation leave
+NL-062,1,2020-07-16,2020-07-20,5,Vacation leave
+NL-062,1,2020-01-23,2020-01-28,6,Vacation leave
+NL-062,1,2020-05-23,2020-05-24,2,Vacation leave
+NL-062,2,2019-10-30,2019-11-10,12,Medical - Flu and rest
+NL-062,3,2020-08-13,2020-08-16,4,Care for dependent family member
+NL-063,1,2023-01-11,2023-01-12,2,Vacation leave
+NL-063,1,2023-04-19,2023-04-23,5,Vacation leave
+NL-063,1,2023-03-10,2023-03-15,6,Vacation leave
+NL-063,1,2023-07-04,2023-07-09,6,Vacation leave
+NL-063,2,2023-03-29,2023-04-09,12,Medical - Flu and rest
+NL-063,5,2023-04-03,2023-04-03,1,Leave without pay
+NL-064,1,2022-05-27,2022-05-31,5,Vacation leave
+NL-064,1,2022-06-05,2022-06-08,4,Vacation leave
+NL-064,1,2022-07-16,2022-07-21,6,Vacation leave
+NL-064,1,2022-02-14,2022-02-16,3,Vacation leave
+NL-064,1,2022-02-21,2022-02-24,4,Vacation leave
+NL-064,4,2022-02-16,2022-02-20,5,Family bereavement
+NL-065,1,2025-05-06,2025-05-08,3,Vacation leave
+NL-065,1,2025-07-27,2025-07-31,5,Vacation leave
+NL-065,1,2025-06-28,2025-07-03,6,Vacation leave
+NL-065,1,2025-01-27,2025-02-01,6,Vacation leave
+NL-065,1,2025-02-19,2025-02-20,2,Vacation leave
+NL-065,1,2025-06-03,2025-06-08,6,Vacation leave
+NL-066,1,2020-09-11,2020-09-12,2,Vacation leave
+NL-066,1,2020-07-01,2020-07-05,5,Vacation leave
+NL-066,1,2020-09-26,2020-09-28,3,Vacation leave
+NL-066,2,2020-07-12,2020-07-23,12,Medical - Flu and rest
+NL-066,3,2020-06-05,2020-06-07,3,Care for dependent family member
+NL-067,1,2015-10-22,2015-10-23,2,Vacation leave
+NL-067,1,2015-09-01,2015-09-05,5,Vacation leave
+NL-067,1,2015-08-15,2015-08-19,5,Vacation leave
+NL-067,1,2015-06-28,2015-06-29,2,Vacation leave
+NL-068,1,2016-06-13,2016-06-16,4,Vacation leave
+NL-068,1,2016-06-13,2016-06-17,5,Vacation leave
+NL-068,1,2016-06-18,2016-06-22,5,Vacation leave
+NL-068,1,2016-04-06,2016-04-11,6,Vacation leave
+NL-068,2,2016-07-05,2016-07-16,12,Medical - Flu and rest
+NL-069,1,2015-12-30,2016-01-04,6,Vacation leave
+NL-069,1,2016-03-28,2016-03-31,4,Vacation leave
+NL-069,1,2016-01-09,2016-01-10,2,Vacation leave
+NL-069,1,2016-01-10,2016-01-13,4,Vacation leave
+NL-069,2,2016-03-21,2016-04-01,12,Medical - Flu and rest
+NLI-010,1,2019-09-01,2019-09-03,3,Vacation leave
+NLI-010,1,2020-02-07,2020-02-11,5,Vacation leave
+NLI-010,1,2019-10-10,2019-10-13,4,Vacation leave
+NLI-010,1,2020-01-31,2020-02-01,2,Vacation leave
+NLI-010,1,2019-11-05,2019-11-09,5,Vacation leave
+NLI-010,1,2019-12-16,2019-12-17,2,Vacation leave
+NLI-010,2,2019-10-18,2019-10-29,12,Medical - Flu and rest
+NL-070,1,2018-12-01,2018-12-04,4,Vacation leave
+NL-070,1,2018-10-23,2018-10-26,4,Vacation leave
+NL-070,1,2019-03-06,2019-03-10,5,Vacation leave
+NL-070,1,2019-03-21,2019-03-23,3,Vacation leave
+NL-070,4,2019-01-05,2019-01-07,3,Family bereavement
+NL-071,1,2023-09-16,2023-09-17,2,Vacation leave
+NL-071,1,2023-10-22,2023-10-23,2,Vacation leave
+NL-071,1,2023-12-06,2023-12-10,5,Vacation leave
+NL-072,1,2023-07-19,2023-07-20,2,Vacation leave
+NL-072,1,2023-03-20,2023-03-21,2,Vacation leave
+NL-072,1,2023-02-05,2023-02-09,5,Vacation leave
+NL-072,1,2023-05-03,2023-05-05,3,Vacation leave
+NL-072,1,2023-02-09,2023-02-13,5,Vacation leave
+NL-073,1,2020-12-10,2020-12-15,6,Vacation leave
+NL-073,1,2020-06-19,2020-06-24,6,Vacation leave
+NL-073,1,2020-06-01,2020-06-05,5,Vacation leave
+NL-073,1,2020-09-12,2020-09-13,2,Vacation leave
+NL-073,2,2020-07-16,2020-07-27,12,Medical - Flu and rest
+NL-074,1,2017-10-22,2017-10-25,4,Vacation leave
+NL-074,1,2017-11-13,2017-11-15,3,Vacation leave
+NL-074,1,2017-07-23,2017-07-24,2,Vacation leave
+NL-075,1,2017-08-15,2017-08-18,4,Vacation leave
+NL-075,1,2017-08-16,2017-08-17,2,Vacation leave
+NL-075,1,2018-02-07,2018-02-12,6,Vacation leave
+NL-075,1,2017-08-27,2017-08-31,5,Vacation leave
+NL-075,1,2018-01-16,2018-01-20,5,Vacation leave
+NL-075,1,2018-01-15,2018-01-16,2,Vacation leave
+NL-075,2,2017-11-23,2017-12-04,12,Medical - Flu and rest
+NL-076,1,2024-10-14,2024-10-16,3,Vacation leave
+NL-076,1,2024-10-20,2024-10-25,6,Vacation leave
+NL-076,2,2024-10-20,2024-10-31,12,Medical - Flu and rest
+NL-076,4,2024-08-08,2024-08-11,4,Family bereavement
+NL-077,1,2024-07-15,2024-07-20,6,Vacation leave
+NL-077,1,2024-04-20,2024-04-21,2,Vacation leave
+NL-077,2,2024-04-22,2024-05-03,12,Medical - Flu and rest
+NL-078,1,2018-08-14,2018-08-17,4,Vacation leave
+NL-078,1,2018-07-24,2018-07-29,6,Vacation leave
+NL-078,2,2018-06-12,2018-06-23,12,Medical - Flu and rest
+NLI-011,1,2014-05-05,2014-05-10,6,Vacation leave
+NLI-011,1,2014-10-13,2014-10-16,4,Vacation leave
+NLI-011,1,2014-09-05,2014-09-08,4,Vacation leave
+NLI-011,1,2014-06-21,2014-06-25,5,Vacation leave
+NLI-011,1,2014-05-15,2014-05-19,5,Vacation leave
+NLI-011,3,2014-05-28,2014-06-03,7,Care for dependent family member
+NL-079,1,2015-04-21,2015-04-24,4,Vacation leave
+NL-079,1,2014-10-07,2014-10-08,2,Vacation leave
+NL-079,1,2014-10-22,2014-10-23,2,Vacation leave
+NL-079,1,2014-12-31,2015-01-04,5,Vacation leave
+NL-079,1,2014-12-31,2015-01-05,6,Vacation leave
+NLI-012,1,2018-09-01,2018-09-06,6,Vacation leave
+NLI-012,1,2018-10-17,2018-10-20,4,Vacation leave
+NLI-012,1,2018-12-30,2019-01-04,6,Vacation leave
+NLI-012,1,2018-10-23,2018-10-26,4,Vacation leave
+NLI-012,1,2018-10-17,2018-10-18,2,Vacation leave
+NL-080,1,2014-12-04,2014-12-05,2,Vacation leave
+NL-080,1,2015-05-15,2015-05-19,5,Vacation leave
+NL-080,1,2014-10-19,2014-10-21,3,Vacation leave
+NL-080,1,2015-05-23,2015-05-28,6,Vacation leave
+NL-080,1,2015-06-23,2015-06-26,4,Vacation leave
+NL-080,2,2015-01-26,2015-02-06,12,Medical - Flu and rest
+NL-080,3,2015-05-14,2015-05-16,3,Care for dependent family member
+NL-081,1,2020-05-03,2020-05-07,5,Vacation leave
+NL-081,1,2020-07-03,2020-07-06,4,Vacation leave
+NL-081,1,2019-11-08,2019-11-11,4,Vacation leave
+NL-082,1,2015-07-28,2015-08-01,5,Vacation leave
+NL-082,1,2015-09-08,2015-09-10,3,Vacation leave
+NL-082,1,2015-04-12,2015-04-16,5,Vacation leave
+NL-082,1,2015-03-28,2015-03-31,4,Vacation leave
+NL-082,1,2015-09-14,2015-09-18,5,Vacation leave
+NL-083,1,2022-12-05,2022-12-06,2,Vacation leave
+NL-083,1,2023-02-16,2023-02-21,6,Vacation leave
+NL-083,1,2023-02-05,2023-02-08,4,Vacation leave
+NL-083,1,2023-04-14,2023-04-15,2,Vacation leave
+NL-083,1,2023-01-15,2023-01-18,4,Vacation leave
+NL-083,3,2023-03-09,2023-03-18,10,Care for dependent family member
+NL-084,1,2022-05-18,2022-05-19,2,Vacation leave
+NL-084,1,2022-05-14,2022-05-16,3,Vacation leave
+NL-084,1,2022-10-18,2022-10-22,5,Vacation leave
+NL-084,1,2022-10-05,2022-10-08,4,Vacation leave
+NL-085,1,2024-01-31,2024-02-02,3,Vacation leave
+NL-085,1,2023-12-25,2023-12-27,3,Vacation leave
+NL-085,1,2024-01-18,2024-01-21,4,Vacation leave
+NL-085,1,2024-03-09,2024-03-11,3,Vacation leave
+NL-086,1,2024-04-20,2024-04-21,2,Vacation leave
+NL-086,1,2024-02-21,2024-02-23,3,Vacation leave
+NL-086,1,2023-11-08,2023-11-11,4,Vacation leave
+NL-086,1,2023-08-29,2023-08-31,3,Vacation leave
+NL-086,1,2023-10-23,2023-10-24,2,Vacation leave
+NL-087,1,2024-04-29,2024-04-30,2,Vacation leave
+NL-087,1,2023-12-03,2023-12-07,5,Vacation leave
+NL-087,2,2024-01-01,2024-01-12,12,Medical - Flu and rest
+NL-088,1,2024-08-16,2024-08-20,5,Vacation leave
+NL-088,1,2024-09-20,2024-09-24,5,Vacation leave
+NL-088,1,2024-12-07,2024-12-08,2,Vacation leave
+NL-088,2,2024-06-21,2024-07-02,12,Medical - Flu and rest
+NL-089,1,2020-10-09,2020-10-14,6,Vacation leave
+NL-089,1,2020-06-01,2020-06-04,4,Vacation leave
+NL-089,1,2020-07-22,2020-07-25,4,Vacation leave
+NL-090,1,2017-07-21,2017-07-22,2,Vacation leave
+NL-090,1,2016-12-16,2016-12-21,6,Vacation leave
+NL-090,1,2017-07-17,2017-07-21,5,Vacation leave
+NL-090,2,2017-02-15,2017-02-26,12,Medical - Flu and rest
+NL-090,5,2017-02-16,2017-02-17,2,Leave without pay
+NL-091,1,2016-11-21,2016-11-26,6,Vacation leave
+NL-091,1,2016-04-05,2016-04-08,4,Vacation leave
+NL-091,1,2016-05-30,2016-06-03,5,Vacation leave
+NL-092,1,2023-11-30,2023-12-05,6,Vacation leave
+NL-092,1,2024-03-12,2024-03-15,4,Vacation leave
+NL-092,1,2023-12-12,2023-12-15,4,Vacation leave
+NL-092,1,2024-05-02,2024-05-04,3,Vacation leave
+NL-092,1,2023-10-05,2023-10-10,6,Vacation leave
+NL-092,1,2023-10-10,2023-10-12,3,Vacation leave
+NL-092,2,2024-01-15,2024-01-26,12,Medical - Flu and rest
+NL-093,1,2023-08-11,2023-08-14,4,Vacation leave
+NL-093,1,2024-02-11,2024-02-12,2,Vacation leave
+NLI-013,1,2024-04-22,2024-04-25,4,Vacation leave
+NLI-013,1,2024-03-03,2024-03-07,5,Vacation leave
+NLI-013,1,2024-05-01,2024-05-02,2,Vacation leave
+NLI-013,1,2024-07-07,2024-07-11,5,Vacation leave
+NLI-013,4,2024-08-19,2024-08-22,4,Family bereavement
+NL-094,1,2015-01-11,2015-01-15,5,Vacation leave
+NL-094,1,2015-02-14,2015-02-15,2,Vacation leave
+NL-094,1,2015-03-01,2015-03-04,4,Vacation leave
+NL-094,2,2014-11-26,2014-12-07,12,Medical - Flu and rest
+NL-095,1,2019-01-17,2019-01-21,5,Vacation leave
+NL-095,1,2018-09-14,2018-09-17,4,Vacation leave
+NL-095,1,2018-12-15,2018-12-19,5,Vacation leave
+NL-095,1,2018-08-24,2018-08-26,3,Vacation leave
+NL-095,1,2018-05-24,2018-05-28,5,Vacation leave
+NL-095,3,2018-12-14,2018-12-21,8,Care for dependent family member
+NL-096,1,2018-06-24,2018-06-28,5,Vacation leave
+NL-096,1,2018-07-10,2018-07-12,3,Vacation leave
+NL-096,1,2018-07-03,2018-07-08,6,Vacation leave
+NL-096,1,2017-12-10,2017-12-15,6,Vacation leave
+NLI-014,1,2024-08-15,2024-08-16,2,Vacation leave
+NLI-014,1,2024-05-28,2024-06-01,5,Vacation leave
+NLI-014,1,2024-01-05,2024-01-06,2,Vacation leave
+NLI-014,1,2024-08-18,2024-08-23,6,Vacation leave
+NLI-014,1,2024-04-21,2024-04-24,4,Vacation leave
+NLI-014,2,2024-03-22,2024-04-02,12,Medical - Flu and rest
+NLI-014,5,2024-01-02,2024-01-04,3,Leave without pay
+NLI-015,1,2016-04-20,2016-04-23,4,Vacation leave
+NLI-015,1,2016-10-24,2016-10-25,2,Vacation leave
+NLI-015,1,2016-07-17,2016-07-19,3,Vacation leave
+NLI-015,1,2016-07-04,2016-07-09,6,Vacation leave
+NLI-015,1,2017-01-01,2017-01-05,5,Vacation leave
+NLI-015,1,2016-08-19,2016-08-22,4,Vacation leave
+NLI-015,2,2016-06-14,2016-06-25,12,Medical - Flu and rest
+NL-097,1,2024-07-14,2024-07-15,2,Vacation leave
+NL-097,1,2024-04-01,2024-04-02,2,Vacation leave
+NL-098,1,2020-12-13,2020-12-17,5,Vacation leave
+NL-098,1,2020-11-08,2020-11-10,3,Vacation leave
+NL-098,1,2020-12-20,2020-12-22,3,Vacation leave
+NL-098,1,2021-06-10,2021-06-11,2,Vacation leave
+NL-098,1,2021-04-05,2021-04-08,4,Vacation leave
+NL-098,1,2020-10-08,2020-10-10,3,Vacation leave
+NL-098,2,2020-11-25,2020-12-06,12,Medical - Flu and rest
+NLI-016,1,2021-02-20,2021-02-25,6,Vacation leave
+NLI-016,1,2021-06-14,2021-06-15,2,Vacation leave
+NLI-016,1,2021-06-27,2021-07-01,5,Vacation leave
+NLI-016,1,2021-04-29,2021-05-04,6,Vacation leave
+NLI-016,1,2021-06-18,2021-06-20,3,Vacation leave
+NLI-016,2,2021-03-12,2021-03-23,12,Medical - Flu and rest
+NLI-016,4,2021-03-11,2021-03-15,5,Family bereavement
+NL-099,1,2025-06-28,2025-06-29,2,Vacation leave
+NL-099,1,2025-03-22,2025-03-27,6,Vacation leave
+NL-099,1,2025-01-19,2025-01-22,4,Vacation leave
+NL-099,1,2025-02-14,2025-02-15,2,Vacation leave
+NL-099,1,2024-12-30,2025-01-03,5,Vacation leave
+NL-099,2,2025-05-01,2025-05-12,12,Medical - Flu and rest
+NL-100,1,2015-02-17,2015-02-21,5,Vacation leave
+NL-100,1,2015-06-14,2015-06-19,6,Vacation leave
+NL-100,1,2015-01-31,2015-02-04,5,Vacation leave
+NL-101,1,2024-02-21,2024-02-22,2,Vacation leave
+NL-101,1,2024-05-13,2024-05-15,3,Vacation leave
+NL-101,1,2024-07-07,2024-07-09,3,Vacation leave
+NL-102,1,2019-12-23,2019-12-26,4,Vacation leave
+NL-102,1,2019-12-31,2020-01-02,3,Vacation leave
+NL-102,1,2019-11-18,2019-11-21,4,Vacation leave
+NL-102,3,2019-11-30,2019-12-05,6,Care for dependent family member
+NLI-017,1,2017-02-10,2017-02-11,2,Vacation leave
+NLI-017,1,2016-12-21,2016-12-25,5,Vacation leave
+NLI-017,1,2016-09-14,2016-09-19,6,Vacation leave
+NLI-017,1,2016-06-17,2016-06-22,6,Vacation leave
+NLI-017,2,2016-12-06,2016-12-17,12,Medical - Flu and rest
+NLI-017,3,2017-02-20,2017-02-25,6,Care for dependent family member
+NL-103,1,2014-11-08,2014-11-10,3,Vacation leave
+NL-103,1,2014-12-30,2015-01-02,4,Vacation leave
+NL-104,1,2022-01-06,2022-01-08,3,Vacation leave
+NL-104,1,2021-11-04,2021-11-09,6,Vacation leave
+NL-104,1,2021-11-22,2021-11-23,2,Vacation leave
+NL-104,1,2021-09-18,2021-09-22,5,Vacation leave
+NL-105,1,2018-09-27,2018-09-28,2,Vacation leave
+NL-105,1,2018-09-06,2018-09-11,6,Vacation leave
+NL-105,1,2018-10-29,2018-11-01,4,Vacation leave
+NL-105,1,2018-06-28,2018-06-30,3,Vacation leave
+NL-105,1,2018-06-13,2018-06-14,2,Vacation leave
+NLI-018,1,2021-09-23,2021-09-25,3,Vacation leave
+NLI-018,1,2021-04-08,2021-04-13,6,Vacation leave
+NLI-018,1,2021-09-11,2021-09-12,2,Vacation leave
+NLI-018,1,2021-07-08,2021-07-13,6,Vacation leave
+NLI-018,1,2021-07-10,2021-07-11,2,Vacation leave
+NLI-018,1,2021-06-26,2021-06-30,5,Vacation leave
+NLI-018,3,2021-05-24,2021-05-25,2,Care for dependent family member
+NLI-018,4,2021-06-26,2021-06-28,3,Family bereavement
+NL-106,1,2015-09-27,2015-10-02,6,Vacation leave
+NL-106,1,2015-12-02,2015-12-04,3,Vacation leave
+NL-106,1,2015-05-29,2015-06-02,5,Vacation leave
+NL-106,1,2015-12-28,2015-12-29,2,Vacation leave
+NL-106,1,2015-10-26,2015-10-27,2,Vacation leave
+NL-106,1,2015-10-06,2015-10-09,4,Vacation leave
+NL-106,2,2015-09-27,2015-10-08,12,Medical - Flu and rest
+NL-107,1,2021-12-30,2022-01-02,4,Vacation leave
+NL-107,1,2022-04-27,2022-04-29,3,Vacation leave
+NL-107,1,2022-01-22,2022-01-27,6,Vacation leave
+NL-107,1,2022-03-21,2022-03-25,5,Vacation leave
+NL-107,1,2022-03-19,2022-03-23,5,Vacation leave
+NL-108,1,2016-05-02,2016-05-07,6,Vacation leave
+NL-108,1,2016-05-20,2016-05-24,5,Vacation leave
+NL-108,1,2016-10-19,2016-10-22,4,Vacation leave
+NL-108,1,2016-07-26,2016-07-29,4,Vacation leave
+NL-108,1,2016-06-08,2016-06-11,4,Vacation leave
+NL-109,1,2023-06-18,2023-06-21,4,Vacation leave
+NL-109,1,2023-08-16,2023-08-18,3,Vacation leave
+NL-110,1,2016-01-27,2016-01-29,3,Vacation leave
+NL-110,1,2016-05-22,2016-05-23,2,Vacation leave
+NL-110,1,2016-03-01,2016-03-05,5,Vacation leave
+NL-111,1,2021-04-29,2021-05-04,6,Vacation leave
+NL-111,1,2021-05-18,2021-05-20,3,Vacation leave
+NL-111,1,2020-12-05,2020-12-09,5,Vacation leave
+NL-111,1,2021-03-18,2021-03-20,3,Vacation leave
+NL-112,1,2016-02-15,2016-02-19,5,Vacation leave
+NL-112,1,2016-01-20,2016-01-21,2,Vacation leave
+NL-113,1,2024-12-28,2024-12-29,2,Vacation leave
+NL-113,1,2024-11-25,2024-11-29,5,Vacation leave
+NL-113,1,2025-04-13,2025-04-15,3,Vacation leave
+NL-113,1,2024-11-04,2024-11-07,4,Vacation leave
+NL-113,1,2024-11-10,2024-11-12,3,Vacation leave
+NL-113,3,2025-05-18,2025-05-22,5,Care for dependent family member
+NL-113,5,2025-04-25,2025-04-26,2,Leave without pay
+NL-114,1,2021-07-02,2021-07-04,3,Vacation leave
+NL-114,1,2021-05-03,2021-05-05,3,Vacation leave
+NL-115,1,2017-10-11,2017-10-16,6,Vacation leave
+NL-115,1,2018-03-05,2018-03-08,4,Vacation leave
+NL-115,3,2018-02-27,2018-03-07,9,Care for dependent family member
+NL-116,1,2015-04-15,2015-04-20,6,Vacation leave
+NL-116,1,2015-10-29,2015-10-31,3,Vacation leave
+NL-116,2,2015-03-31,2015-04-11,12,Medical - Flu and rest
+NLI-019,1,2024-04-30,2024-05-01,2,Vacation leave
+NLI-019,1,2024-09-11,2024-09-15,5,Vacation leave
+NL-117,1,2023-01-07,2023-01-08,2,Vacation leave
+NL-117,1,2022-11-25,2022-11-27,3,Vacation leave
+NL-117,1,2023-04-30,2023-05-05,6,Vacation leave
+NL-118,1,2017-04-24,2017-04-25,2,Vacation leave
+NL-118,1,2017-02-17,2017-02-18,2,Vacation leave
+NL-118,1,2017-02-13,2017-02-15,3,Vacation leave
+NL-118,1,2017-06-05,2017-06-06,2,Vacation leave
+NL-119,1,2021-08-12,2021-08-14,3,Vacation leave
+NL-119,1,2021-06-20,2021-06-24,5,Vacation leave
+NL-119,1,2021-03-07,2021-03-10,4,Vacation leave
+NL-119,1,2021-07-18,2021-07-19,2,Vacation leave
+NL-119,1,2021-07-18,2021-07-20,3,Vacation leave
+NL-119,1,2021-08-16,2021-08-21,6,Vacation leave
+NLI-020,1,2022-01-27,2022-01-29,3,Vacation leave
+NLI-020,1,2021-07-01,2021-07-03,3,Vacation leave
+NLI-020,2,2021-11-08,2021-11-19,12,Medical - Flu and rest
+NLI-020,4,2021-07-27,2021-07-30,4,Family bereavement
+NL-120,1,2024-08-31,2024-09-02,3,Vacation leave
+NL-120,1,2024-01-02,2024-01-03,2,Vacation leave
+NL-120,1,2024-04-28,2024-05-03,6,Vacation leave
+NL-120,1,2024-05-09,2024-05-10,2,Vacation leave
+NL-120,1,2024-07-15,2024-07-18,4,Vacation leave
+NL-120,1,2024-01-21,2024-01-22,2,Vacation leave
+NL-120,2,2024-03-07,2024-03-18,12,Medical - Flu and rest
+NL-121,1,2019-11-21,2019-11-22,2,Vacation leave
+NL-121,1,2020-07-19,2020-07-24,6,Vacation leave
+NL-122,1,2015-03-31,2015-04-01,2,Vacation leave
+NL-122,1,2014-11-19,2014-11-24,6,Vacation leave
+NL-122,1,2015-05-06,2015-05-08,3,Vacation leave
+NL-122,1,2014-10-04,2014-10-05,2,Vacation leave
+NL-122,1,2015-03-13,2015-03-17,5,Vacation leave
+NL-122,1,2015-05-15,2015-05-20,6,Vacation leave
+NL-122,2,2015-01-07,2015-01-18,12,Medical - Flu and rest
+NL-122,5,2014-12-11,2014-12-12,2,Leave without pay
+NLI-021,1,2018-08-21,2018-08-22,2,Vacation leave
+NLI-021,1,2019-01-12,2019-01-14,3,Vacation leave
+NL-123,1,2023-05-29,2023-06-02,5,Vacation leave
+NL-123,1,2023-05-29,2023-06-01,4,Vacation leave
+NL-123,1,2023-11-18,2023-11-20,3,Vacation leave
+NL-123,1,2023-12-12,2023-12-15,4,Vacation leave
+NL-124,1,2024-06-08,2024-06-13,6,Vacation leave
+NL-124,1,2024-12-05,2024-12-10,6,Vacation leave
+NL-124,1,2024-04-10,2024-04-11,2,Vacation leave
+NL-124,1,2024-08-21,2024-08-23,3,Vacation leave
+NL-124,2,2024-10-14,2024-10-25,12,Medical - Flu and rest
+NL-125,1,2017-08-08,2017-08-11,4,Vacation leave
+NL-125,1,2017-09-13,2017-09-15,3,Vacation leave
+NL-125,1,2017-10-21,2017-10-22,2,Vacation leave
+NLI-022,1,2015-03-22,2015-03-24,3,Vacation leave
+NLI-022,1,2015-05-05,2015-05-09,5,Vacation leave
+NLI-022,3,2015-07-05,2015-07-09,5,Care for dependent family member
+NL-126,1,2024-05-11,2024-05-16,6,Vacation leave
+NL-126,1,2024-02-13,2024-02-14,2,Vacation leave
+NL-126,1,2024-04-02,2024-04-05,4,Vacation leave
+NL-126,1,2023-12-12,2023-12-16,5,Vacation leave
+NL-126,1,2024-05-14,2024-05-18,5,Vacation leave
+NL-127,1,2022-07-15,2022-07-16,2,Vacation leave
+NL-127,1,2022-09-05,2022-09-09,5,Vacation leave
+NL-127,5,2022-01-02,2022-01-03,2,Leave without pay
+NL-128,1,2022-01-17,2022-01-21,5,Vacation leave
+NL-128,1,2021-11-18,2021-11-23,6,Vacation leave
+NL-128,1,2021-07-24,2021-07-25,2,Vacation leave
+NL-129,1,2017-12-21,2017-12-25,5,Vacation leave
+NL-129,1,2018-04-16,2018-04-21,6,Vacation leave
+NL-130,1,2024-12-19,2024-12-21,3,Vacation leave
+NL-130,1,2024-06-23,2024-06-24,2,Vacation leave
+NL-130,1,2024-11-26,2024-11-28,3,Vacation leave
+NL-130,1,2024-07-05,2024-07-09,5,Vacation leave
+NL-130,1,2024-07-05,2024-07-08,4,Vacation leave
+NL-130,1,2024-08-09,2024-08-14,6,Vacation leave
+NL-130,2,2024-10-11,2024-10-22,12,Medical - Flu and rest
+NLI-023,1,2014-12-17,2014-12-18,2,Vacation leave
+NLI-023,1,2014-09-10,2014-09-14,5,Vacation leave
+NLI-023,5,2015-02-22,2015-02-23,2,Leave without pay
+NL-131,1,2019-11-03,2019-11-05,3,Vacation leave
+NL-131,1,2019-09-22,2019-09-23,2,Vacation leave
+NL-131,1,2019-09-17,2019-09-22,6,Vacation leave
+NL-132,1,2025-03-13,2025-03-16,4,Vacation leave
+NL-132,1,2025-03-08,2025-03-09,2,Vacation leave
+NL-132,1,2025-01-14,2025-01-19,6,Vacation leave
+NL-133,1,2022-11-08,2022-11-12,5,Vacation leave
+NL-133,1,2022-11-19,2022-11-20,2,Vacation leave
+NL-133,1,2023-01-03,2023-01-08,6,Vacation leave
+NL-133,1,2022-12-24,2022-12-26,3,Vacation leave
+NL-133,1,2022-12-29,2023-01-03,6,Vacation leave
+NL-133,5,2023-02-27,2023-02-28,2,Leave without pay
+NL-134,1,2020-03-12,2020-03-14,3,Vacation leave
+NL-134,1,2020-06-08,2020-06-13,6,Vacation leave
+NL-134,2,2020-03-28,2020-04-08,12,Medical - Flu and rest
+NL-135,1,2014-03-02,2014-03-07,6,Vacation leave
+NL-135,1,2014-04-26,2014-04-28,3,Vacation leave
+NL-135,1,2014-02-23,2014-02-24,2,Vacation leave
+NL-135,1,2014-09-05,2014-09-10,6,Vacation leave
+NL-135,1,2014-04-11,2014-04-12,2,Vacation leave
+NL-135,5,2014-06-09,2014-06-11,3,Leave without pay
+NL-136,1,2023-01-25,2023-01-30,6,Vacation leave
+NL-136,1,2022-12-28,2022-12-29,2,Vacation leave
+NL-136,1,2023-02-02,2023-02-04,3,Vacation leave
+NL-136,1,2023-09-01,2023-09-03,3,Vacation leave
+NL-137,1,2017-09-24,2017-09-29,6,Vacation leave
+NL-137,1,2017-10-07,2017-10-11,5,Vacation leave
+NL-137,1,2017-07-04,2017-07-06,3,Vacation leave
+NL-137,2,2017-04-29,2017-05-10,12,Medical - Flu and rest
+NL-137,5,2017-10-25,2017-10-25,1,Leave without pay
+NLI-024,1,2017-11-18,2017-11-19,2,Vacation leave
+NLI-024,1,2018-02-04,2018-02-07,4,Vacation leave
+NLI-024,1,2018-01-13,2018-01-17,5,Vacation leave
+NLI-024,1,2018-01-20,2018-01-24,5,Vacation leave
+NL-138,1,2017-06-18,2017-06-19,2,Vacation leave
+NL-138,1,2017-06-15,2017-06-19,5,Vacation leave
+NL-138,1,2017-06-07,2017-06-10,4,Vacation leave
+NL-138,1,2018-01-22,2018-01-23,2,Vacation leave
+NL-138,1,2017-09-05,2017-09-07,3,Vacation leave
+NL-138,1,2017-10-22,2017-10-26,5,Vacation leave
+NL-138,2,2017-05-03,2017-05-14,12,Medical - Flu and rest
+NL-138,3,2017-08-30,2017-09-01,3,Care for dependent family member
+NLI-025,1,2015-01-23,2015-01-25,3,Vacation leave
+NLI-025,1,2014-12-22,2014-12-27,6,Vacation leave
+NLI-025,1,2014-10-27,2014-10-29,3,Vacation leave
+NLI-025,1,2014-09-09,2014-09-10,2,Vacation leave
+NLI-025,1,2014-06-21,2014-06-22,2,Vacation leave
+NL-139,1,2019-09-20,2019-09-21,2,Vacation leave
+NL-139,1,2019-10-31,2019-11-02,3,Vacation leave
+NL-139,1,2019-10-09,2019-10-12,4,Vacation leave
+NL-139,1,2019-10-01,2019-10-02,2,Vacation leave
+NL-139,2,2019-09-03,2019-09-14,12,Medical - Flu and rest
+NL-140,1,2017-06-30,2017-07-04,5,Vacation leave
+NL-140,1,2017-04-02,2017-04-04,3,Vacation leave
+NL-140,4,2017-08-21,2017-08-23,3,Family bereavement
+NL-140,5,2017-11-28,2017-11-28,1,Leave without pay
+NLI-026,1,2020-08-12,2020-08-17,6,Vacation leave
+NLI-026,1,2020-01-09,2020-01-12,4,Vacation leave
+NLI-026,1,2020-01-07,2020-01-09,3,Vacation leave
+NLI-026,1,2019-12-04,2019-12-08,5,Vacation leave
+NLI-026,1,2020-06-09,2020-06-11,3,Vacation leave
+NLI-026,1,2020-06-17,2020-06-19,3,Vacation leave
+NLI-026,2,2020-02-16,2020-02-27,12,Medical - Flu and rest
+NL-141,1,2020-05-21,2020-05-26,6,Vacation leave
+NL-141,1,2020-06-22,2020-06-25,4,Vacation leave
+NL-141,1,2020-11-05,2020-11-09,5,Vacation leave
+NL-141,1,2020-06-23,2020-06-28,6,Vacation leave
+NL-141,1,2020-06-24,2020-06-27,4,Vacation leave
+NL-141,1,2020-05-05,2020-05-07,3,Vacation leave
+NL-141,2,2020-04-24,2020-05-05,12,Medical - Flu and rest
+NL-142,1,2016-06-13,2016-06-16,4,Vacation leave
+NL-142,1,2016-04-25,2016-04-29,5,Vacation leave
+NL-142,2,2015-12-13,2015-12-24,12,Medical - Flu and rest
+NL-142,3,2016-06-17,2016-06-23,7,Care for dependent family member
+NL-142,4,2016-06-06,2016-06-08,3,Family bereavement
+NL-143,1,2015-12-07,2015-12-09,3,Vacation leave
+NL-143,1,2016-06-07,2016-06-10,4,Vacation leave
+NL-144,1,2017-06-15,2017-06-17,3,Vacation leave
+NL-144,1,2017-04-25,2017-04-27,3,Vacation leave
+NL-144,1,2017-05-13,2017-05-18,6,Vacation leave
+NL-144,1,2017-06-05,2017-06-10,6,Vacation leave
+NL-144,2,2017-10-29,2017-11-09,12,Medical - Flu and rest
+NLI-027,1,2023-01-10,2023-01-14,5,Vacation leave
+NLI-027,1,2023-01-27,2023-01-28,2,Vacation leave
+NLI-027,1,2022-11-03,2022-11-06,4,Vacation leave
+NLI-027,1,2022-10-11,2022-10-16,6,Vacation leave
+NLI-027,5,2022-11-01,2022-11-02,2,Leave without pay
+NL-145,1,2018-06-26,2018-06-28,3,Vacation leave
+NL-145,1,2018-01-11,2018-01-15,5,Vacation leave
+NL-145,1,2018-02-06,2018-02-11,6,Vacation leave
+NL-145,1,2018-01-09,2018-01-10,2,Vacation leave
+NL-145,2,2018-05-21,2018-06-01,12,Medical - Flu and rest
+NL-146,1,2016-04-20,2016-04-21,2,Vacation leave
+NL-146,1,2016-03-05,2016-03-07,3,Vacation leave
+NL-146,1,2016-06-10,2016-06-14,5,Vacation leave
+NL-146,2,2016-07-04,2016-07-15,12,Medical - Flu and rest
+NL-147,1,2023-06-15,2023-06-20,6,Vacation leave
+NL-147,1,2023-02-26,2023-03-01,4,Vacation leave
+NL-147,1,2022-12-29,2022-12-30,2,Vacation leave
+NL-147,1,2023-05-26,2023-05-30,5,Vacation leave
+NL-147,1,2022-11-11,2022-11-16,6,Vacation leave
+NL-148,1,2023-02-07,2023-02-10,4,Vacation leave
+NL-148,1,2022-10-16,2022-10-17,2,Vacation leave
+NL-148,1,2023-01-29,2023-02-03,6,Vacation leave
+NL-148,1,2023-01-13,2023-01-17,5,Vacation leave
+NL-148,1,2022-11-20,2022-11-23,4,Vacation leave
+NL-149,1,2016-02-22,2016-02-23,2,Vacation leave
+NL-149,1,2016-03-10,2016-03-14,5,Vacation leave
+NL-149,1,2016-10-15,2016-10-18,4,Vacation leave
+NL-149,2,2016-05-07,2016-05-18,12,Medical - Flu and rest
+NL-150,1,2022-03-28,2022-04-02,6,Vacation leave
+NL-150,1,2022-04-02,2022-04-05,4,Vacation leave
+NL-150,1,2022-08-05,2022-08-09,5,Vacation leave
+NL-150,2,2022-03-26,2022-04-06,12,Medical - Flu and rest
+NL-150,3,2022-01-25,2022-02-02,9,Care for dependent family member
+NLI-028,1,2017-07-19,2017-07-24,6,Vacation leave
+NLI-028,1,2017-05-30,2017-06-02,4,Vacation leave
+NLI-029,1,2023-02-16,2023-02-21,6,Vacation leave
+NLI-029,1,2022-11-18,2022-11-19,2,Vacation leave
+NLI-029,1,2023-03-24,2023-03-29,6,Vacation leave
+NLI-029,1,2022-12-27,2022-12-29,3,Vacation leave
+NLI-029,1,2023-01-30,2023-01-31,2,Vacation leave
+NLI-029,1,2023-06-04,2023-06-06,3,Vacation leave
+NL-151,1,2023-06-16,2023-06-19,4,Vacation leave
+NL-151,1,2023-02-15,2023-02-17,3,Vacation leave
+NL-151,1,2023-02-25,2023-03-01,5,Vacation leave
+NL-151,1,2023-04-05,2023-04-07,3,Vacation leave
+NL-151,1,2023-06-16,2023-06-18,3,Vacation leave
+NL-152,1,2024-02-13,2024-02-16,4,Vacation leave
+NL-152,1,2024-03-23,2024-03-28,6,Vacation leave
+NL-152,1,2024-04-17,2024-04-21,5,Vacation leave
+NL-152,1,2024-10-08,2024-10-10,3,Vacation leave
+NL-152,1,2024-10-21,2024-10-23,3,Vacation leave
+NL-152,1,2024-05-21,2024-05-23,3,Vacation leave
+NL-152,2,2024-06-15,2024-06-26,12,Medical - Flu and rest
+NL-153,1,2020-05-05,2020-05-10,6,Vacation leave
+NL-153,1,2020-06-04,2020-06-05,2,Vacation leave
+NL-153,1,2020-02-27,2020-03-02,5,Vacation leave
+NL-153,1,2020-07-20,2020-07-25,6,Vacation leave
+NL-153,1,2020-03-22,2020-03-23,2,Vacation leave
+NL-153,1,2019-12-20,2019-12-23,4,Vacation leave
+NL-153,2,2020-03-02,2020-03-13,12,Medical - Flu and rest
+NL-153,3,2020-08-28,2020-08-30,3,Care for dependent family member
+NL-154,1,2022-03-12,2022-03-16,5,Vacation leave
+NL-154,1,2022-05-16,2022-05-17,2,Vacation leave
+NL-155,1,2019-03-07,2019-03-10,4,Vacation leave
+NL-155,1,2019-11-03,2019-11-04,2,Vacation leave
+NL-155,1,2019-03-04,2019-03-07,4,Vacation leave
+NL-156,1,2019-08-18,2019-08-20,3,Vacation leave
+NL-156,1,2019-07-10,2019-07-11,2,Vacation leave
+NL-156,1,2019-12-19,2019-12-22,4,Vacation leave
+NL-156,1,2019-05-17,2019-05-19,3,Vacation leave
+NL-156,2,2019-09-11,2019-09-22,12,Medical - Flu and rest
+NL-156,3,2019-08-25,2019-08-26,2,Care for dependent family member
+NL-156,5,2019-11-12,2019-11-14,3,Leave without pay
+NL-157,1,2022-05-26,2022-05-29,4,Vacation leave
+NL-157,1,2022-03-19,2022-03-22,4,Vacation leave
+NL-157,1,2022-02-08,2022-02-10,3,Vacation leave
+NL-157,1,2021-11-23,2021-11-27,5,Vacation leave
+NL-157,1,2021-12-24,2021-12-26,3,Vacation leave
+NL-157,1,2021-12-31,2022-01-03,4,Vacation leave
+NL-158,1,2015-11-09,2015-11-10,2,Vacation leave
+NL-158,1,2015-10-27,2015-10-31,5,Vacation leave
+NL-158,1,2016-03-19,2016-03-23,5,Vacation leave
+NL-158,2,2015-12-25,2016-01-05,12,Medical - Flu and rest
+NL-159,1,2023-09-11,2023-09-14,4,Vacation leave
+NL-159,1,2023-10-16,2023-10-18,3,Vacation leave
+NL-160,1,2016-10-05,2016-10-09,5,Vacation leave
+NL-160,1,2016-08-13,2016-08-15,3,Vacation leave
+NL-160,1,2016-06-16,2016-06-19,4,Vacation leave
+NL-160,1,2017-03-01,2017-03-06,6,Vacation leave
+NL-161,1,2016-03-08,2016-03-12,5,Vacation leave
+NL-161,1,2016-05-30,2016-05-31,2,Vacation leave
+NL-161,1,2016-04-14,2016-04-18,5,Vacation leave
+NL-161,1,2016-07-01,2016-07-06,6,Vacation leave
+NL-161,2,2015-12-19,2015-12-30,12,Medical - Flu and rest
+NL-161,3,2016-05-12,2016-05-18,7,Care for dependent family member
+NL-162,1,2015-09-20,2015-09-25,6,Vacation leave
+NL-162,1,2016-02-09,2016-02-14,6,Vacation leave
+NL-162,1,2016-03-21,2016-03-22,2,Vacation leave
+NL-162,1,2016-03-23,2016-03-24,2,Vacation leave
+NL-162,1,2016-04-08,2016-04-09,2,Vacation leave
+NL-162,1,2016-03-22,2016-03-26,5,Vacation leave
+NL-162,5,2016-02-21,2016-02-21,1,Leave without pay
+NL-163,1,2016-11-08,2016-11-12,5,Vacation leave
+NL-163,1,2017-02-08,2017-02-09,2,Vacation leave
+NL-163,1,2017-01-06,2017-01-09,4,Vacation leave
+NL-163,1,2017-02-02,2017-02-05,4,Vacation leave
+NL-163,1,2016-10-09,2016-10-13,5,Vacation leave
+NL-164,1,2015-01-06,2015-01-09,4,Vacation leave
+NL-164,1,2014-09-04,2014-09-09,6,Vacation leave
+NL-164,1,2014-09-11,2014-09-12,2,Vacation leave
+NL-164,1,2015-02-08,2015-02-11,4,Vacation leave
+NL-164,1,2014-07-29,2014-08-01,4,Vacation leave
+NL-164,2,2014-08-10,2014-08-21,12,Medical - Flu and rest
+NL-165,1,2022-07-18,2022-07-20,3,Vacation leave
+NL-165,1,2022-02-09,2022-02-12,4,Vacation leave
+NL-165,1,2022-09-15,2022-09-20,6,Vacation leave
+NL-165,1,2022-01-05,2022-01-08,4,Vacation leave
+NL-165,1,2022-04-12,2022-04-16,5,Vacation leave
+NL-165,1,2022-02-27,2022-03-03,5,Vacation leave
+NL-165,3,2022-05-12,2022-05-15,4,Care for dependent family member
+NL-166,1,2014-08-06,2014-08-07,2,Vacation leave
+NL-166,1,2014-08-26,2014-08-27,2,Vacation leave
+NL-166,1,2014-07-19,2014-07-20,2,Vacation leave
+NL-166,1,2014-07-03,2014-07-05,3,Vacation leave
+NL-166,2,2014-10-12,2014-10-23,12,Medical - Flu and rest
+NL-166,3,2014-10-02,2014-10-04,3,Care for dependent family member
+NLI-030,1,2016-10-11,2016-10-15,5,Vacation leave
+NLI-030,1,2017-02-24,2017-02-26,3,Vacation leave
+NLI-030,1,2016-11-15,2016-11-17,3,Vacation leave
+NLI-030,1,2017-05-06,2017-05-08,3,Vacation leave
+NLI-030,1,2016-12-01,2016-12-03,3,Vacation leave
+NLI-030,5,2017-01-31,2017-02-02,3,Leave without pay
+NL-167,1,2016-10-14,2016-10-17,4,Vacation leave
+NL-167,1,2016-11-24,2016-11-27,4,Vacation leave
+NL-167,2,2016-10-18,2016-10-29,12,Medical - Flu and rest
+NL-167,3,2017-01-15,2017-01-20,6,Care for dependent family member
+NL-168,1,2023-01-06,2023-01-08,3,Vacation leave
+NL-168,1,2022-11-21,2022-11-24,4,Vacation leave
+NL-168,1,2022-11-06,2022-11-08,3,Vacation leave
+NL-169,1,2018-06-24,2018-06-25,2,Vacation leave
+NL-169,1,2018-04-28,2018-05-03,6,Vacation leave
+NL-169,1,2017-12-20,2017-12-22,3,Vacation leave
+NL-169,1,2018-03-08,2018-03-13,6,Vacation leave
+NL-169,2,2018-01-22,2018-02-02,12,Medical - Flu and rest
+NL-169,3,2018-09-05,2018-09-12,8,Care for dependent family member
+NL-170,1,2015-02-13,2015-02-18,6,Vacation leave
+NL-170,1,2015-02-11,2015-02-12,2,Vacation leave
+NL-170,1,2014-11-22,2014-11-27,6,Vacation leave
+NL-170,1,2014-09-20,2014-09-24,5,Vacation leave
+NL-170,2,2015-02-03,2015-02-14,12,Medical - Flu and rest
+NL-171,1,2018-11-08,2018-11-13,6,Vacation leave
+NL-171,1,2018-10-15,2018-10-16,2,Vacation leave
+NL-171,1,2018-08-03,2018-08-06,4,Vacation leave
+NL-172,1,2018-07-10,2018-07-12,3,Vacation leave
+NL-172,1,2018-10-05,2018-10-08,4,Vacation leave
+NL-172,1,2018-06-23,2018-06-26,4,Vacation leave
+NL-172,3,2018-11-09,2018-11-11,3,Care for dependent family member
+NL-172,5,2018-09-19,2018-09-21,3,Leave without pay
+NL-173,1,2016-06-27,2016-06-30,4,Vacation leave
+NL-173,1,2016-04-15,2016-04-18,4,Vacation leave
+NL-173,1,2015-12-18,2015-12-20,3,Vacation leave
+NL-173,1,2015-12-24,2015-12-27,4,Vacation leave
+NL-173,1,2016-01-12,2016-01-15,4,Vacation leave
+NL-173,3,2016-02-07,2016-02-10,4,Care for dependent family member
+NL-174,1,2022-07-05,2022-07-07,3,Vacation leave
+NL-174,1,2021-12-02,2021-12-05,4,Vacation leave
+NL-174,1,2022-07-21,2022-07-24,4,Vacation leave
+NL-174,1,2022-04-22,2022-04-26,5,Vacation leave
+NL-174,2,2022-05-31,2022-06-11,12,Medical - Flu and rest
+NL-175,1,2025-05-24,2025-05-27,4,Vacation leave
+NL-175,1,2025-07-26,2025-07-30,5,Vacation leave
+NL-175,1,2025-08-02,2025-08-04,3,Vacation leave
+NL-176,1,2020-12-01,2020-12-06,6,Vacation leave
+NL-176,1,2020-07-30,2020-08-02,4,Vacation leave
+NL-176,2,2020-09-16,2020-09-27,12,Medical - Flu and rest
+NL-177,1,2023-02-01,2023-02-03,3,Vacation leave
+NL-177,1,2022-11-18,2022-11-23,6,Vacation leave
+NL-177,1,2023-07-20,2023-07-21,2,Vacation leave
+NL-177,1,2023-05-14,2023-05-19,6,Vacation leave
+NL-177,1,2023-02-22,2023-02-25,4,Vacation leave
+NL-177,1,2023-02-08,2023-02-12,5,Vacation leave
+NL-177,2,2022-12-15,2022-12-26,12,Medical - Flu and rest
+NL-178,1,2017-08-30,2017-09-03,5,Vacation leave
+NL-178,1,2017-06-19,2017-06-23,5,Vacation leave
+NL-178,1,2017-08-04,2017-08-06,3,Vacation leave
+NL-178,1,2017-07-22,2017-07-26,5,Vacation leave
+NL-179,1,2018-10-11,2018-10-13,3,Vacation leave
+NL-179,1,2018-12-12,2018-12-15,4,Vacation leave
+NL-179,2,2018-12-06,2018-12-17,12,Medical - Flu and rest
+NL-180,1,2025-04-26,2025-04-28,3,Vacation leave
+NL-180,1,2025-08-22,2025-08-24,3,Vacation leave
+NL-180,3,2025-06-22,2025-06-28,7,Care for dependent family member
+NL-181,1,2019-12-20,2019-12-21,2,Vacation leave
+NL-181,1,2020-01-13,2020-01-15,3,Vacation leave
+NL-181,1,2019-10-23,2019-10-27,5,Vacation leave
+NL-181,1,2019-12-01,2019-12-02,2,Vacation leave
+NL-181,1,2020-02-27,2020-02-29,3,Vacation leave
+NLI-031,1,2018-06-05,2018-06-08,4,Vacation leave
+NLI-031,1,2018-04-04,2018-04-09,6,Vacation leave
+NLI-031,1,2017-12-12,2017-12-16,5,Vacation leave
+NLI-031,1,2018-07-18,2018-07-22,5,Vacation leave
+NLI-031,1,2018-08-01,2018-08-05,5,Vacation leave
+NLI-031,1,2018-05-28,2018-06-02,6,Vacation leave
+NLI-031,2,2018-01-02,2018-01-13,12,Medical - Flu and rest
+NL-182,1,2018-04-28,2018-04-29,2,Vacation leave
+NL-182,1,2018-04-23,2018-04-25,3,Vacation leave
+NL-182,1,2018-06-01,2018-06-05,5,Vacation leave
+NL-182,2,2018-06-04,2018-06-15,12,Medical - Flu and rest
+NL-183,1,2016-02-12,2016-02-13,2,Vacation leave
+NL-183,1,2016-01-20,2016-01-22,3,Vacation leave
+NL-184,1,2022-06-03,2022-06-04,2,Vacation leave
+NL-184,1,2022-01-17,2022-01-22,6,Vacation leave
+NL-184,2,2022-05-26,2022-06-06,12,Medical - Flu and rest
+NL-185,1,2019-06-30,2019-07-05,6,Vacation leave
+NL-185,1,2019-01-17,2019-01-18,2,Vacation leave
+NL-185,1,2019-05-11,2019-05-14,4,Vacation leave
+NL-185,1,2018-11-23,2018-11-25,3,Vacation leave
+NL-185,1,2019-06-10,2019-06-14,5,Vacation leave
+NL-185,2,2019-02-05,2019-02-16,12,Medical - Flu and rest
+NLI-032,1,2018-06-08,2018-06-09,2,Vacation leave
+NLI-032,1,2018-08-23,2018-08-27,5,Vacation leave
+NLI-032,1,2018-06-27,2018-07-02,6,Vacation leave
+NLI-032,1,2019-02-21,2019-02-22,2,Vacation leave
+NLI-032,1,2019-02-13,2019-02-17,5,Vacation leave
+NLI-032,1,2018-06-15,2018-06-20,6,Vacation leave
+NL-186,1,2019-03-16,2019-03-19,4,Vacation leave
+NL-186,1,2019-01-14,2019-01-19,6,Vacation leave
+NL-186,1,2019-03-30,2019-04-03,5,Vacation leave
+NL-186,1,2019-04-27,2019-04-30,4,Vacation leave
+NL-186,1,2018-10-09,2018-10-13,5,Vacation leave
+NL-187,1,2019-06-02,2019-06-07,6,Vacation leave
+NL-187,1,2018-09-29,2018-09-30,2,Vacation leave
+NL-187,1,2019-05-26,2019-05-27,2,Vacation leave
+NL-187,3,2019-03-12,2019-03-17,6,Care for dependent family member
+NLI-033,1,2020-07-28,2020-07-30,3,Vacation leave
+NLI-033,1,2020-02-14,2020-02-16,3,Vacation leave
+NLI-033,1,2019-11-20,2019-11-21,2,Vacation leave
+NLI-033,1,2020-06-23,2020-06-26,4,Vacation leave
+NLI-033,1,2020-06-30,2020-07-02,3,Vacation leave
+NLI-033,2,2020-02-05,2020-02-16,12,Medical - Flu and rest
+NL-188,1,2017-10-18,2017-10-19,2,Vacation leave
+NL-188,1,2018-01-20,2018-01-23,4,Vacation leave
+NL-188,1,2018-05-01,2018-05-04,4,Vacation leave
+NL-189,1,2021-06-03,2021-06-04,2,Vacation leave
+NL-189,1,2021-12-31,2022-01-02,3,Vacation leave
+NL-189,1,2021-09-28,2021-10-03,6,Vacation leave
+NL-189,1,2021-07-09,2021-07-12,4,Vacation leave
+NL-189,1,2021-08-31,2021-09-01,2,Vacation leave
+NL-190,1,2021-06-07,2021-06-11,5,Vacation leave
+NL-190,1,2021-09-13,2021-09-15,3,Vacation leave
+NL-190,1,2021-07-16,2021-07-19,4,Vacation leave
+NL-190,1,2021-12-12,2021-12-17,6,Vacation leave
+NL-191,1,2024-05-10,2024-05-14,5,Vacation leave
+NL-191,1,2023-09-30,2023-10-01,2,Vacation leave
+NL-191,1,2024-01-07,2024-01-09,3,Vacation leave
+NL-191,1,2024-03-18,2024-03-23,6,Vacation leave
+NL-191,1,2024-01-22,2024-01-24,3,Vacation leave
+NL-191,1,2024-03-07,2024-03-08,2,Vacation leave
+NL-191,2,2024-01-18,2024-01-29,12,Medical - Flu and rest
+NL-192,1,2018-08-03,2018-08-08,6,Vacation leave
+NL-192,1,2018-11-20,2018-11-23,4,Vacation leave
+NL-192,1,2018-08-10,2018-08-11,2,Vacation leave
+NL-192,1,2018-08-07,2018-08-08,2,Vacation leave
+NL-193,1,2019-09-03,2019-09-07,5,Vacation leave
+NL-193,1,2019-11-13,2019-11-18,6,Vacation leave
+NL-193,1,2020-03-17,2020-03-19,3,Vacation leave
+NL-194,1,2016-06-21,2016-06-25,5,Vacation leave
+NL-194,1,2016-08-16,2016-08-17,2,Vacation leave
+NL-194,1,2016-09-04,2016-09-05,2,Vacation leave
+NL-195,1,2022-07-20,2022-07-24,5,Vacation leave
+NL-195,1,2022-04-22,2022-04-25,4,Vacation leave
+NL-195,1,2022-04-14,2022-04-19,6,Vacation leave
+NL-195,1,2022-06-01,2022-06-06,6,Vacation leave
+NL-195,1,2022-06-24,2022-06-28,5,Vacation leave
+NL-195,2,2022-05-07,2022-05-18,12,Medical - Flu and rest
+NL-196,1,2022-08-21,2022-08-25,5,Vacation leave
+NL-196,1,2022-03-15,2022-03-20,6,Vacation leave
+NL-197,1,2019-08-30,2019-09-04,6,Vacation leave
+NL-197,1,2019-11-09,2019-11-11,3,Vacation leave
+NL-197,1,2019-09-29,2019-10-03,5,Vacation leave
+NL-197,1,2019-08-19,2019-08-23,5,Vacation leave
+NL-197,1,2019-12-25,2019-12-30,6,Vacation leave
+NL-198,1,2022-05-13,2022-05-14,2,Vacation leave
+NL-198,1,2022-06-25,2022-06-29,5,Vacation leave
+NL-198,1,2022-03-19,2022-03-22,4,Vacation leave
+NL-198,1,2022-01-20,2022-01-23,4,Vacation leave
+NL-198,2,2022-01-06,2022-01-17,12,Medical - Flu and rest
+NLI-034,1,2024-11-13,2024-11-18,6,Vacation leave
+NLI-034,1,2024-11-09,2024-11-14,6,Vacation leave
+NLI-034,3,2025-04-05,2025-04-06,2,Care for dependent family member
+NL-199,1,2016-07-16,2016-07-18,3,Vacation leave
+NL-199,1,2016-09-26,2016-09-30,5,Vacation leave
+NL-199,1,2016-12-03,2016-12-06,4,Vacation leave
+NL-199,2,2016-06-03,2016-06-14,12,Medical - Flu and rest
+NL-200,1,2019-04-20,2019-04-21,2,Vacation leave
+NL-200,1,2018-09-27,2018-10-01,5,Vacation leave
+NL-200,2,2019-04-11,2019-04-22,12,Medical - Flu and rest
+NL-201,1,2019-11-02,2019-11-06,5,Vacation leave
+NL-201,1,2019-08-17,2019-08-22,6,Vacation leave
+NL-201,1,2019-07-12,2019-07-13,2,Vacation leave
+NL-201,1,2019-08-01,2019-08-04,4,Vacation leave
+NL-201,2,2019-07-07,2019-07-18,12,Medical - Flu and rest
+NL-202,1,2022-06-26,2022-06-29,4,Vacation leave
+NL-202,1,2022-07-21,2022-07-25,5,Vacation leave
+NL-202,1,2022-11-05,2022-11-06,2,Vacation leave
+NL-203,1,2015-04-20,2015-04-23,4,Vacation leave
+NL-203,1,2015-04-10,2015-04-11,2,Vacation leave
+NL-203,1,2015-11-10,2015-11-11,2,Vacation leave
+NL-203,1,2015-10-03,2015-10-07,5,Vacation leave
+NL-203,2,2015-04-25,2015-05-06,12,Medical - Flu and rest
+NL-204,1,2020-08-13,2020-08-15,3,Vacation leave
+NL-204,1,2020-08-31,2020-09-01,2,Vacation leave
+NL-204,1,2020-07-31,2020-08-02,3,Vacation leave
+NL-204,1,2021-04-05,2021-04-08,4,Vacation leave
+NL-204,1,2020-10-01,2020-10-03,3,Vacation leave
+NL-204,2,2020-10-31,2020-11-11,12,Medical - Flu and rest
+NL-205,1,2014-09-30,2014-10-04,5,Vacation leave
+NL-205,1,2015-02-11,2015-02-14,4,Vacation leave
+NL-205,1,2014-12-19,2014-12-20,2,Vacation leave
+NL-205,1,2014-08-09,2014-08-14,6,Vacation leave
+NL-205,3,2015-02-10,2015-02-11,2,Care for dependent family member
+NL-206,1,2022-03-21,2022-03-25,5,Vacation leave
+NL-206,1,2022-06-23,2022-06-25,3,Vacation leave
+NL-206,1,2021-12-07,2021-12-09,3,Vacation leave
+NL-206,1,2021-12-16,2021-12-19,4,Vacation leave
+NL-206,1,2022-05-29,2022-06-02,5,Vacation leave
+NL-206,1,2022-05-20,2022-05-21,2,Vacation leave
+NLI-035,1,2025-01-05,2025-01-06,2,Vacation leave
+NLI-035,1,2024-06-18,2024-06-19,2,Vacation leave
+NLI-035,1,2024-06-14,2024-06-18,5,Vacation leave
+NLI-035,1,2024-05-10,2024-05-11,2,Vacation leave
+NLI-035,2,2024-06-16,2024-06-27,12,Medical - Flu and rest
+NL-207,1,2019-02-23,2019-02-27,5,Vacation leave
+NL-207,1,2019-02-15,2019-02-17,3,Vacation leave
+NL-207,1,2019-06-09,2019-06-12,4,Vacation leave
+NL-207,2,2018-12-10,2018-12-21,12,Medical - Flu and rest
+NL-207,3,2019-04-08,2019-04-12,5,Care for dependent family member
+NL-208,1,2016-10-09,2016-10-12,4,Vacation leave
+NL-208,1,2016-11-12,2016-11-13,2,Vacation leave
+NLI-036,1,2014-10-27,2014-10-31,5,Vacation leave
+NLI-036,1,2015-06-14,2015-06-15,2,Vacation leave
+NLI-036,1,2015-01-21,2015-01-24,4,Vacation leave
+NLI-036,1,2015-01-08,2015-01-12,5,Vacation leave
+NLI-036,1,2015-04-23,2015-04-25,3,Vacation leave
+NLI-037,1,2019-07-04,2019-07-06,3,Vacation leave
+NLI-037,1,2019-06-01,2019-06-04,4,Vacation leave
+NL-209,1,2015-04-28,2015-05-03,6,Vacation leave
+NL-209,1,2015-05-21,2015-05-24,4,Vacation leave
+NL-209,1,2014-12-01,2014-12-06,6,Vacation leave
+NL-209,1,2015-01-02,2015-01-06,5,Vacation leave
+NL-209,1,2015-07-01,2015-07-02,2,Vacation leave
+NL-209,2,2015-02-24,2015-03-07,12,Medical - Flu and rest
+NL-209,3,2015-07-24,2015-07-30,7,Care for dependent family member
+NL-210,1,2022-04-27,2022-05-02,6,Vacation leave
+NL-210,1,2021-12-19,2021-12-21,3,Vacation leave
+NL-210,3,2022-02-13,2022-02-19,7,Care for dependent family member
+NL-211,1,2015-11-21,2015-11-25,5,Vacation leave
+NL-211,1,2015-07-18,2015-07-22,5,Vacation leave
+NL-211,1,2015-08-18,2015-08-21,4,Vacation leave
+NL-211,1,2015-04-30,2015-05-02,3,Vacation leave
+NL-211,2,2015-07-17,2015-07-28,12,Medical - Flu and rest
+NL-211,3,2015-06-23,2015-06-30,8,Care for dependent family member
+NL-212,1,2018-10-08,2018-10-10,3,Vacation leave
+NL-212,1,2018-09-05,2018-09-06,2,Vacation leave
+NLI-038,1,2024-06-03,2024-06-08,6,Vacation leave
+NLI-038,1,2024-02-22,2024-02-23,2,Vacation leave
+NLI-038,1,2023-12-01,2023-12-06,6,Vacation leave
+NLI-038,1,2024-05-20,2024-05-22,3,Vacation leave
+NLI-038,1,2024-02-13,2024-02-18,6,Vacation leave
+NLI-038,1,2023-11-30,2023-12-04,5,Vacation leave
+NLI-038,2,2024-04-13,2024-04-24,12,Medical - Flu and rest
+NL-213,1,2020-01-14,2020-01-17,4,Vacation leave
+NL-213,1,2020-04-28,2020-04-29,2,Vacation leave
+NL-213,1,2020-02-27,2020-03-02,5,Vacation leave
+NL-213,1,2020-07-12,2020-07-17,6,Vacation leave
+NL-213,1,2020-06-19,2020-06-20,2,Vacation leave
+NL-213,2,2020-05-16,2020-05-27,12,Medical - Flu and rest
+NLI-039,1,2019-05-25,2019-05-30,6,Vacation leave
+NLI-039,1,2019-01-27,2019-01-29,3,Vacation leave
+NLI-039,1,2019-01-31,2019-02-01,2,Vacation leave
+NLI-039,2,2019-01-14,2019-01-25,12,Medical - Flu and rest
+NL-214,1,2014-08-07,2014-08-11,5,Vacation leave
+NL-214,1,2014-11-06,2014-11-10,5,Vacation leave
+NL-214,1,2014-12-15,2014-12-20,6,Vacation leave
+NL-214,2,2014-10-18,2014-10-29,12,Medical - Flu and rest
+NL-215,1,2015-08-27,2015-08-29,3,Vacation leave
+NL-215,1,2015-02-01,2015-02-02,2,Vacation leave
+NL-215,1,2015-10-01,2015-10-03,3,Vacation leave
+NL-215,1,2015-06-17,2015-06-18,2,Vacation leave
+NL-215,1,2015-10-23,2015-10-28,6,Vacation leave
+NL-215,1,2015-10-10,2015-10-11,2,Vacation leave
+NL-215,2,2015-03-06,2015-03-17,12,Medical - Flu and rest
+NL-216,1,2018-01-28,2018-02-02,6,Vacation leave
+NL-216,1,2018-07-15,2018-07-19,5,Vacation leave
+NL-216,1,2017-12-31,2018-01-05,6,Vacation leave
+NL-216,5,2018-06-19,2018-06-21,3,Leave without pay
+NL-217,1,2019-02-11,2019-02-15,5,Vacation leave
+NL-217,1,2019-02-22,2019-02-27,6,Vacation leave
+NL-217,1,2018-08-28,2018-09-01,5,Vacation leave
+NL-217,1,2019-04-02,2019-04-06,5,Vacation leave
+NL-217,1,2019-01-01,2019-01-03,3,Vacation leave
+NL-218,1,2022-09-04,2022-09-05,2,Vacation leave
+NL-218,1,2022-03-04,2022-03-06,3,Vacation leave
+NL-218,1,2022-05-21,2022-05-23,3,Vacation leave
+NL-218,1,2022-01-28,2022-01-31,4,Vacation leave
+NL-218,2,2022-04-30,2022-05-11,12,Medical - Flu and rest
+NL-219,1,2020-12-16,2020-12-17,2,Vacation leave
+NL-219,1,2021-03-20,2021-03-22,3,Vacation leave
+NL-220,1,2017-08-01,2017-08-02,2,Vacation leave
+NL-220,1,2017-03-31,2017-04-01,2,Vacation leave
+NL-220,3,2017-04-26,2017-05-03,8,Care for dependent family member
+NL-221,1,2025-01-06,2025-01-09,4,Vacation leave
+NL-221,1,2025-02-22,2025-02-27,6,Vacation leave
+NL-221,1,2024-11-09,2024-11-13,5,Vacation leave
+NL-221,1,2025-01-06,2025-01-08,3,Vacation leave
+NL-221,1,2025-04-01,2025-04-05,5,Vacation leave
+NL-221,3,2025-01-22,2025-01-29,8,Care for dependent family member
+NL-222,1,2020-08-09,2020-08-13,5,Vacation leave
+NL-222,1,2020-05-17,2020-05-22,6,Vacation leave
+NL-222,1,2020-08-18,2020-08-23,6,Vacation leave
+NL-222,1,2020-07-11,2020-07-12,2,Vacation leave
+NL-223,1,2015-12-10,2015-12-13,4,Vacation leave
+NL-223,1,2016-03-13,2016-03-15,3,Vacation leave
+NL-223,1,2015-12-27,2016-01-01,6,Vacation leave
+NL-223,1,2016-03-03,2016-03-04,2,Vacation leave
+NL-223,1,2016-03-25,2016-03-27,3,Vacation leave
+NL-223,3,2016-01-13,2016-01-21,9,Care for dependent family member
+NL-224,1,2019-07-30,2019-07-31,2,Vacation leave
+NL-224,1,2019-04-13,2019-04-15,3,Vacation leave
+NL-224,1,2019-05-25,2019-05-30,6,Vacation leave
+NL-224,1,2019-04-12,2019-04-15,4,Vacation leave
+NL-224,3,2019-06-21,2019-06-28,8,Care for dependent family member
+NL-225,1,2022-08-12,2022-08-16,5,Vacation leave
+NL-225,1,2022-01-27,2022-02-01,6,Vacation leave
+NL-225,1,2022-03-05,2022-03-06,2,Vacation leave
+NL-225,1,2022-08-20,2022-08-23,4,Vacation leave
+NL-225,1,2022-07-02,2022-07-07,6,Vacation leave
+NL-225,2,2022-03-22,2022-04-02,12,Medical - Flu and rest
+NL-226,1,2017-02-07,2017-02-11,5,Vacation leave
+NL-226,1,2017-04-13,2017-04-14,2,Vacation leave
+NL-226,1,2017-03-16,2017-03-18,3,Vacation leave
+NL-226,2,2016-12-18,2016-12-29,12,Medical - Flu and rest
+NL-226,4,2017-04-18,2017-04-22,5,Family bereavement
+NL-227,1,2015-09-12,2015-09-16,5,Vacation leave
+NL-227,1,2015-10-31,2015-11-03,4,Vacation leave
+NL-227,1,2015-09-20,2015-09-21,2,Vacation leave
+NL-227,1,2015-10-06,2015-10-10,5,Vacation leave
+NL-227,1,2016-01-25,2016-01-28,4,Vacation leave
+NLI-040,1,2016-11-28,2016-12-02,5,Vacation leave
+NLI-040,1,2016-12-04,2016-12-09,6,Vacation leave
+NLI-040,2,2016-11-20,2016-12-01,12,Medical - Flu and rest
+NL-228,1,2023-08-29,2023-09-02,5,Vacation leave
+NL-228,1,2023-05-21,2023-05-25,5,Vacation leave
+NL-228,1,2024-01-24,2024-01-27,4,Vacation leave
+NL-228,1,2023-10-30,2023-11-01,3,Vacation leave
+NL-228,1,2023-09-18,2023-09-20,3,Vacation leave
+NL-228,1,2023-07-21,2023-07-23,3,Vacation leave
+NL-228,5,2023-08-24,2023-08-25,2,Leave without pay
+NL-229,1,2019-05-01,2019-05-04,4,Vacation leave
+NL-229,1,2019-10-17,2019-10-18,2,Vacation leave
+NL-229,1,2019-10-02,2019-10-06,5,Vacation leave
+NL-229,3,2019-09-23,2019-09-28,6,Care for dependent family member
+NL-230,1,2016-06-12,2016-06-17,6,Vacation leave
+NL-230,1,2016-01-09,2016-01-11,3,Vacation leave
+NL-230,1,2016-06-30,2016-07-01,2,Vacation leave
+NL-230,1,2016-04-04,2016-04-08,5,Vacation leave
+NL-230,1,2016-07-07,2016-07-12,6,Vacation leave
+NL-230,1,2016-05-10,2016-05-14,5,Vacation leave
+NL-230,5,2016-04-15,2016-04-15,1,Leave without pay
+NL-231,1,2016-01-10,2016-01-13,4,Vacation leave
+NL-231,1,2015-08-21,2015-08-26,6,Vacation leave
+NL-231,1,2015-07-01,2015-07-02,2,Vacation leave
+NL-231,2,2015-10-23,2015-11-03,12,Medical - Flu and rest
+NL-231,5,2015-07-05,2015-07-05,1,Leave without pay
+NL-232,1,2017-01-29,2017-02-03,6,Vacation leave
+NL-232,1,2016-12-08,2016-12-10,3,Vacation leave
+NL-232,1,2017-02-14,2017-02-17,4,Vacation leave
+NL-232,1,2016-08-03,2016-08-06,4,Vacation leave
+NL-232,1,2016-08-13,2016-08-17,5,Vacation leave
+NL-233,1,2020-05-03,2020-05-06,4,Vacation leave
+NL-233,1,2020-04-27,2020-04-29,3,Vacation leave
+NL-233,1,2019-11-11,2019-11-16,6,Vacation leave
+NL-233,1,2019-09-26,2019-09-29,4,Vacation leave
+NL-233,1,2019-12-12,2019-12-13,2,Vacation leave
+NL-233,1,2020-02-29,2020-03-04,5,Vacation leave
+NL-233,2,2020-03-30,2020-04-10,12,Medical - Flu and rest
+NL-234,1,2022-01-17,2022-01-22,6,Vacation leave
+NL-234,1,2022-03-03,2022-03-06,4,Vacation leave
+NL-234,1,2021-12-25,2021-12-29,5,Vacation leave
+NL-234,1,2022-05-05,2022-05-06,2,Vacation leave
+NL-234,1,2022-05-19,2022-05-23,5,Vacation leave
+NL-234,1,2022-03-03,2022-03-08,6,Vacation leave
+NL-234,2,2022-02-02,2022-02-13,12,Medical - Flu and rest
+NL-235,1,2019-05-09,2019-05-13,5,Vacation leave
+NL-235,1,2019-03-16,2019-03-17,2,Vacation leave
+NL-235,1,2019-02-01,2019-02-06,6,Vacation leave
+NL-235,1,2019-02-20,2019-02-22,3,Vacation leave
+NL-235,2,2019-05-04,2019-05-15,12,Medical - Flu and rest
+NL-236,1,2014-10-28,2014-11-01,5,Vacation leave
+NL-236,1,2014-10-31,2014-11-04,5,Vacation leave
+NL-236,1,2015-05-27,2015-05-29,3,Vacation leave
+NL-236,1,2015-04-04,2015-04-08,5,Vacation leave
+NL-237,1,2018-12-28,2019-01-01,5,Vacation leave
+NL-237,1,2019-05-09,2019-05-10,2,Vacation leave
+NL-237,3,2019-08-27,2019-09-03,8,Care for dependent family member
+NLI-041,1,2021-09-07,2021-09-09,3,Vacation leave
+NLI-041,1,2021-09-30,2021-10-02,3,Vacation leave
+NLI-041,1,2021-05-01,2021-05-05,5,Vacation leave
+NLI-041,1,2021-12-01,2021-12-05,5,Vacation leave
+NL-238,1,2015-12-12,2015-12-16,5,Vacation leave
+NL-238,1,2016-01-19,2016-01-22,4,Vacation leave
+NL-238,1,2015-06-09,2015-06-12,4,Vacation leave
+NL-238,1,2015-07-11,2015-07-14,4,Vacation leave
+NL-238,1,2015-07-31,2015-08-03,4,Vacation leave
+NL-239,1,2021-12-05,2021-12-10,6,Vacation leave
+NL-239,1,2022-01-23,2022-01-28,6,Vacation leave
+NL-239,1,2021-07-23,2021-07-26,4,Vacation leave
+NL-239,1,2022-01-11,2022-01-12,2,Vacation leave
+NL-239,1,2021-11-13,2021-11-18,6,Vacation leave
+NL-239,1,2021-08-14,2021-08-15,2,Vacation leave
+NL-239,2,2021-10-20,2021-10-31,12,Medical - Flu and rest
+NL-240,1,2014-07-08,2014-07-12,5,Vacation leave
+NL-240,1,2014-10-01,2014-10-02,2,Vacation leave
+NL-240,1,2014-07-24,2014-07-27,4,Vacation leave
+NLI-042,1,2022-06-22,2022-06-25,4,Vacation leave
+NLI-042,1,2022-06-04,2022-06-05,2,Vacation leave
+NLI-042,1,2022-11-14,2022-11-19,6,Vacation leave
+NLI-042,1,2022-10-13,2022-10-15,3,Vacation leave
+NLI-042,4,2023-02-25,2023-02-28,4,Family bereavement
+NL-241,1,2019-06-25,2019-06-26,2,Vacation leave
+NL-241,1,2019-09-06,2019-09-07,2,Vacation leave
+NL-242,1,2019-09-27,2019-09-28,2,Vacation leave
+NL-242,1,2019-04-14,2019-04-18,5,Vacation leave
+NL-242,1,2019-07-14,2019-07-16,3,Vacation leave
+NL-242,1,2019-04-24,2019-04-26,3,Vacation leave
+NL-242,1,2019-03-21,2019-03-25,5,Vacation leave
+NL-242,3,2019-08-09,2019-08-13,5,Care for dependent family member
+NL-242,5,2019-06-08,2019-06-10,3,Leave without pay
+NL-243,1,2025-04-18,2025-04-19,2,Vacation leave
+NL-243,1,2024-10-01,2024-10-05,5,Vacation leave
+NL-244,1,2018-04-03,2018-04-07,5,Vacation leave
+NL-244,1,2018-06-13,2018-06-17,5,Vacation leave
+NLI-043,1,2020-05-16,2020-05-20,5,Vacation leave
+NLI-043,1,2020-04-08,2020-04-09,2,Vacation leave
+NLI-043,1,2020-07-02,2020-07-04,3,Vacation leave
+NLI-043,1,2020-10-30,2020-11-02,4,Vacation leave
+NLI-043,1,2020-09-27,2020-10-02,6,Vacation leave
+NLI-043,1,2020-07-17,2020-07-20,4,Vacation leave
+NLI-043,2,2020-08-24,2020-09-04,12,Medical - Flu and rest
+NL-245,1,2016-12-30,2017-01-04,6,Vacation leave
+NL-245,1,2017-04-22,2017-04-27,6,Vacation leave
+NL-245,1,2017-01-22,2017-01-23,2,Vacation leave
+NL-245,1,2017-06-01,2017-06-05,5,Vacation leave
+NL-245,1,2017-04-12,2017-04-17,6,Vacation leave
+NL-245,1,2017-05-05,2017-05-07,3,Vacation leave
+NL-245,3,2017-06-01,2017-06-07,7,Care for dependent family member
+NL-245,4,2016-12-09,2016-12-11,3,Family bereavement
+NL-246,1,2021-08-01,2021-08-02,2,Vacation leave
+NL-246,1,2022-02-22,2022-02-26,5,Vacation leave
+NL-246,2,2021-08-17,2021-08-28,12,Medical - Flu and rest
+NL-246,3,2022-03-25,2022-04-02,9,Care for dependent family member
+NL-246,4,2022-01-29,2022-02-01,4,Family bereavement
+NL-247,1,2016-08-13,2016-08-15,3,Vacation leave
+NL-247,1,2017-02-16,2017-02-18,3,Vacation leave
+NL-247,1,2016-11-15,2016-11-18,4,Vacation leave
+NL-247,2,2016-12-03,2016-12-14,12,Medical - Flu and rest
+NL-248,1,2015-10-15,2015-10-18,4,Vacation leave
+NL-248,1,2015-12-21,2015-12-25,5,Vacation leave
+NL-248,1,2015-11-10,2015-11-13,4,Vacation leave
+NL-248,1,2015-11-11,2015-11-13,3,Vacation leave
+NL-248,1,2015-07-16,2015-07-21,6,Vacation leave
+NL-248,5,2016-01-18,2016-01-18,1,Leave without pay
+NL-249,1,2019-07-25,2019-07-27,3,Vacation leave
+NL-249,1,2019-08-13,2019-08-14,2,Vacation leave
+NL-249,1,2019-06-17,2019-06-18,2,Vacation leave
+NL-249,1,2019-05-15,2019-05-16,2,Vacation leave
+NL-249,1,2019-02-15,2019-02-17,3,Vacation leave
+NL-250,1,2016-04-10,2016-04-12,3,Vacation leave
+NL-250,1,2016-04-05,2016-04-06,2,Vacation leave
+NL-250,1,2015-08-15,2015-08-18,4,Vacation leave
+NL-250,1,2016-03-20,2016-03-21,2,Vacation leave
+NL-250,1,2016-01-12,2016-01-13,2,Vacation leave
+NL-250,1,2016-03-13,2016-03-18,6,Vacation leave
+NL-251,1,2016-08-01,2016-08-05,5,Vacation leave
+NL-251,1,2016-07-31,2016-08-02,3,Vacation leave
+NL-251,1,2017-03-20,2017-03-23,4,Vacation leave
+NL-251,1,2016-10-20,2016-10-25,6,Vacation leave
+NL-251,2,2016-12-01,2016-12-12,12,Medical - Flu and rest
+NL-252,1,2021-01-29,2021-02-01,4,Vacation leave
+NL-252,1,2020-10-27,2020-10-29,3,Vacation leave
+NL-252,1,2021-01-05,2021-01-08,4,Vacation leave
+NL-252,1,2021-03-02,2021-03-03,2,Vacation leave
+NL-252,1,2021-02-06,2021-02-11,6,Vacation leave
+NL-252,1,2020-11-04,2020-11-08,5,Vacation leave
+NL-252,2,2021-02-26,2021-03-09,12,Medical - Flu and rest
+NLI-044,1,2022-10-09,2022-10-14,6,Vacation leave
+NLI-044,1,2023-01-18,2023-01-23,6,Vacation leave
+NLI-044,2,2022-08-02,2022-08-13,12,Medical - Flu and rest
+NL-253,1,2015-06-03,2015-06-06,4,Vacation leave
+NL-253,1,2015-10-18,2015-10-21,4,Vacation leave
+NL-253,3,2015-12-08,2015-12-09,2,Care for dependent family member
+NL-254,1,2020-01-19,2020-01-22,4,Vacation leave
+NL-254,1,2019-12-13,2019-12-18,6,Vacation leave
+NL-254,1,2019-07-04,2019-07-05,2,Vacation leave
+NL-255,1,2022-04-26,2022-04-27,2,Vacation leave
+NL-255,1,2022-10-19,2022-10-21,3,Vacation leave
+NL-255,1,2022-07-23,2022-07-28,6,Vacation leave
+NL-255,1,2022-04-09,2022-04-14,6,Vacation leave
+NL-255,1,2022-10-04,2022-10-05,2,Vacation leave
+NL-255,1,2022-08-11,2022-08-16,6,Vacation leave
+NL-255,2,2022-02-07,2022-02-18,12,Medical - Flu and rest
+NL-255,3,2022-06-15,2022-06-22,8,Care for dependent family member
+NL-256,1,2020-04-05,2020-04-09,5,Vacation leave
+NL-256,1,2019-12-15,2019-12-18,4,Vacation leave
+NL-256,1,2019-10-31,2019-11-03,4,Vacation leave
+NL-256,1,2020-03-12,2020-03-14,3,Vacation leave
+NL-256,1,2019-11-19,2019-11-20,2,Vacation leave
+NL-256,1,2020-04-13,2020-04-15,3,Vacation leave
+NL-256,2,2020-03-17,2020-03-28,12,Medical - Flu and rest
+NL-256,5,2019-08-28,2019-08-29,2,Leave without pay
+NL-257,1,2021-08-17,2021-08-19,3,Vacation leave
+NL-257,1,2021-12-16,2021-12-18,3,Vacation leave
+NL-258,1,2023-01-28,2023-02-01,5,Vacation leave
+NL-258,1,2023-01-26,2023-01-27,2,Vacation leave
+NL-258,1,2022-08-10,2022-08-14,5,Vacation leave
+NL-258,4,2022-08-12,2022-08-15,4,Family bereavement
+NL-259,1,2023-11-19,2023-11-21,3,Vacation leave
+NL-259,1,2023-08-05,2023-08-08,4,Vacation leave
+NL-259,1,2024-02-05,2024-02-09,5,Vacation leave
+NL-259,1,2024-01-01,2024-01-02,2,Vacation leave
+NL-259,1,2023-12-29,2024-01-01,4,Vacation leave
+NL-259,2,2023-07-05,2023-07-16,12,Medical - Flu and rest
+NL-260,1,2016-02-27,2016-03-01,4,Vacation leave
+NL-260,1,2016-03-14,2016-03-16,3,Vacation leave
+NL-260,1,2016-01-26,2016-01-27,2,Vacation leave
+NL-260,1,2016-07-21,2016-07-22,2,Vacation leave
+NL-261,1,2020-08-21,2020-08-24,4,Vacation leave
+NL-261,1,2020-06-09,2020-06-12,4,Vacation leave
+NL-261,1,2020-02-03,2020-02-05,3,Vacation leave
+NL-261,1,2020-04-12,2020-04-13,2,Vacation leave
+NL-262,1,2020-04-01,2020-04-05,5,Vacation leave
+NL-262,1,2020-06-04,2020-06-05,2,Vacation leave
+NL-262,1,2020-07-11,2020-07-12,2,Vacation leave
+NL-262,1,2020-05-27,2020-05-29,3,Vacation leave
+NL-262,1,2020-07-31,2020-08-03,4,Vacation leave
+NL-262,1,2020-04-27,2020-04-30,4,Vacation leave
+NLI-045,1,2021-01-17,2021-01-19,3,Vacation leave
+NLI-045,1,2020-08-08,2020-08-12,5,Vacation leave
+NLI-045,1,2020-09-06,2020-09-09,4,Vacation leave
+NLI-045,1,2020-11-10,2020-11-12,3,Vacation leave
+NLI-045,1,2020-09-28,2020-09-29,2,Vacation leave
+NLI-045,1,2021-02-13,2021-02-18,6,Vacation leave
+NLI-045,2,2020-11-23,2020-12-04,12,Medical - Flu and rest
+NL-263,1,2014-04-12,2014-04-13,2,Vacation leave
+NL-263,1,2014-04-18,2014-04-20,3,Vacation leave
+NL-263,1,2014-06-05,2014-06-07,3,Vacation leave
+NL-263,4,2014-07-21,2014-07-23,3,Family bereavement
+NL-264,1,2021-08-23,2021-08-27,5,Vacation leave
+NL-264,1,2021-05-13,2021-05-15,3,Vacation leave
+NL-264,1,2021-07-05,2021-07-06,2,Vacation leave
+NL-264,1,2021-10-06,2021-10-10,5,Vacation leave
+NL-264,1,2021-08-22,2021-08-26,5,Vacation leave
+NL-265,1,2021-03-07,2021-03-09,3,Vacation leave
+NL-265,1,2021-06-12,2021-06-17,6,Vacation leave
+NL-266,1,2019-07-13,2019-07-18,6,Vacation leave
+NL-266,1,2019-07-24,2019-07-25,2,Vacation leave
+NLI-046,1,2019-07-07,2019-07-12,6,Vacation leave
+NLI-046,1,2019-06-27,2019-06-30,4,Vacation leave
+NLI-046,3,2019-08-25,2019-09-02,9,Care for dependent family member
+NL-267,1,2021-02-04,2021-02-06,3,Vacation leave
+NL-267,1,2021-03-12,2021-03-17,6,Vacation leave
+NL-267,1,2020-08-11,2020-08-15,5,Vacation leave
+NL-267,1,2020-11-29,2020-12-02,4,Vacation leave
+NL-267,1,2020-12-25,2020-12-30,6,Vacation leave
+NL-267,1,2020-11-18,2020-11-21,4,Vacation leave
+NL-267,2,2020-08-18,2020-08-29,12,Medical - Flu and rest
+NLI-047,1,2017-11-19,2017-11-20,2,Vacation leave
+NLI-047,1,2018-03-01,2018-03-03,3,Vacation leave
+NLI-047,1,2018-04-21,2018-04-23,3,Vacation leave
+NLI-047,2,2018-01-08,2018-01-19,12,Medical - Flu and rest
+NL-268,1,2021-05-03,2021-05-07,5,Vacation leave
+NL-268,1,2021-09-22,2021-09-26,5,Vacation leave
+NL-268,1,2021-04-17,2021-04-18,2,Vacation leave
+NL-268,1,2021-02-11,2021-02-14,4,Vacation leave
+NL-269,1,2024-12-13,2024-12-16,4,Vacation leave
+NL-269,1,2025-03-26,2025-03-28,3,Vacation leave
+NL-269,1,2024-10-05,2024-10-08,4,Vacation leave
+NL-269,1,2025-02-03,2025-02-04,2,Vacation leave
+NL-269,1,2025-03-11,2025-03-16,6,Vacation leave
+NL-269,1,2024-10-12,2024-10-15,4,Vacation leave
+NL-270,1,2017-12-27,2017-12-29,3,Vacation leave
+NL-270,1,2018-02-02,2018-02-05,4,Vacation leave
+NL-270,1,2018-02-14,2018-02-17,4,Vacation leave
+NL-270,1,2018-05-04,2018-05-07,4,Vacation leave
+NL-270,1,2018-01-23,2018-01-27,5,Vacation leave
+NL-270,1,2018-04-15,2018-04-19,5,Vacation leave
+NL-271,1,2022-05-27,2022-05-28,2,Vacation leave
+NL-271,1,2022-06-19,2022-06-21,3,Vacation leave
+NL-271,1,2022-06-14,2022-06-15,2,Vacation leave
+NL-271,1,2021-10-21,2021-10-25,5,Vacation leave
+NL-271,1,2021-11-19,2021-11-24,6,Vacation leave
+NL-271,1,2022-05-03,2022-05-06,4,Vacation leave
+NL-272,1,2016-02-19,2016-02-23,5,Vacation leave
+NL-272,1,2016-02-25,2016-02-28,4,Vacation leave
+NL-272,1,2016-04-19,2016-04-24,6,Vacation leave
+NL-272,1,2016-04-05,2016-04-08,4,Vacation leave
+NL-272,2,2016-07-03,2016-07-14,12,Medical - Flu and rest
+NLI-048,1,2017-10-11,2017-10-12,2,Vacation leave
+NLI-048,1,2017-08-05,2017-08-09,5,Vacation leave
+NLI-048,2,2017-08-17,2017-08-28,12,Medical - Flu and rest
+NLI-048,3,2018-03-25,2018-03-26,2,Care for dependent family member
+NLI-049,1,2018-03-04,2018-03-08,5,Vacation leave
+NLI-049,1,2017-10-13,2017-10-17,5,Vacation leave
+NL-273,1,2024-07-27,2024-07-30,4,Vacation leave
+NL-273,1,2024-11-04,2024-11-09,6,Vacation leave
+NL-273,1,2024-12-22,2024-12-23,2,Vacation leave
+NL-273,1,2024-11-23,2024-11-28,6,Vacation leave
+NL-273,1,2024-12-21,2024-12-25,5,Vacation leave
+NL-273,1,2024-10-12,2024-10-17,6,Vacation leave
+NL-273,2,2024-04-20,2024-05-01,12,Medical - Flu and rest
+NL-274,1,2022-11-19,2022-11-23,5,Vacation leave
+NL-274,1,2022-10-23,2022-10-24,2,Vacation leave
+NL-275,1,2022-05-09,2022-05-14,6,Vacation leave
+NL-275,1,2022-03-14,2022-03-15,2,Vacation leave
+NL-276,1,2017-03-04,2017-03-05,2,Vacation leave
+NL-276,1,2017-07-14,2017-07-19,6,Vacation leave
+NL-276,1,2017-03-10,2017-03-12,3,Vacation leave
+NL-276,1,2017-03-12,2017-03-13,2,Vacation leave
+NL-277,1,2024-07-19,2024-07-23,5,Vacation leave
+NL-277,1,2024-09-04,2024-09-06,3,Vacation leave
+NL-277,1,2024-11-07,2024-11-08,2,Vacation leave
+NL-277,1,2024-12-26,2024-12-31,6,Vacation leave
+NL-277,5,2024-08-16,2024-08-18,3,Leave without pay
+NL-278,1,2017-03-31,2017-04-03,4,Vacation leave
+NL-278,1,2017-01-05,2017-01-10,6,Vacation leave
+NL-278,1,2017-01-26,2017-01-29,4,Vacation leave
+NL-278,1,2017-06-25,2017-06-28,4,Vacation leave
+NL-279,1,2014-05-02,2014-05-05,4,Vacation leave
+NL-279,1,2014-09-23,2014-09-26,4,Vacation leave
+NL-279,2,2014-07-22,2014-08-02,12,Medical - Flu and rest
+NLI-050,1,2019-04-23,2019-04-26,4,Vacation leave
+NLI-050,1,2019-11-25,2019-11-29,5,Vacation leave
+NLI-050,1,2019-12-13,2019-12-14,2,Vacation leave
+NLI-050,1,2019-12-20,2019-12-25,6,Vacation leave
+NLI-050,1,2019-12-14,2019-12-17,4,Vacation leave
+NL-280,1,2023-08-09,2023-08-11,3,Vacation leave
+NL-280,1,2023-06-19,2023-06-21,3,Vacation leave
+NL-281,1,2020-02-18,2020-02-21,4,Vacation leave
+NL-281,1,2019-11-13,2019-11-16,4,Vacation leave
+NL-281,1,2020-04-19,2020-04-24,6,Vacation leave
+NL-281,1,2019-09-05,2019-09-10,6,Vacation leave
+NL-282,1,2015-09-08,2015-09-10,3,Vacation leave
+NL-282,1,2016-04-19,2016-04-21,3,Vacation leave
+NL-282,1,2016-04-09,2016-04-11,3,Vacation leave
+NL-282,2,2015-10-31,2015-11-11,12,Medical - Flu and rest
+NLI-051,1,2022-01-16,2022-01-17,2,Vacation leave
+NLI-051,1,2021-11-05,2021-11-10,6,Vacation leave
+NLI-051,3,2022-02-27,2022-03-01,3,Care for dependent family member
+NL-283,1,2020-02-20,2020-02-25,6,Vacation leave
+NL-283,1,2020-02-20,2020-02-25,6,Vacation leave
+NL-283,1,2020-02-04,2020-02-07,4,Vacation leave
+NL-283,1,2020-04-03,2020-04-06,4,Vacation leave
+NL-284,1,2016-09-27,2016-10-01,5,Vacation leave
+NL-284,1,2016-06-25,2016-06-30,6,Vacation leave
+NL-284,1,2016-12-10,2016-12-13,4,Vacation leave
+NL-284,1,2016-07-05,2016-07-06,2,Vacation leave
+NL-285,1,2020-09-03,2020-09-07,5,Vacation leave
+NL-285,1,2021-01-22,2021-01-24,3,Vacation leave
+NL-285,1,2021-02-25,2021-03-01,5,Vacation leave
+NL-285,1,2020-12-17,2020-12-20,4,Vacation leave
+NL-285,2,2020-12-18,2020-12-29,12,Medical - Flu and rest
+NL-286,1,2019-02-13,2019-02-17,5,Vacation leave
+NL-286,1,2018-10-03,2018-10-05,3,Vacation leave
+NL-286,2,2018-10-02,2018-10-13,12,Medical - Flu and rest
+NL-286,5,2019-04-12,2019-04-13,2,Leave without pay
+NL-287,1,2019-12-24,2019-12-28,5,Vacation leave
+NL-287,1,2019-10-28,2019-11-01,5,Vacation leave
+NL-287,1,2020-02-10,2020-02-15,6,Vacation leave
+NL-287,1,2020-05-16,2020-05-17,2,Vacation leave
+NL-287,2,2020-02-12,2020-02-23,12,Medical - Flu and rest
+NL-288,1,2023-05-25,2023-05-28,4,Vacation leave
+NL-288,1,2023-07-01,2023-07-06,6,Vacation leave
+NL-288,1,2023-08-30,2023-09-01,3,Vacation leave
+NL-288,1,2023-06-29,2023-07-03,5,Vacation leave
+NL-288,1,2023-05-07,2023-05-12,6,Vacation leave
+NL-288,4,2023-12-03,2023-12-06,4,Family bereavement
+NL-289,1,2024-09-23,2024-09-27,5,Vacation leave
+NL-289,1,2024-09-22,2024-09-26,5,Vacation leave
+NL-289,1,2024-06-27,2024-07-02,6,Vacation leave
+NL-289,1,2024-04-03,2024-04-08,6,Vacation leave
+NL-290,1,2017-05-03,2017-05-07,5,Vacation leave
+NL-290,1,2017-05-26,2017-05-27,2,Vacation leave
+NL-290,1,2017-02-05,2017-02-09,5,Vacation leave
+NL-290,1,2017-09-17,2017-09-20,4,Vacation leave
+NL-290,1,2017-08-06,2017-08-11,6,Vacation leave
+NL-290,1,2017-05-15,2017-05-20,6,Vacation leave
+NL-290,2,2017-07-16,2017-07-27,12,Medical - Flu and rest
+NL-290,3,2017-08-11,2017-08-19,9,Care for dependent family member
+NL-291,1,2024-12-26,2024-12-27,2,Vacation leave
+NL-291,1,2025-02-26,2025-03-01,4,Vacation leave
+NL-291,2,2024-10-04,2024-10-15,12,Medical - Flu and rest
+NL-292,1,2023-10-17,2023-10-21,5,Vacation leave
+NL-292,1,2023-09-10,2023-09-11,2,Vacation leave
+NL-292,1,2023-10-22,2023-10-23,2,Vacation leave
+NL-292,1,2023-11-23,2023-11-28,6,Vacation leave
+NL-293,1,2025-05-08,2025-05-11,4,Vacation leave
+NL-293,1,2025-02-06,2025-02-11,6,Vacation leave
+NL-293,1,2025-04-12,2025-04-15,4,Vacation leave
+NL-293,1,2024-11-03,2024-11-07,5,Vacation leave
+NL-293,1,2024-10-16,2024-10-18,3,Vacation leave
+NL-293,3,2025-03-18,2025-03-21,4,Care for dependent family member
+NL-294,1,2023-04-20,2023-04-24,5,Vacation leave
+NL-294,1,2023-05-20,2023-05-24,5,Vacation leave
+NL-294,1,2023-05-23,2023-05-26,4,Vacation leave
+NL-294,1,2023-02-12,2023-02-15,4,Vacation leave
+NL-294,2,2023-05-02,2023-05-13,12,Medical - Flu and rest
+NL-294,4,2023-04-28,2023-04-30,3,Family bereavement
+NLI-052,1,2017-01-21,2017-01-22,2,Vacation leave
+NLI-052,1,2017-07-27,2017-08-01,6,Vacation leave
+NLI-052,1,2016-12-27,2016-12-31,5,Vacation leave
+NLI-052,1,2016-12-25,2016-12-26,2,Vacation leave
+NLI-052,1,2017-06-04,2017-06-06,3,Vacation leave
+NLI-052,1,2017-01-07,2017-01-09,3,Vacation leave
+NLI-052,2,2017-03-05,2017-03-16,12,Medical - Flu and rest
+NL-295,1,2022-01-15,2022-01-19,5,Vacation leave
+NL-295,1,2021-10-03,2021-10-05,3,Vacation leave
+NL-295,2,2021-08-12,2021-08-23,12,Medical - Flu and rest
+NL-295,5,2021-07-04,2021-07-05,2,Leave without pay
+NL-296,1,2016-08-26,2016-08-29,4,Vacation leave
+NL-296,1,2016-12-29,2016-12-31,3,Vacation leave
+NL-296,1,2016-07-30,2016-08-01,3,Vacation leave
+NL-296,1,2016-06-22,2016-06-25,4,Vacation leave
+NL-296,1,2016-05-31,2016-06-04,5,Vacation leave
+NL-296,1,2016-06-09,2016-06-10,2,Vacation leave
+NL-297,1,2024-05-20,2024-05-22,3,Vacation leave
+NL-297,1,2024-08-18,2024-08-22,5,Vacation leave
+NL-297,1,2024-06-10,2024-06-12,3,Vacation leave
+NL-297,1,2024-12-14,2024-12-19,6,Vacation leave
+NL-297,1,2024-12-26,2024-12-27,2,Vacation leave
+NL-297,1,2024-08-06,2024-08-09,4,Vacation leave
+NL-298,1,2019-02-14,2019-02-16,3,Vacation leave
+NL-298,1,2018-08-26,2018-08-27,2,Vacation leave
+NLI-053,1,2015-08-09,2015-08-14,6,Vacation leave
+NLI-053,1,2015-10-15,2015-10-16,2,Vacation leave
+NLI-054,1,2021-01-28,2021-01-29,2,Vacation leave
+NLI-054,1,2021-01-27,2021-01-31,5,Vacation leave
+NLI-054,1,2020-10-20,2020-10-25,6,Vacation leave
+NLI-054,1,2020-08-05,2020-08-08,4,Vacation leave
+NLI-054,1,2021-02-21,2021-02-26,6,Vacation leave
+NLI-054,1,2020-12-20,2020-12-23,4,Vacation leave
+NLI-054,4,2020-10-28,2020-10-30,3,Family bereavement
+NL-299,1,2016-03-26,2016-03-28,3,Vacation leave
+NL-299,1,2015-12-26,2015-12-30,5,Vacation leave
+NL-299,1,2016-01-14,2016-01-19,6,Vacation leave
+NL-299,1,2015-09-23,2015-09-28,6,Vacation leave
+NL-299,2,2016-01-23,2016-02-03,12,Medical - Flu and rest
+NL-300,1,2016-03-21,2016-03-25,5,Vacation leave
+NL-300,1,2015-10-03,2015-10-06,4,Vacation leave
+NL-300,1,2016-01-22,2016-01-23,2,Vacation leave
+NL-300,1,2015-10-19,2015-10-20,2,Vacation leave
+NL-300,1,2015-12-07,2015-12-09,3,Vacation leave
+NL-301,1,2017-10-21,2017-10-22,2,Vacation leave
+NL-301,1,2017-10-19,2017-10-21,3,Vacation leave
+NL-301,1,2017-09-20,2017-09-25,6,Vacation leave
+NL-301,1,2017-12-09,2017-12-11,3,Vacation leave
+NL-301,2,2017-11-23,2017-12-04,12,Medical - Flu and rest
+NL-302,1,2022-07-09,2022-07-13,5,Vacation leave
+NL-302,1,2021-12-14,2021-12-18,5,Vacation leave
+NL-302,1,2021-12-24,2021-12-28,5,Vacation leave
+NL-302,1,2022-03-23,2022-03-28,6,Vacation leave
+NL-302,2,2021-11-28,2021-12-09,12,Medical - Flu and rest
+NL-303,1,2019-08-08,2019-08-13,6,Vacation leave
+NL-303,1,2019-10-16,2019-10-19,4,Vacation leave
+NL-303,1,2020-01-17,2020-01-22,6,Vacation leave
+NL-303,2,2019-12-29,2020-01-09,12,Medical - Flu and rest
+NLI-055,1,2017-11-09,2017-11-14,6,Vacation leave
+NLI-055,1,2017-11-11,2017-11-15,5,Vacation leave
+NLI-055,1,2018-02-05,2018-02-07,3,Vacation leave
+NLI-055,1,2018-02-21,2018-02-22,2,Vacation leave
+NLI-055,3,2017-11-23,2017-11-29,7,Care for dependent family member
+NL-304,1,2022-11-20,2022-11-22,3,Vacation leave
+NL-304,1,2023-06-24,2023-06-28,5,Vacation leave
+NL-304,1,2023-01-16,2023-01-20,5,Vacation leave
+NL-304,1,2022-12-11,2022-12-13,3,Vacation leave
+NL-304,1,2022-11-16,2022-11-21,6,Vacation leave
+NL-305,1,2021-01-15,2021-01-18,4,Vacation leave
+NL-305,1,2021-04-24,2021-04-28,5,Vacation leave
+NL-305,1,2021-03-05,2021-03-07,3,Vacation leave
+NL-305,1,2020-11-20,2020-11-23,4,Vacation leave
+NL-305,4,2020-10-24,2020-10-26,3,Family bereavement
+NL-306,1,2018-06-07,2018-06-09,3,Vacation leave
+NL-306,1,2018-03-31,2018-04-01,2,Vacation leave
+NL-306,2,2018-07-09,2018-07-20,12,Medical - Flu and rest
+NL-307,1,2020-08-27,2020-08-28,2,Vacation leave
+NL-307,1,2020-08-24,2020-08-29,6,Vacation leave
+NL-308,1,2018-11-07,2018-11-12,6,Vacation leave
+NL-308,1,2018-09-10,2018-09-15,6,Vacation leave
+NL-308,1,2019-01-22,2019-01-25,4,Vacation leave
+NLI-056,1,2021-07-02,2021-07-04,3,Vacation leave
+NLI-056,1,2021-10-22,2021-10-25,4,Vacation leave
+NLI-056,1,2021-12-27,2021-12-28,2,Vacation leave
+NLI-056,1,2021-07-20,2021-07-25,6,Vacation leave
+NLI-056,1,2021-07-05,2021-07-08,4,Vacation leave
+NLI-056,2,2021-09-08,2021-09-19,12,Medical - Flu and rest
+NL-309,1,2019-09-28,2019-10-03,6,Vacation leave
+NL-309,1,2020-03-23,2020-03-26,4,Vacation leave
+NL-309,1,2020-04-23,2020-04-28,6,Vacation leave
+NL-310,1,2016-03-20,2016-03-24,5,Vacation leave
+NL-310,1,2016-11-03,2016-11-05,3,Vacation leave
+NL-310,1,2016-07-03,2016-07-07,5,Vacation leave
+NL-310,1,2016-10-14,2016-10-18,5,Vacation leave
+NL-310,1,2016-08-07,2016-08-08,2,Vacation leave
+NL-310,1,2016-07-11,2016-07-16,6,Vacation leave
+NL-310,2,2016-03-16,2016-03-27,12,Medical - Flu and rest
+NL-311,1,2024-07-01,2024-07-03,3,Vacation leave
+NL-311,1,2023-12-09,2023-12-12,4,Vacation leave
+NL-311,1,2024-05-09,2024-05-10,2,Vacation leave
+NL-311,2,2024-06-19,2024-06-30,12,Medical - Flu and rest
+NL-312,1,2014-06-21,2014-06-25,5,Vacation leave
+NL-312,1,2014-06-04,2014-06-06,3,Vacation leave
+NL-312,1,2014-05-08,2014-05-13,6,Vacation leave
+NL-312,1,2014-07-26,2014-07-29,4,Vacation leave
+NL-312,1,2014-06-29,2014-07-04,6,Vacation leave
+NL-312,1,2014-06-11,2014-06-14,4,Vacation leave
+NL-312,2,2014-11-22,2014-12-03,12,Medical - Flu and rest
+NLI-057,1,2018-09-10,2018-09-12,3,Vacation leave
+NLI-057,1,2018-09-04,2018-09-09,6,Vacation leave
+NLI-057,1,2018-09-23,2018-09-26,4,Vacation leave
+NLI-057,1,2018-10-30,2018-11-03,5,Vacation leave
+NLI-057,1,2018-11-09,2018-11-12,4,Vacation leave
+NLI-057,1,2019-03-05,2019-03-10,6,Vacation leave
+NL-313,1,2017-04-09,2017-04-10,2,Vacation leave
+NL-313,1,2016-09-27,2016-09-28,2,Vacation leave
+NL-313,1,2016-12-18,2016-12-21,4,Vacation leave
+NL-313,1,2016-12-09,2016-12-13,5,Vacation leave
+NL-313,1,2016-09-11,2016-09-12,2,Vacation leave
+NL-314,1,2021-08-14,2021-08-19,6,Vacation leave
+NL-314,1,2021-09-14,2021-09-17,4,Vacation leave
+NL-314,2,2021-07-05,2021-07-16,12,Medical - Flu and rest
+NL-315,1,2015-06-01,2015-06-04,4,Vacation leave
+NL-315,1,2015-06-25,2015-06-30,6,Vacation leave
+NL-315,1,2014-12-19,2014-12-22,4,Vacation leave
+NL-315,1,2014-12-18,2014-12-22,5,Vacation leave
+NL-315,1,2015-04-24,2015-04-29,6,Vacation leave
+NL-316,1,2023-03-07,2023-03-08,2,Vacation leave
+NL-316,1,2023-01-10,2023-01-14,5,Vacation leave
+NL-316,2,2023-02-18,2023-03-01,12,Medical - Flu and rest
+NL-317,1,2018-04-20,2018-04-24,5,Vacation leave
+NL-317,1,2018-11-05,2018-11-07,3,Vacation leave
+NL-317,1,2018-04-10,2018-04-13,4,Vacation leave
+NL-317,1,2018-05-05,2018-05-07,3,Vacation leave
+NL-317,5,2018-10-18,2018-10-18,1,Leave without pay
+NL-318,1,2023-09-04,2023-09-06,3,Vacation leave
+NL-318,1,2023-10-07,2023-10-10,4,Vacation leave
+NL-318,1,2023-12-09,2023-12-14,6,Vacation leave
+NL-319,1,2016-12-22,2016-12-26,5,Vacation leave
+NL-319,1,2016-11-17,2016-11-18,2,Vacation leave
+NL-319,1,2017-06-15,2017-06-17,3,Vacation leave
+NL-319,1,2017-05-07,2017-05-08,2,Vacation leave
+NL-319,2,2016-12-28,2017-01-08,12,Medical - Flu and rest
+NL-320,1,2017-07-20,2017-07-23,4,Vacation leave
+NL-320,1,2017-04-03,2017-04-05,3,Vacation leave
+NL-320,1,2017-03-10,2017-03-13,4,Vacation leave
+NL-320,1,2017-04-28,2017-05-02,5,Vacation leave
+NL-321,1,2019-02-25,2019-02-28,4,Vacation leave
+NL-321,1,2019-05-10,2019-05-14,5,Vacation leave
+NL-321,1,2018-09-22,2018-09-27,6,Vacation leave
+NL-321,1,2019-03-14,2019-03-19,6,Vacation leave
+NL-321,1,2018-11-22,2018-11-26,5,Vacation leave
+NL-322,1,2017-07-14,2017-07-15,2,Vacation leave
+NL-322,1,2017-03-08,2017-03-12,5,Vacation leave
+NL-322,1,2017-06-11,2017-06-14,4,Vacation leave
+NL-322,1,2017-07-17,2017-07-22,6,Vacation leave
+NL-322,1,2017-11-16,2017-11-17,2,Vacation leave
+NL-322,1,2017-10-02,2017-10-07,6,Vacation leave
+NL-322,2,2017-04-06,2017-04-17,12,Medical - Flu and rest
+NL-322,5,2017-05-26,2017-05-27,2,Leave without pay
+NL-323,1,2015-12-28,2015-12-30,3,Vacation leave
+NL-323,1,2016-02-08,2016-02-09,2,Vacation leave
+NL-323,1,2015-12-25,2015-12-28,4,Vacation leave
+NL-323,1,2016-01-24,2016-01-26,3,Vacation leave
+NL-323,1,2016-01-14,2016-01-15,2,Vacation leave
+NL-324,1,2025-03-13,2025-03-14,2,Vacation leave
+NL-324,1,2024-12-26,2024-12-31,6,Vacation leave
+NL-324,5,2025-01-30,2025-02-01,3,Leave without pay
+NL-325,1,2014-10-29,2014-10-31,3,Vacation leave
+NL-325,1,2014-09-20,2014-09-23,4,Vacation leave
+NL-325,1,2014-06-12,2014-06-17,6,Vacation leave
+NL-325,1,2014-04-05,2014-04-09,5,Vacation leave
+NL-325,1,2014-10-08,2014-10-10,3,Vacation leave
+NL-325,1,2014-05-06,2014-05-11,6,Vacation leave
+NL-325,2,2014-04-09,2014-04-20,12,Medical - Flu and rest
+NL-325,4,2014-10-21,2014-10-23,3,Family bereavement
+NL-326,1,2016-01-20,2016-01-22,3,Vacation leave
+NL-326,1,2016-05-12,2016-05-13,2,Vacation leave
+NL-326,4,2015-10-29,2015-11-02,5,Family bereavement
+NLI-058,1,2016-04-20,2016-04-23,4,Vacation leave
+NLI-058,1,2016-09-09,2016-09-14,6,Vacation leave
+NLI-058,1,2016-05-03,2016-05-06,4,Vacation leave
+NLI-058,1,2016-10-22,2016-10-27,6,Vacation leave
+NLI-058,1,2016-10-18,2016-10-21,4,Vacation leave
+NLI-058,2,2016-06-10,2016-06-21,12,Medical - Flu and rest
+NLI-058,3,2017-01-03,2017-01-04,2,Care for dependent family member
+NL-327,1,2022-11-07,2022-11-12,6,Vacation leave
+NL-327,1,2023-03-12,2023-03-15,4,Vacation leave
+NL-327,3,2023-08-09,2023-08-17,9,Care for dependent family member
+NL-327,4,2023-04-01,2023-04-05,5,Family bereavement
+NLI-059,1,2024-02-21,2024-02-24,4,Vacation leave
+NLI-059,1,2024-08-31,2024-09-01,2,Vacation leave
+NLI-059,2,2024-07-01,2024-07-12,12,Medical - Flu and rest
+NL-328,1,2019-11-13,2019-11-15,3,Vacation leave
+NL-328,1,2020-01-24,2020-01-28,5,Vacation leave
+NL-328,1,2020-06-24,2020-06-29,6,Vacation leave
+NL-329,1,2016-03-16,2016-03-20,5,Vacation leave
+NL-329,1,2016-06-21,2016-06-22,2,Vacation leave
+NL-329,1,2016-06-18,2016-06-23,6,Vacation leave
+NL-329,1,2016-07-06,2016-07-07,2,Vacation leave
+NL-329,1,2016-01-29,2016-01-30,2,Vacation leave
+NL-329,2,2016-04-23,2016-05-04,12,Medical - Flu and rest
+NL-329,5,2016-05-28,2016-05-30,3,Leave without pay
+NL-330,1,2019-03-01,2019-03-04,4,Vacation leave
+NL-330,1,2019-08-27,2019-08-30,4,Vacation leave
+NL-330,1,2019-03-26,2019-03-27,2,Vacation leave
+NL-330,1,2019-06-25,2019-06-27,3,Vacation leave
+NLI-060,1,2016-09-28,2016-10-02,5,Vacation leave
+NLI-060,1,2016-07-22,2016-07-24,3,Vacation leave
+NLI-060,1,2016-09-02,2016-09-05,4,Vacation leave
+NLI-060,1,2016-10-06,2016-10-11,6,Vacation leave
+NLI-060,1,2016-09-22,2016-09-26,5,Vacation leave
+NLI-060,1,2016-08-21,2016-08-26,6,Vacation leave
+NL-331,1,2024-01-03,2024-01-07,5,Vacation leave
+NL-331,1,2023-11-02,2023-11-07,6,Vacation leave
+NL-331,1,2024-01-07,2024-01-10,4,Vacation leave
+NL-331,1,2023-06-02,2023-06-07,6,Vacation leave
+NL-331,1,2023-11-13,2023-11-16,4,Vacation leave
+NL-331,1,2023-11-12,2023-11-17,6,Vacation leave
+NL-331,5,2023-10-20,2023-10-20,1,Leave without pay
+NL-332,1,2018-09-22,2018-09-24,3,Vacation leave
+NL-332,1,2018-08-11,2018-08-14,4,Vacation leave
+NL-332,1,2018-09-29,2018-10-02,4,Vacation leave
+NL-332,2,2018-05-28,2018-06-08,12,Medical - Flu and rest
+NL-332,3,2019-01-16,2019-01-22,7,Care for dependent family member
+NL-332,5,2018-06-24,2018-06-25,2,Leave without pay
+NL-333,1,2020-03-13,2020-03-17,5,Vacation leave
+NL-333,1,2020-05-08,2020-05-10,3,Vacation leave
+NL-333,1,2020-08-08,2020-08-10,3,Vacation leave
+NL-333,1,2020-04-29,2020-05-03,5,Vacation leave
+NL-333,3,2020-07-08,2020-07-09,2,Care for dependent family member
+NL-334,1,2015-09-05,2015-09-09,5,Vacation leave
+NL-334,1,2015-07-18,2015-07-22,5,Vacation leave
+NL-335,1,2015-09-08,2015-09-12,5,Vacation leave
+NL-335,1,2015-12-04,2015-12-06,3,Vacation leave
+NL-335,1,2015-09-13,2015-09-14,2,Vacation leave
+NL-335,2,2015-09-25,2015-10-06,12,Medical - Flu and rest
+NL-336,1,2023-07-06,2023-07-07,2,Vacation leave
+NL-336,1,2022-12-03,2022-12-06,4,Vacation leave
+NL-336,1,2022-12-07,2022-12-12,6,Vacation leave
+NL-336,1,2023-05-25,2023-05-30,6,Vacation leave
+NL-336,2,2022-12-01,2022-12-12,12,Medical - Flu and rest
+NL-336,3,2023-08-27,2023-08-31,5,Care for dependent family member
+NL-337,1,2019-05-12,2019-05-14,3,Vacation leave
+NL-337,1,2019-11-05,2019-11-06,2,Vacation leave
+NL-337,1,2019-09-30,2019-10-03,4,Vacation leave
+NL-337,1,2019-08-25,2019-08-28,4,Vacation leave
+NL-337,1,2019-12-04,2019-12-09,6,Vacation leave
+NL-337,1,2019-06-30,2019-07-04,5,Vacation leave
+NL-338,1,2023-08-15,2023-08-17,3,Vacation leave
+NL-338,1,2023-05-15,2023-05-20,6,Vacation leave
+NL-338,1,2023-05-30,2023-06-01,3,Vacation leave
+NL-338,1,2023-06-09,2023-06-10,2,Vacation leave
+NL-338,1,2023-07-12,2023-07-13,2,Vacation leave
+NL-338,1,2023-07-01,2023-07-04,4,Vacation leave
+NL-339,1,2020-09-29,2020-09-30,2,Vacation leave
+NL-339,1,2021-01-07,2021-01-10,4,Vacation leave
+NL-340,1,2022-03-21,2022-03-26,6,Vacation leave
+NL-340,1,2022-03-12,2022-03-15,4,Vacation leave
+NL-340,1,2022-09-15,2022-09-17,3,Vacation leave
+NL-340,1,2022-02-17,2022-02-21,5,Vacation leave
+NL-340,1,2022-08-06,2022-08-11,6,Vacation leave
+NL-340,2,2022-04-30,2022-05-11,12,Medical - Flu and rest
+NL-341,1,2016-04-18,2016-04-19,2,Vacation leave
+NL-341,1,2016-06-09,2016-06-10,2,Vacation leave
+NL-341,1,2016-04-06,2016-04-08,3,Vacation leave
+NL-341,1,2016-08-03,2016-08-07,5,Vacation leave
+NL-341,2,2016-09-20,2016-10-01,12,Medical - Flu and rest
+NL-342,1,2024-01-24,2024-01-28,5,Vacation leave
+NL-342,1,2024-02-18,2024-02-20,3,Vacation leave
+NL-342,1,2023-07-20,2023-07-25,6,Vacation leave
+NL-342,1,2023-07-26,2023-07-30,5,Vacation leave
+NL-342,2,2023-09-18,2023-09-29,12,Medical - Flu and rest
+NL-343,1,2023-08-24,2023-08-26,3,Vacation leave
+NL-343,1,2023-11-28,2023-12-01,4,Vacation leave
+NL-343,1,2023-08-18,2023-08-23,6,Vacation leave
+NL-343,1,2024-02-19,2024-02-24,6,Vacation leave
+NL-343,1,2024-01-31,2024-02-05,6,Vacation leave
+NL-343,3,2024-02-20,2024-02-24,5,Care for dependent family member
+NL-344,1,2021-02-11,2021-02-13,3,Vacation leave
+NL-344,1,2021-06-22,2021-06-26,5,Vacation leave
+NL-344,1,2021-04-28,2021-04-29,2,Vacation leave
+NL-345,1,2015-04-10,2015-04-12,3,Vacation leave
+NL-345,1,2014-09-24,2014-09-28,5,Vacation leave
+NL-345,1,2014-12-04,2014-12-05,2,Vacation leave
+NL-345,5,2014-11-21,2014-11-22,2,Leave without pay
+NL-346,1,2024-09-01,2024-09-03,3,Vacation leave
+NL-346,1,2024-12-20,2024-12-21,2,Vacation leave
+NL-346,1,2024-11-22,2024-11-25,4,Vacation leave
+NL-346,1,2024-12-17,2024-12-22,6,Vacation leave
+NL-346,1,2024-07-15,2024-07-17,3,Vacation leave
+NL-346,1,2024-06-09,2024-06-11,3,Vacation leave
+NL-346,2,2024-11-26,2024-12-07,12,Medical - Flu and rest
+NL-347,1,2022-02-10,2022-02-13,4,Vacation leave
+NL-347,1,2021-12-18,2021-12-23,6,Vacation leave
+NL-347,1,2021-11-30,2021-12-02,3,Vacation leave
+NL-347,1,2021-08-11,2021-08-16,6,Vacation leave
+NL-347,1,2021-11-09,2021-11-12,4,Vacation leave
+NL-347,1,2022-03-12,2022-03-15,4,Vacation leave
+NL-347,2,2021-09-12,2021-09-23,12,Medical - Flu and rest
+NL-348,1,2023-09-07,2023-09-09,3,Vacation leave
+NL-348,1,2024-04-08,2024-04-12,5,Vacation leave
+NL-348,1,2023-08-19,2023-08-21,3,Vacation leave
+NL-348,1,2024-03-22,2024-03-24,3,Vacation leave
+NL-348,1,2023-10-18,2023-10-23,6,Vacation leave
+NL-348,1,2023-10-19,2023-10-21,3,Vacation leave
+NL-348,2,2023-11-15,2023-11-26,12,Medical - Flu and rest
+NLI-061,1,2025-02-01,2025-02-02,2,Vacation leave
+NLI-061,1,2025-08-14,2025-08-15,2,Vacation leave
+NLI-062,1,2014-08-24,2014-08-26,3,Vacation leave
+NLI-062,1,2015-01-09,2015-01-12,4,Vacation leave
+NLI-062,1,2015-02-16,2015-02-17,2,Vacation leave
+NLI-062,1,2015-02-02,2015-02-04,3,Vacation leave
+NLI-062,1,2014-09-21,2014-09-25,5,Vacation leave
+NLI-062,1,2014-12-06,2014-12-08,3,Vacation leave
+NLI-062,2,2014-08-11,2014-08-22,12,Medical - Flu and rest
+NLI-062,5,2014-08-28,2014-08-29,2,Leave without pay
+NL-349,1,2019-05-23,2019-05-26,4,Vacation leave
+NL-349,1,2019-03-16,2019-03-19,4,Vacation leave
+NL-349,1,2018-11-13,2018-11-17,5,Vacation leave
+NL-349,1,2019-01-04,2019-01-07,4,Vacation leave
+NL-349,1,2018-12-13,2018-12-17,5,Vacation leave
+NL-350,1,2020-05-08,2020-05-10,3,Vacation leave
+NL-350,1,2019-11-11,2019-11-12,2,Vacation leave
+NL-350,1,2019-12-01,2019-12-05,5,Vacation leave
+NL-351,1,2016-03-30,2016-03-31,2,Vacation leave
+NL-351,1,2016-09-26,2016-09-30,5,Vacation leave
+NL-351,1,2016-09-27,2016-09-28,2,Vacation leave
+NL-351,1,2016-10-09,2016-10-10,2,Vacation leave
+NL-351,1,2016-05-06,2016-05-11,6,Vacation leave
+NL-351,1,2016-03-15,2016-03-18,4,Vacation leave
+NL-351,2,2016-09-26,2016-10-07,12,Medical - Flu and rest
+NL-352,1,2020-09-22,2020-09-24,3,Vacation leave
+NL-352,1,2020-10-16,2020-10-21,6,Vacation leave
+NL-352,2,2020-09-23,2020-10-04,12,Medical - Flu and rest
+NL-352,5,2020-10-02,2020-10-03,2,Leave without pay
+NL-353,1,2022-09-09,2022-09-13,5,Vacation leave
+NL-353,1,2022-11-18,2022-11-19,2,Vacation leave
+NL-353,1,2022-07-22,2022-07-26,5,Vacation leave
+NL-353,1,2022-08-16,2022-08-18,3,Vacation leave
+NL-353,1,2022-05-02,2022-05-04,3,Vacation leave
+NL-353,2,2022-06-17,2022-06-28,12,Medical - Flu and rest
+NL-354,1,2021-01-31,2021-02-02,3,Vacation leave
+NL-354,1,2021-03-17,2021-03-19,3,Vacation leave
+NL-354,2,2021-02-09,2021-02-20,12,Medical - Flu and rest
+NLI-063,1,2021-06-30,2021-07-04,5,Vacation leave
+NLI-063,1,2021-10-08,2021-10-13,6,Vacation leave
+NLI-063,1,2021-10-11,2021-10-15,5,Vacation leave
+NL-355,1,2021-07-10,2021-07-11,2,Vacation leave
+NL-355,1,2021-07-20,2021-07-22,3,Vacation leave
+NL-355,2,2021-10-10,2021-10-21,12,Medical - Flu and rest
+NL-356,1,2016-02-08,2016-02-13,6,Vacation leave
+NL-356,1,2016-06-23,2016-06-27,5,Vacation leave
+NL-356,1,2016-08-23,2016-08-25,3,Vacation leave
+NL-356,1,2016-02-19,2016-02-22,4,Vacation leave
+NL-356,1,2016-03-08,2016-03-12,5,Vacation leave
+NL-356,2,2016-04-28,2016-05-09,12,Medical - Flu and rest
+NL-357,1,2022-03-27,2022-03-31,5,Vacation leave
+NL-357,1,2022-07-05,2022-07-09,5,Vacation leave
+NL-357,2,2021-12-23,2022-01-03,12,Medical - Flu and rest
+NL-357,3,2022-09-19,2022-09-21,3,Care for dependent family member
+NL-358,1,2021-04-05,2021-04-10,6,Vacation leave
+NL-358,1,2021-08-26,2021-08-27,2,Vacation leave
+NL-358,1,2021-03-05,2021-03-09,5,Vacation leave
+NL-358,1,2021-05-21,2021-05-22,2,Vacation leave
+NL-358,1,2021-03-13,2021-03-17,5,Vacation leave
+NL-359,1,2025-06-17,2025-06-19,3,Vacation leave
+NL-359,1,2025-05-19,2025-05-23,5,Vacation leave
+NL-359,1,2025-05-19,2025-05-24,6,Vacation leave
+NL-359,1,2025-05-15,2025-05-18,4,Vacation leave
+NL-359,1,2025-03-23,2025-03-27,5,Vacation leave
+NL-359,1,2025-02-23,2025-02-25,3,Vacation leave
+NL-359,2,2024-12-08,2024-12-19,12,Medical - Flu and rest
+NL-360,1,2018-05-10,2018-05-14,5,Vacation leave
+NL-360,1,2018-03-25,2018-03-28,4,Vacation leave
+NL-360,1,2018-04-11,2018-04-16,6,Vacation leave
+NL-360,2,2018-06-12,2018-06-23,12,Medical - Flu and rest
+NL-361,1,2019-06-15,2019-06-17,3,Vacation leave
+NL-361,1,2019-10-15,2019-10-20,6,Vacation leave
+NL-361,1,2019-06-18,2019-06-23,6,Vacation leave
+NL-361,1,2019-05-25,2019-05-28,4,Vacation leave
+NL-361,1,2019-08-10,2019-08-12,3,Vacation leave
+NL-362,1,2016-09-19,2016-09-22,4,Vacation leave
+NL-362,1,2017-03-02,2017-03-07,6,Vacation leave
+NL-363,1,2019-11-28,2019-12-01,4,Vacation leave
+NL-363,1,2019-06-02,2019-06-03,2,Vacation leave
+NL-363,1,2019-05-24,2019-05-29,6,Vacation leave
+NL-363,2,2019-05-26,2019-06-06,12,Medical - Flu and rest
+NL-364,1,2017-12-08,2017-12-11,4,Vacation leave
+NL-364,1,2018-02-26,2018-03-01,4,Vacation leave
+NL-364,1,2018-05-26,2018-05-27,2,Vacation leave
+NL-364,1,2018-07-23,2018-07-27,5,Vacation leave
+NL-365,1,2023-01-02,2023-01-07,6,Vacation leave
+NL-365,1,2022-11-27,2022-12-02,6,Vacation leave
+NL-365,1,2023-06-12,2023-06-14,3,Vacation leave
+NL-365,1,2023-01-19,2023-01-21,3,Vacation leave
+NL-365,2,2023-01-18,2023-01-29,12,Medical - Flu and rest
+NLI-064,1,2017-11-17,2017-11-19,3,Vacation leave
+NLI-064,1,2017-08-26,2017-08-31,6,Vacation leave
+NLI-064,1,2017-11-24,2017-11-29,6,Vacation leave
+NLI-064,1,2017-09-25,2017-09-30,6,Vacation leave
+NLI-064,1,2017-04-08,2017-04-13,6,Vacation leave
+NLI-064,2,2017-06-24,2017-07-05,12,Medical - Flu and rest
+NLI-064,3,2017-10-08,2017-10-10,3,Care for dependent family member
+NL-366,1,2015-04-21,2015-04-25,5,Vacation leave
+NL-366,1,2014-11-21,2014-11-25,5,Vacation leave
+NL-366,1,2014-11-02,2014-11-07,6,Vacation leave
+NL-366,1,2015-05-10,2015-05-15,6,Vacation leave
+NL-366,1,2015-05-28,2015-05-30,3,Vacation leave
+NL-366,2,2015-03-19,2015-03-30,12,Medical - Flu and rest
+NL-367,1,2015-01-11,2015-01-16,6,Vacation leave
+NL-367,1,2015-05-30,2015-06-03,5,Vacation leave
+NL-367,1,2015-06-21,2015-06-22,2,Vacation leave
+NL-367,3,2015-06-01,2015-06-08,8,Care for dependent family member
+NLI-065,1,2019-11-27,2019-11-29,3,Vacation leave
+NLI-065,1,2020-06-29,2020-07-03,5,Vacation leave
+NLI-065,2,2020-03-27,2020-04-07,12,Medical - Flu and rest
+NLI-065,3,2020-07-22,2020-07-30,9,Care for dependent family member
+NL-368,1,2020-10-31,2020-11-05,6,Vacation leave
+NL-368,1,2020-10-21,2020-10-26,6,Vacation leave
+NL-368,1,2021-07-03,2021-07-04,2,Vacation leave
+NL-368,1,2020-10-28,2020-11-02,6,Vacation leave
+NL-368,2,2021-04-26,2021-05-07,12,Medical - Flu and rest
+NL-369,1,2019-09-05,2019-09-10,6,Vacation leave
+NL-369,1,2019-08-22,2019-08-26,5,Vacation leave
+NL-370,1,2018-06-14,2018-06-18,5,Vacation leave
+NL-370,1,2018-04-04,2018-04-09,6,Vacation leave
+NL-371,1,2018-05-26,2018-05-27,2,Vacation leave
+NL-371,1,2018-05-13,2018-05-15,3,Vacation leave
+NL-371,1,2018-09-27,2018-09-28,2,Vacation leave
+NL-372,1,2016-07-08,2016-07-12,5,Vacation leave
+NL-372,1,2016-07-13,2016-07-18,6,Vacation leave
+NL-372,1,2016-01-02,2016-01-05,4,Vacation leave
+NL-372,1,2016-05-04,2016-05-09,6,Vacation leave
+NL-372,1,2016-05-04,2016-05-09,6,Vacation leave
+NL-372,1,2016-05-31,2016-06-04,5,Vacation leave
+NL-372,2,2016-02-28,2016-03-10,12,Medical - Flu and rest
+NL-373,1,2020-10-10,2020-10-12,3,Vacation leave
+NL-373,1,2020-10-19,2020-10-20,2,Vacation leave
+NL-373,1,2020-03-20,2020-03-21,2,Vacation leave
+NL-373,2,2020-08-17,2020-08-28,12,Medical - Flu and rest
+NL-373,3,2020-08-15,2020-08-18,4,Care for dependent family member
+NL-374,1,2017-10-22,2017-10-27,6,Vacation leave
+NL-374,1,2018-04-27,2018-04-28,2,Vacation leave
+NL-374,1,2017-12-17,2017-12-19,3,Vacation leave
+NL-374,2,2018-04-26,2018-05-07,12,Medical - Flu and rest
+NL-375,1,2019-01-14,2019-01-19,6,Vacation leave
+NL-375,1,2018-08-11,2018-08-14,4,Vacation leave
+NL-375,1,2018-09-02,2018-09-06,5,Vacation leave
+NL-376,1,2018-02-09,2018-02-10,2,Vacation leave
+NL-376,1,2017-11-06,2017-11-09,4,Vacation leave
+NL-376,1,2018-04-23,2018-04-24,2,Vacation leave
+NL-376,1,2018-01-04,2018-01-09,6,Vacation leave
+NL-376,2,2018-03-16,2018-03-27,12,Medical - Flu and rest
+NL-376,5,2017-11-09,2017-11-09,1,Leave without pay
+NL-377,1,2016-08-03,2016-08-07,5,Vacation leave
+NL-377,1,2016-08-11,2016-08-15,5,Vacation leave
+NL-377,2,2016-04-03,2016-04-14,12,Medical - Flu and rest
+NL-378,1,2020-09-29,2020-10-03,5,Vacation leave
+NL-378,1,2020-04-23,2020-04-24,2,Vacation leave
+NL-378,1,2020-09-13,2020-09-15,3,Vacation leave
+NL-378,1,2020-09-10,2020-09-13,4,Vacation leave
+NL-378,1,2020-08-09,2020-08-11,3,Vacation leave
+NL-379,1,2024-01-18,2024-01-20,3,Vacation leave
+NL-379,1,2024-01-13,2024-01-18,6,Vacation leave
+NL-379,1,2024-01-12,2024-01-14,3,Vacation leave
+NL-379,1,2024-02-01,2024-02-06,6,Vacation leave
+NL-379,1,2024-01-03,2024-01-06,4,Vacation leave
+NL-380,1,2014-11-26,2014-12-01,6,Vacation leave
+NL-380,1,2015-03-11,2015-03-12,2,Vacation leave
+NL-380,1,2014-11-11,2014-11-14,4,Vacation leave
+NL-380,2,2014-12-10,2014-12-21,12,Medical - Flu and rest
+NL-380,3,2014-09-25,2014-10-02,8,Care for dependent family member
+NLI-066,1,2020-07-03,2020-07-04,2,Vacation leave
+NLI-066,1,2020-06-23,2020-06-27,5,Vacation leave
+NLI-066,1,2020-07-10,2020-07-12,3,Vacation leave
+NLI-066,1,2020-02-07,2020-02-09,3,Vacation leave
+NLI-066,1,2019-12-20,2019-12-21,2,Vacation leave
+NLI-066,2,2020-03-22,2020-04-02,12,Medical - Flu and rest
+NL-381,1,2020-05-03,2020-05-06,4,Vacation leave
+NL-381,1,2020-02-03,2020-02-04,2,Vacation leave
+NL-381,1,2020-05-05,2020-05-08,4,Vacation leave
+NL-381,1,2020-02-13,2020-02-15,3,Vacation leave
+NL-381,1,2020-03-18,2020-03-23,6,Vacation leave
+NL-382,1,2018-10-29,2018-10-30,2,Vacation leave
+NL-382,1,2019-03-11,2019-03-15,5,Vacation leave
