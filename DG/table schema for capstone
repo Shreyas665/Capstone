@@ -57,7 +57,6 @@ location_id,
 location_name
 
 
-
 projects table has
 project_id,
 project_name,

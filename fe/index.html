@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HR Data Entry</title>
+  <style>
+    body { font-family: Arial; margin: 20px; }
+    .tabs { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; }
+    .tab { padding: 10px 20px; cursor: pointer; border: 1px solid #aaa; border-radius: 5px; }
+    .tab.active { background-color: #007BFF; color: white; }
+    .form-container { display: none; }
+    .form-container.active { display: block; }
+    form input, form select, form textarea {
+      display: block; margin: 10px 0; padding: 5px; width: 300px;
+    }
+    button { padding: 6px 12px; margin-top: 10px; }
+    table { margin-top: 20px; border-collapse: collapse; width: 100%; }
+    th, td { padding: 8px 12px; border: 1px solid #ccc; text-align: left; }
+    .actions button { margin-right: 5px; }
+  </style>
+</head>
+<body>
+  <h1>HR Data Entry</h1>
+  <div class="tabs">
+    <div class="tab active" data-tab="employees">Employees</div>
+    <div class="tab" data-tab="departments">Departments</div>
+    <div class="tab" data-tab="attendance">Attendance</div>
+    <div class="tab" data-tab="leave-records">Leave Records</div>
+    <div class="tab" data-tab="leave-types">Leave Types</div>
+    <div class="tab" data-tab="locations">Locations</div>
+    <div class="tab" data-tab="job-roles">Job Roles</div>
+    <div class="tab" data-tab="projects">Projects</div>
+    <div class="tab" data-tab="productivity">Productivity</div>
+  </div>
+
+  <div id="forms"></div>
+
+  <script>
+    const tabs = document.querySelectorAll('.tab');
+    const formsContainer = document.getElementById('forms');
+
+    const endpoints = [
+      "employees", "departments", "attendance", "leave-records",
+      "leave-types", "locations", "job-roles", "projects", "productivity"
+    ];
+
+    tabs.forEach(tab => {
+      tab.addEventListener('click', () => {
+        tabs.forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        loadForm(tab.dataset.tab);
+      });
+    });
+
+    async function loadForm(endpoint) {
+      const res = await fetch(`/form/${endpoint}`);
+      const html = await res.text();
+      formsContainer.innerHTML = html;
+      attachHandlers(endpoint);
+      fetchData(endpoint);
+    }
+
+    function attachHandlers(endpoint) {
+      const form = document.getElementById(`${endpoint}Form`);
+      form.onsubmit = async (e) => {
+        e.preventDefault();
+        const formData = new FormData(form);
+        const json = Object.fromEntries(formData.entries());
+        const res = await fetch(`/api/${endpoint}`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(json)
+        });
+        const result = await res.json();
+        alert(result.message || result.error);
+        form.reset();
+        fetchData(endpoint);
+      };
+    }
+
+    async function fetchData(endpoint) {
+      const res = await fetch(`/api/${endpoint}`);
+      const data = await res.json();
+      const table = document.getElementById(`${endpoint}Table`);
+      if (!table) return;
+
+      let html = '<tr>';
+      if (data.length > 0) {
+        Object.keys(data[0]).forEach(k => html += `<th>${k}</th>`);
+        html += '<th>Actions</th></tr>';
+        data.forEach(row => {
+          html += '<tr>';
+          Object.values(row).forEach(v => html += `<td>${v}</td>`);
+          html += `<td class="actions">
+            <button onclick='editRecord("${endpoint}", ${JSON.stringify(row)})'>Edit</button>
+            <button onclick='deleteRecord("${endpoint}", "${row.id || row.employee_id}")'>Delete</button>
+          </td>`;
+          html += '</tr>';
+        });
+      } else {
+        html += '<td colspan="100%">No records found</td></tr>';
+      }
+      table.innerHTML = html;
+    }
+
+    function editRecord(endpoint, data) {
+      Object.entries(data).forEach(([k, v]) => {
+        const field = document.querySelector(`#${endpoint}Form [name="${k}"]`);
+        if (field) field.value = v;
+      });
+    }
+
+    async function deleteRecord(endpoint, id) {
+      const confirmDelete = confirm("Are you sure you want to delete this record?");
+      if (!confirmDelete) return;
+      const res = await fetch(`/api/${endpoint}/${id}`, { method: 'DELETE' });
+      const result = await res.json();
+      alert(result.message || result.error);
+      fetchData(endpoint);
+    }
+
+    loadForm('employees');
+  </script>
+</body>
+</html>
