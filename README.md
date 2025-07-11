@@ -44,8 +44,3 @@ A live HR dashboard was built using Looker Studio for easy visualization and tra
 
 🔗 [Access Dashboard](https://lookerstudio.google.com/u/0/reporting/f715a2b4-0eb1-46ae-bda9-f7b6ee66fc29/page/udYJF)
 
-## ✅ Conclusion
-
-* Time deficits directly impact monthly productivity, highlighting the need for better time management
-* Surplus/deficit analysis reveals performance irregularities and resource planning gaps
-* Balanced task allocation and timely leave management improve overall workforce efficiency
